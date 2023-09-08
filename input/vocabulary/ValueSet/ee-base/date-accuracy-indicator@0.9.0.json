@@ -1,0 +1,35 @@
+{
+  "date" : "2023-05-07T00:00:00Z",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/date-accuracy-indicator"
+  } ],
+  "description" : "Date Accuracy Indicator",
+  "experimental" : true,
+  "title" : "Date Accuracy Indicator",
+  "version" : "0.9.0",
+  "url" : "https://fhir.ee/ValueSet/date-accuracy-indicator",
+  "compose" : {
+    "include" : [ {
+      "system" : "https://fhir.ee/CodeSystem/date-accuracy-indicator",
+      "version" : "0.9.0"
+    } ],
+    "exclude" : [ ],
+    "property" : [ ]
+  },
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "DateAccuracyIndicator",
+  "publisher" : "HL7 Estonia",
+  "id" : "date-accuracy-indicator@0.9.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include all codes defined in <a href=\"CodeSystem-ee-date-accuracy-indicator.html\"><code>https://fhir.ee/CodeSystem/ee-date-accuracy-indicator</code></a></li></ul></div>"
+  },
+  "resourceType" : "ValueSet",
+  "status" : "active"
+}

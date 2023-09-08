@@ -1,0 +1,66 @@
+{
+  "date" : "2023-05-07T00:00:00Z",
+  "purpose" : "",
+  "caseSensitive" : false,
+  "concept" : [ {
+    "code" : "E170",
+    "display" : "Kardioloogia",
+    "property" : [ ]
+  }, {
+    "code" : "E290",
+    "display" : "Pediaatria",
+    "property" : [ ]
+  }, {
+    "code" : "E670",
+    "display" : "Pediaatria allergoloogia lisapädevusega",
+    "property" : [ ]
+  }, {
+    "code" : "N100",
+    "display" : "Intensiivõendus",
+    "property" : [ ]
+  }, {
+    "code" : "N200",
+    "display" : "Kliiniline õendus",
+    "property" : [ ]
+  }, {
+    "code" : "N300",
+    "display" : "Terviseõendus",
+    "property" : [ ]
+  }, {
+    "code" : "N500",
+    "display" : "Õde",
+    "property" : [ ]
+  } ],
+  "description" : "TIS erialade loend",
+  "language" : "en",
+  "experimental" : true,
+  "title" : "TIS erialade loend",
+  "version" : "0.9.0",
+  "url" : "https://fhir.ee/CodeSystem/eriala",
+  "content" : "fragment",
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "EEBaseEriala",
+  "property" : [ {
+    "code" : "definition",
+    "description" : "Definition",
+    "type" : "string"
+  }, {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  } ],
+  "publisher" : "HL7 Estonia",
+  "id" : "eriala@0.9.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>This code system <code>https://fhir.ee/CodeSystem/ee-eriala</code> defines the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\">E170<a name=\"ee-eriala-E170\"> </a></td><td>Kardioloogia</td></tr><tr><td style=\"white-space:nowrap\">E290<a name=\"ee-eriala-E290\"> </a></td><td>Pediaatria</td></tr><tr><td style=\"white-space:nowrap\">E670<a name=\"ee-eriala-E670\"> </a></td><td>Pediaatria allergoloogia lisapädevusega</td></tr><tr><td style=\"white-space:nowrap\">N100<a name=\"ee-eriala-N100\"> </a></td><td>Intensiivõendus</td></tr><tr><td style=\"white-space:nowrap\">N200<a name=\"ee-eriala-N200\"> </a></td><td>Kliiniline õendus</td></tr><tr><td style=\"white-space:nowrap\">N300<a name=\"ee-eriala-N300\"> </a></td><td>Terviseõendus</td></tr><tr><td style=\"white-space:nowrap\">N500<a name=\"ee-eriala-N500\"> </a></td><td>Õde</td></tr></table></div>"
+  },
+  "resourceType" : "CodeSystem",
+  "status" : "active"
+}

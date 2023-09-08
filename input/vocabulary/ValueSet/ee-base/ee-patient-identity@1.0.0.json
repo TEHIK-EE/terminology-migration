@@ -1,0 +1,72 @@
+{
+  "date" : "2023-09-01T00:00:00Z",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/ee-patient-identity"
+  } ],
+  "purpose" : "",
+  "jurisdiction" : [ {
+    "text" : "EE"
+  } ],
+  "description" : "Identity systems acceptable for patient identification",
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Person Identity System"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "language" : "et",
+  "experimental" : false,
+  "title" : "Person Identity System",
+  "version" : "1.0.0",
+  "url" : "https://fhir.ee/ValueSet/ee-patient-identity",
+  "compose" : {
+    "include" : [ {
+      "system" : "https://fhir.ee/CodeSystem/ee-identity-system",
+      "version" : "1.0.0",
+      "filter" : [ {
+        "property" : "concept",
+        "op" : "is-a",
+        "value" : "\"https://fhir.ee/sid/pid\""
+      }, {
+        "property" : "notSelectable",
+        "value" : "false"
+      } ]
+    } ],
+    "exclude" : [ ],
+    "property" : [ ]
+  },
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "EEBasePatientIdentity",
+  "publisher" : "HL7 Estonia",
+  "id" : "ee-patient-identity@1.0.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
+  },
+  "_description" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Identity systems acceptable for patient identification"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "resourceType" : "ValueSet",
+  "status" : "draft"
+}

@@ -1,0 +1,35 @@
+{
+  "date" : "2023-05-07T00:00:00Z",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/eriala"
+  } ],
+  "description" : "Eriala (kutse)",
+  "experimental" : true,
+  "title" : "Eriala (kutse)",
+  "version" : "0.9.0",
+  "url" : "https://fhir.ee/ValueSet/eriala",
+  "compose" : {
+    "include" : [ {
+      "system" : "https://fhir.ee/CodeSystem/eriala",
+      "version" : "0.9.0"
+    } ],
+    "exclude" : [ ],
+    "property" : [ ]
+  },
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "EEBaseEriala",
+  "publisher" : "HL7 Estonia",
+  "id" : "eriala@0.9.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include all codes defined in <a href=\"CodeSystem-ee-eriala.html\"><code>https://fhir.ee/CodeSystem/ee-eriala</code></a></li></ul></div>"
+  },
+  "resourceType" : "ValueSet",
+  "status" : "active"
+}

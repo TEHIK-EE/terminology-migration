@@ -1,0 +1,41 @@
+{
+  "date" : "2023-09-04T00:00:00Z",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/ee-person-relationship"
+  } ],
+  "copyright" : "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement",
+  "description" : "Person relationship",
+  "experimental" : true,
+  "title" : "Person Relationship",
+  "version" : "1.0.0",
+  "url" : "https://fhir.ee/ValueSet/ee-person-relationship",
+  "compose" : {
+    "include" : [ {
+      "system" : "http://snomed.info/sct",
+      "version" : "MAIN%2FSNOMEDCT-EE",
+      "filter" : [ {
+        "property" : "concept",
+        "op" : "descendant-of",
+        "value" : "\"125676002\""
+      } ]
+    } ],
+    "exclude" : [ ],
+    "property" : [ ]
+  },
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "EEBasePersonRelationship",
+  "publisher" : "HL7 Estonia",
+  "id" : "ee-person-relationship@1.0.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
+  },
+  "resourceType" : "ValueSet",
+  "status" : "draft"
+}

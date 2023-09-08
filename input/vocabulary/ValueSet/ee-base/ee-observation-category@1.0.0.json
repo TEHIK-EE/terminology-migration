@@ -1,0 +1,35 @@
+{
+  "date" : "2023-09-04T00:00:00Z",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/ee-observation-category"
+  } ],
+  "description" : "Observation category",
+  "experimental" : true,
+  "title" : "Observation Category",
+  "version" : "1.0.0",
+  "url" : "https://fhir.ee/ValueSet/ee-observation-category",
+  "compose" : {
+    "include" : [ {
+      "system" : "http://terminology.hl7.org/CodeSystem/observation-category",
+      "version" : "4.3.0"
+    } ],
+    "exclude" : [ ],
+    "property" : [ ]
+  },
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "name" : "EEBaseObservationCategory",
+  "publisher" : "HL7 Estonia",
+  "id" : "ee-observation-category@1.0.0",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
+  },
+  "resourceType" : "ValueSet",
+  "status" : "draft"
+}
