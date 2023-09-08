@@ -1,31 +1,34 @@
 {
-  "date" : "2023-09-01T00:00:00Z",
+  "id" : "ee-patient-identity@1.0.0",
+  "language" : "et",
+  "resourceType" : "ValueSet",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
+  },
   "extension" : [ {
     "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
     "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/ee-patient-identity"
   } ],
-  "purpose" : "",
+  "url" : "https://fhir.ee/ValueSet/ee-patient-identity",
+  "version" : "1.0.0",
+  "name" : "EEBasePatientIdentity",
+  "title" : "Person Identity System",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-09-01T00:00:00Z",
+  "publisher" : "HL7 Estonia",
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "description" : "Identity systems acceptable for patient identification",
   "jurisdiction" : [ {
     "text" : "EE"
   } ],
-  "description" : "Identity systems acceptable for patient identification",
-  "_title" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Person Identity System"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
-    } ]
-  },
-  "language" : "et",
-  "experimental" : false,
-  "title" : "Person Identity System",
-  "version" : "1.0.0",
-  "url" : "https://fhir.ee/ValueSet/ee-patient-identity",
+  "purpose" : "",
   "compose" : {
     "include" : [ {
       "system" : "https://fhir.ee/CodeSystem/ee-identity-system",
@@ -42,18 +45,17 @@
     "exclude" : [ ],
     "property" : [ ]
   },
-  "contact" : [ {
-    "name" : "HL7 Estonia",
-    "telecom" : [ {
-      "system" : "url",
-      "value" : "https://www.hl7.ee"
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Person Identity System"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
     } ]
-  } ],
-  "name" : "EEBasePatientIdentity",
-  "publisher" : "HL7 Estonia",
-  "id" : "ee-patient-identity@1.0.0",
-  "text" : {
-    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
   "_description" : {
     "extension" : [ {
@@ -66,7 +68,5 @@
       } ],
       "url" : "http://hl7.org/fhir/StructureDefinition/translation"
     } ]
-  },
-  "resourceType" : "ValueSet",
-  "status" : "draft"
+  }
 }
