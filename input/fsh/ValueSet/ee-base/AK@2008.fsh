@@ -15,7 +15,6 @@ Title: "Ametite klassifikaator"
 * ^contact.name = "HL7 Estonia"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
-* ^purpose = ""
 * ^compose.property[0] = "parent"
 * ^compose.property[+] = "status"
 * include codes from system https://fhir.ee/CodeSystem/AK|2008

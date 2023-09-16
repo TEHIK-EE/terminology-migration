@@ -1,7 +1,7 @@
 {
+  "resourceType" : "ValueSet",
   "id" : "ee-patient-identity@1.0.0",
   "language" : "et",
-  "resourceType" : "ValueSet",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
@@ -28,7 +28,6 @@
   "jurisdiction" : [ {
     "text" : "EE"
   } ],
-  "purpose" : "",
   "compose" : {
     "include" : [ {
       "system" : "https://fhir.ee/CodeSystem/ee-identity-system",
@@ -41,10 +40,9 @@
         "property" : "notSelectable",
         "value" : "false"
       } ]
-    } ],
-    "exclude" : [ ],
-    "property" : [ ]
+    } ]
   },
+  "_purpose" : { },
   "_title" : {
     "extension" : [ {
       "extension" : [ {

@@ -13,7 +13,6 @@ Description: "TIS erialade loend"
 * ^contact.name = "HL7 Estonia"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
-* ^purpose = ""
 * ^caseSensitive = false
 * ^content = #fragment
 * ^property[0].code = #definition

@@ -16,7 +16,6 @@ Description: "Identity systems acceptable for patient identification"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
 * ^jurisdiction.text = "EE"
-* ^purpose = ""
 * include codes from system https://fhir.ee/CodeSystem/ee-identity-system|1.0.0
     where concept is-a #"https://fhir.ee/sid/pid" and
     notSelectable undefined "false"

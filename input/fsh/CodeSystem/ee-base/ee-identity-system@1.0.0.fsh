@@ -14,7 +14,6 @@ Description: "Description of the identity system concepts acceptable for entity 
 * ^contact.name = "HL7 Estonia"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
-* ^purpose = ""
 * ^copyright = "Apache-2.0"
 * ^caseSensitive = false
 * ^hierarchyMeaning = #is-a

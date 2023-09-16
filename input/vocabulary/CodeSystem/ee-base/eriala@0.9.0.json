@@ -1,7 +1,7 @@
 {
+  "resourceType" : "CodeSystem",
   "id" : "eriala@0.9.0",
   "language" : "en",
-  "resourceType" : "CodeSystem",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>This code system <code>https://fhir.ee/CodeSystem/ee-eriala</code> defines the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\">E170<a name=\"ee-eriala-E170\"> </a></td><td>Kardioloogia</td></tr><tr><td style=\"white-space:nowrap\">E290<a name=\"ee-eriala-E290\"> </a></td><td>Pediaatria</td></tr><tr><td style=\"white-space:nowrap\">E670<a name=\"ee-eriala-E670\"> </a></td><td>Pediaatria allergoloogia lisapädevusega</td></tr><tr><td style=\"white-space:nowrap\">N100<a name=\"ee-eriala-N100\"> </a></td><td>Intensiivõendus</td></tr><tr><td style=\"white-space:nowrap\">N200<a name=\"ee-eriala-N200\"> </a></td><td>Kliiniline õendus</td></tr><tr><td style=\"white-space:nowrap\">N300<a name=\"ee-eriala-N300\"> </a></td><td>Terviseõendus</td></tr><tr><td style=\"white-space:nowrap\">N500<a name=\"ee-eriala-N500\"> </a></td><td>Õde</td></tr></table></div>"
   },
@@ -21,7 +21,6 @@
     } ]
   } ],
   "description" : "TIS erialade loend",
-  "purpose" : "",
   "caseSensitive" : false,
   "content" : "fragment",
   "property" : [ {
@@ -36,31 +35,27 @@
   } ],
   "concept" : [ {
     "code" : "E170",
-    "display" : "Kardioloogia",
-    "property" : [ ]
+    "display" : "Kardioloogia"
   }, {
     "code" : "E290",
-    "display" : "Pediaatria",
-    "property" : [ ]
+    "display" : "Pediaatria"
   }, {
     "code" : "E670",
-    "display" : "Pediaatria allergoloogia lisapädevusega",
-    "property" : [ ]
+    "display" : "Pediaatria allergoloogia lisapädevusega"
   }, {
     "code" : "N100",
-    "display" : "Intensiivõendus",
-    "property" : [ ]
+    "display" : "Intensiivõendus"
   }, {
     "code" : "N200",
-    "display" : "Kliiniline õendus",
-    "property" : [ ]
+    "display" : "Kliiniline õendus"
   }, {
     "code" : "N300",
-    "display" : "Terviseõendus",
-    "property" : [ ]
+    "display" : "Terviseõendus"
   }, {
     "code" : "N500",
-    "display" : "Õde",
-    "property" : [ ]
-  } ]
+    "display" : "Õde"
+  } ],
+  "_purpose" : { },
+  "_title" : { },
+  "_description" : { }
 }

@@ -1,6 +1,6 @@
 {
-  "id" : "ee-mode-of-arrival@1.0.0",
   "resourceType" : "ValueSet",
+  "id" : "ee-mode-of-arrival@1.0.0",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
@@ -31,8 +31,9 @@
       "version" : "2.1.0"
     }, {
       "system" : "https://fhir.ee/CodeSystem/ee-mode-of-arrival"
-    } ],
-    "exclude" : [ ],
-    "property" : [ ]
-  }
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : { },
+  "_description" : { }
 }

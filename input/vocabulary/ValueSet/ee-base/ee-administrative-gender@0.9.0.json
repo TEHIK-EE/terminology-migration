@@ -1,6 +1,6 @@
 {
-  "id" : "ee-administrative-gender@0.9.0",
   "resourceType" : "ValueSet",
+  "id" : "ee-administrative-gender@0.9.0",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><ul><li>Include these codes as defined in <a href=\"http://hl7.org/fhir/R5/codesystem-administrative-gender.html\"><code>http://hl7.org/fhir/administrative-gender</code></a><table class=\"none\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td><td><b>Definition</b></td><td><b>Estonian (et)</b></td></tr><tr><td><a href=\"http://hl7.org/fhir/R5/codesystem-administrative-gender.html#administrative-gender-male\">male</a></td><td>Male</td><td>Male.</td><td>Mees</td></tr><tr><td><a href=\"http://hl7.org/fhir/R5/codesystem-administrative-gender.html#administrative-gender-female\">female</a></td><td>Female</td><td>Female.</td><td>Naine</td></tr><tr><td><a href=\"http://hl7.org/fhir/R5/codesystem-administrative-gender.html#administrative-gender-unknown\">unknown</a></td><td>Unknown</td><td>Unknown.</td><td>Tundmatu</td></tr></table></li></ul></div>"
   },
@@ -47,8 +47,9 @@
           "value" : "Tundmatu"
         } ]
       } ]
-    } ],
-    "exclude" : [ ],
-    "property" : [ ]
-  }
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : { },
+  "_description" : { }
 }

@@ -1,7 +1,7 @@
 {
+  "resourceType" : "ValueSet",
   "id" : "AK@2008",
   "language" : "et",
-  "resourceType" : "ValueSet",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
@@ -25,16 +25,14 @@
       "value" : "https://www.hl7.ee"
     } ]
   } ],
-  "description" : "",
-  "purpose" : "",
   "compose" : {
     "include" : [ {
       "system" : "https://fhir.ee/CodeSystem/AK",
       "version" : "2008"
     } ],
-    "exclude" : [ ],
     "property" : [ "parent", "status" ]
   },
+  "_purpose" : { },
   "_title" : {
     "extension" : [ {
       "extension" : [ {
@@ -46,5 +44,6 @@
       } ],
       "url" : "http://hl7.org/fhir/StructureDefinition/translation"
     } ]
-  }
+  },
+  "_description" : { }
 }

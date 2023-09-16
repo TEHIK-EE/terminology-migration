@@ -1,6 +1,6 @@
 {
-  "id" : "ee-person-relationship@1.0.0",
   "resourceType" : "ValueSet",
+  "id" : "ee-person-relationship@1.0.0",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
@@ -34,8 +34,9 @@
         "op" : "descendant-of",
         "value" : "\"125676002\""
       } ]
-    } ],
-    "exclude" : [ ],
-    "property" : [ ]
-  }
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : { },
+  "_description" : { }
 }

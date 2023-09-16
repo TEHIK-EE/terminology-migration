@@ -13,7 +13,6 @@ Description: "Date Accuracy Indicator. Check full list here https://www.healthte
 * ^contact.name = "HL7 Estonia"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
-* ^purpose = ""
 * ^caseSensitive = false
 * ^content = #complete
 * ^property[0].code = #definition

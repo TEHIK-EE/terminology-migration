@@ -1,7 +1,7 @@
 {
+  "resourceType" : "CodeSystem",
   "id" : "ee-identity-system@1.0.0",
   "language" : "et",
-  "resourceType" : "CodeSystem",
   "text" : {
     "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\">Placeholder</div>"
   },
@@ -22,7 +22,6 @@
     } ]
   } ],
   "description" : "Description of the identity system concepts acceptable for entity identification",
-  "purpose" : "",
   "copyright" : "Apache-2.0",
   "caseSensitive" : false,
   "hierarchyMeaning" : "is-a",
@@ -11737,6 +11736,7 @@
       } ]
     } ]
   } ],
+  "_purpose" : { },
   "_title" : {
     "extension" : [ {
       "extension" : [ {
