@@ -1,0 +1,36 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "mtk-elektrokardiostimulatsiooni-rezhiim@1",
+  "language" : "et",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/mtk-elektrokardiostimulatsiooni-rezhiim"
+  } ],
+  "url" : "https://fhir.ee/ValueSet/mtk-elektrokardiostimulatsiooni-rezhiim",
+  "version" : "1",
+  "title" : "Elektrokardiostimulatsiooni režiim",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "compose" : {
+    "include" : [ {
+      "system" : "https://fhir.ee/CodeSystem/mtk-elektrokardiostimulatsiooni-rezhiim",
+      "version" : "1.0.0"
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Electrocardiostimulation mode"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

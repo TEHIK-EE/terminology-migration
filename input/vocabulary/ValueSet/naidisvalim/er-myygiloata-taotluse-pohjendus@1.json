@@ -1,0 +1,35 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "er-myygiloata-taotluse-pohjendus@1",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/er-myygiloata-taotluse-pohjendus"
+  } ],
+  "url" : "https://fhir.ee/ValueSet/er-myygiloata-taotluse-pohjendus",
+  "version" : "1",
+  "title" : "Justification of the authorization application",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "compose" : {
+    "include" : [ {
+      "system" : "https://fhir.ee/CodeSystem/er-myygiloata-taotluse-pohjendus",
+      "version" : "1.0.0"
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "et"
+      }, {
+        "url" : "content",
+        "valueString" : "ER Müügiloata taotluse põhjendus"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

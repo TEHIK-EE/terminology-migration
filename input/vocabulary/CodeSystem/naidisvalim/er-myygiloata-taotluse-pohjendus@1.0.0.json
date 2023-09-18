@@ -1,0 +1,61 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "er-myygiloata-taotluse-pohjendus@1.0.0",
+  "language" : "et",
+  "url" : "https://fhir.ee/CodeSystem/er-myygiloata-taotluse-pohjendus",
+  "version" : "1.0.0",
+  "versionAlgorithmString" : "semver",
+  "name" : "ERMyygiloataTaotlusePohjendus",
+  "title" : "ER Müügiloata taotluse põhjendus",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "caseSensitive" : false,
+  "content" : "complete",
+  "property" : [ {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  } ],
+  "concept" : [ {
+    "code" : "ML01",
+    "display" : "Eestis puudub haiguse/seisundi raviks müügiloaga ravim"
+  }, {
+    "code" : "ML02",
+    "display" : "Müügiloaga ravimitel puudub sobiv ravimvorm"
+  }, {
+    "code" : "ML03",
+    "display" : "Müügiloaga ravimitel puudub sobiv tugevus (toimeaine sisaldus)"
+  }, {
+    "code" : "ML04",
+    "display" : "Müügiloaga ravimitel puudub sobiv pakend (kogus pakendis, materjal vm)"
+  }, {
+    "code" : "ML05",
+    "display" : "Kõik sobivad müügiloaga ravimid põhjustavad kõrvaltoimeid"
+  }, {
+    "code" : "ML06",
+    "display" : "Ükski müügiloaga ravim ei ole olnud piisavalt efektiivne"
+  }, {
+    "code" : "ML07",
+    "display" : "Eriarsti poolt määratud püsiravi"
+  }, {
+    "code" : "ML08",
+    "display" : "Muu meditsiiniline põhjus (lisada põhjendatud selgitus)"
+  } ],
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Justification of the authorization application"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

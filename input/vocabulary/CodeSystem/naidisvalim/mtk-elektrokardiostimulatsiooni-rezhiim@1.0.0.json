@@ -1,0 +1,62 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "mtk-elektrokardiostimulatsiooni-rezhiim@1.0.0",
+  "language" : "et",
+  "url" : "https://fhir.ee/CodeSystem/mtk-elektrokardiostimulatsiooni-rezhiim",
+  "version" : "1.0.0",
+  "versionAlgorithmString" : "semver",
+  "name" : "MTKElektrokardiostimulatsiooniRezhiim",
+  "title" : "Elektrokardiostimulatsiooni režiim",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "caseSensitive" : false,
+  "content" : "complete",
+  "property" : [ {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  }, {
+    "code" : "synonym",
+    "uri" : "http://hl7.org/fhir/concept-properties#synonym",
+    "description" : "Synonym",
+    "type" : "string"
+  } ],
+  "concept" : [ {
+    "code" : "A",
+    "display" : "demand",
+    "designation" : [ {
+      "language" : "et",
+      "use" : {
+        "code" : "synonym"
+      },
+      "value" : "demand"
+    } ]
+  }, {
+    "code" : "B",
+    "display" : "nondemand/fikseeritud",
+    "designation" : [ {
+      "language" : "et",
+      "use" : {
+        "code" : "synonym"
+      },
+      "value" : "fikseeritud"
+    } ]
+  } ],
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Electrocardiostimulation mode"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

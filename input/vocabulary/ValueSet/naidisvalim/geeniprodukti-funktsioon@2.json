@@ -1,0 +1,111 @@
+{
+  "resourceType" : "ValueSet",
+  "id" : "geeniprodukti-funktsioon@2",
+  "language" : "et",
+  "extension" : [ {
+    "url" : "http://hl7.org/fhir/tools/StructureDefinition/web-source",
+    "valueUrl" : "https://termx.kodality.dev/fhir/ValueSet/geeniprodukti-funktsioon"
+  } ],
+  "url" : "https://fhir.ee/ValueSet/geeniprodukti-funktsioon",
+  "version" : "2",
+  "versionAlgorithmString" : "integer",
+  "name" : "GeeniproduktiFunktsioon",
+  "title" : "Farmakogeneetilise uuringu (geeniprodukti funktsioon) vastus",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "compose" : {
+    "include" : [ {
+      "system" : "http://snomed.info/sct",
+      "version" : "11000181102",
+      "concept" : [ {
+        "code" : "3381000181101",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Suurenenud geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Increased gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "3391000181104",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Tavapärane geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Normal gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "3401000181101",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Vähenenud geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Decreased gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "3451000181100",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Puudulik geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Poor gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "56761000181106",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Määramatu geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Indeterminate gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "56751000181108",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Võimalik vähenenud geeniprodukti funktsioon"
+        }, {
+          "language" : "en",
+          "value" : "Possible decreased gene product function (qualifier value)"
+        } ]
+      }, {
+        "code" : "56771000181101",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Soodsa vastusega genotüüp"
+        }, {
+          "language" : "en",
+          "value" : "Favorable response genotype (qualifier value)"
+        } ]
+      }, {
+        "code" : "56781000181104",
+        "designation" : [ {
+          "language" : "et",
+          "value" : "Ebasoodsa vastusega genotüüp"
+        }, {
+          "language" : "en",
+          "value" : "Unfavorable response genotype (qualifier value)"
+        } ]
+      } ]
+    } ]
+  },
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Pharmacogenetic study (gene product function) response"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

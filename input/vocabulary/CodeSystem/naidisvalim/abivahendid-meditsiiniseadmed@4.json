@@ -1,0 +1,1043 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "abivahendid-meditsiiniseadmed@4",
+  "language" : "et",
+  "url" : "https://fhir.ee/CodeSystem/abivahendid-ja-meditsiiniseadmed-supplement",
+  "identifier" : [ {
+    "system" : "https://pub.e-tervis.ee/classifications",
+    "value" : "1.3.6.1.4.1.28284.6.2.1.321"
+  } ],
+  "version" : "4",
+  "versionAlgorithmString" : "integer",
+  "name" : "AbivahendidMeditsiiniseadmed",
+  "title" : "Abivahendid ja meditsiiniseadmed",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-05-30T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "caseSensitive" : false,
+  "hierarchyMeaning" : "is-a",
+  "content" : "complete",
+  "supplements" : "http://snomed.info/sct",
+  "property" : [ {
+    "code" : "comment",
+    "uri" : "http://hl7.org/fhir/concept-properties#comment",
+    "description" : "Comment",
+    "type" : "string"
+  }, {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  }, {
+    "code" : "procedure-modifier",
+    "uri" : "procedure-modifier",
+    "type" : "Coding"
+  }, {
+    "code" : "retirementDate",
+    "uri" : "http://hl7.org/fhir/concept-properties#retirementDate",
+    "description" : "Retirement Date",
+    "type" : "dateTime"
+  }, {
+    "code" : "status",
+    "type" : "boolean"
+  } ],
+  "concept" : [ {
+    "code" : "182587004",
+    "display" : "Kehaasendit toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Kehaasendit toetav -> Kehaasendit toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "466310001",
+      "display" : "Asendipadi",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469268002",
+      "display" : "Lamatisevastane padi",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Tunnistatud kehtetuks, seda asendab: 469877004"
+      }, {
+        "code" : "retirementDate",
+        "valueDateTime" : "2021-11-30T00:00:00Z"
+      }, {
+        "code" : "status",
+        "valueBoolean" : false
+      } ]
+    }, {
+      "code" : "469356008",
+      "display" : "Lamatisevastane madrats",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469877004",
+      "display" : "Lamatisevastane padi",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Asendab kehtetuks tunnistatud väärtust: 469268002"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "705401004",
+      "display" : "Funktsionaalne voodi",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "183135000",
+    "display" : "Liikumist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Liikumist toetav -> Liikumist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "1256022003",
+      "display" : "Käimislaud",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Asendab kehtetuks tunnistatud väärtust 466986006"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "228869008",
+      "display" : "Käsiratastool",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "23366006",
+      "display" : "Elektriline ratastool",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "360299009",
+      "display" : "Valge kepp",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "37299003",
+      "display" : "Kolmerattaline jalgratas",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "404946006",
+      "display" : "Rulaator",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "464157006",
+      "display" : "Harkkepp",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "464776002",
+      "display" : "Trepironija",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "465556004",
+      "display" : "Kepp",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "465562009",
+      "display" : "Kaenlakark",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466382000",
+      "display" : "Käimisraam",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466986006",
+      "display" : "Käimislaud",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Tunnistatud kehtetuks, seda asendab 1256022003"
+      }, {
+        "code" : "retirementDate",
+        "valueDateTime" : "2023-05-30T00:00:00Z"
+      }, {
+        "code" : "status",
+        "valueBoolean" : false
+      } ]
+    }, {
+      "code" : "468646006",
+      "display" : "Küünarkark",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "224898003",
+    "display" : "Ortoos",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "276180004",
+      "display" : "Kaela ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "462505002",
+      "display" : "Hüppeliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "462744008",
+      "display" : "Labakäe ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466078009",
+      "display" : "Õlaliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466215009",
+      "display" : "Randmeliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "468877006",
+      "display" : "Küünarliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469252008",
+      "display" : "Labajala ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469271005",
+      "display" : "Nimme ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "470672002",
+      "display" : "Põlveliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "470732004",
+      "display" : "Puusaliigese ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "774005004",
+      "display" : "Rindkere ortoos",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "257192006",
+    "display" : "Nägemist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Nägemist toetav -> Nägemist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "264865009",
+      "display" : "Suurendusklaas",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Korrigeeritud SNOMED CT FSN: Magnifier (physical object) -> Optical near vision magnifier (physical object)"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "414928009",
+      "display" : "Silmaprotees",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "50121007",
+      "display" : "Prillid",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "57368009",
+      "display" : "Kontaktläätsed",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "277973009",
+    "display" : "Hingamist toetav seade",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Hingamist toetav -> Hingamist toetav seade"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "14519003",
+      "display" : "Aspiraator",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "261746005",
+      "display" : "Tsentraalne lisahapnik",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Asendab kehtetuks tunnistatud väärtust: 336596001"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "272265001",
+      "display" : "Uneapnoe aparaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "334980009",
+      "display" : "Inhalaator",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "336596001",
+      "display" : "Lisahapnik",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Tunnistatud kehtetuks, seda asendab 261746005"
+      }, {
+        "code" : "retirementDate",
+        "valueDateTime" : "2021-11-30T00:00:00Z"
+      }, {
+        "code" : "status",
+        "valueBoolean" : false
+      } ]
+    }, {
+      "code" : "336621006",
+      "display" : "Hapnikukontsentraator",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "706172005",
+      "display" : "Hingamisaparaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "706226000",
+      "display" : "CPAP mask",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "303476002",
+    "display" : "Südametegevust toetav seade",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Südametegevust toetav -> Südametegevust toetav seade"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "14106009",
+      "display" : "Südamestimulaator",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "39690000",
+      "display" : "Vererõhuaparaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "3611000181101",
+    "display" : "Muu seade",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Asendab kehtetuks tunnistatud väärtust: 74964007"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ]
+  }, {
+    "code" : "6012004",
+    "display" : "Kuulmist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Kuulmist toetav -> Kuulmist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "43252007",
+      "display" : "Kohleaarimplantaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "467138008",
+      "display" : "Kõrvatagune kuuldeaparaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469512007",
+      "display" : "Kõrvasisene kuuldeaparaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "705330007",
+    "display" : "Isiklikku hügieeni toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Isiklikku hügieeni toetav -> Isiklikku hügieeni toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "1141889003",
+      "display" : "Kaitsepüksid",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Asendab kehtetuks tunnistatud väärtust: 470244000"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "360005000",
+      "display" : "Uriinipudel",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "360008003",
+      "display" : "Potitool",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "369443003",
+      "display" : "Siiber",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "439579002",
+      "display" : "Inkontinentsiside",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "463435001",
+      "display" : "Potikõrgendus",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466484000",
+      "display" : "Pesuraam",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "466788003",
+      "display" : "Libisemisvastane matt",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "467153000",
+      "display" : "Vanniiste",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "467158009",
+      "display" : "Dušitool",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "468557007",
+      "display" : "Mähe",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "470244000",
+      "display" : "Kaitsepüksid",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "comment",
+        "valueString" : "Tunnistatud kehtetuks, seda asendab: 1141889003"
+      }, {
+        "code" : "retirementDate",
+        "valueDateTime" : "2021-11-30T00:00:00Z"
+      }, {
+        "code" : "status",
+        "valueBoolean" : false
+      } ]
+    }, {
+      "code" : "705397007",
+      "display" : "Käsipuu",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "705332004",
+    "display" : "Riietumist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Riietumist toetav -> Riietumist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "464622009",
+      "display" : "Riietumiskonks",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "465059003",
+      "display" : "Nööpija",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "465798003",
+      "display" : "Luku kinnitõmbaja",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "700831003",
+      "display" : "Haarats",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "700862004",
+      "display" : "Soki-/sukajalgatõmbaja",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "705371001",
+    "display" : "Suhtlemist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Suhtlemist toetav -> Suhtlemist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "705374009",
+      "display" : "Kirjutamiseks vajalik vahend",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "717314007",
+      "display" : "Kommunikatsioonitahvel",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "705383004",
+    "display" : "Söömist või joomist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Söömist või joomist toetav -> Söömist või joomist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "464180003",
+      "display" : "Kohandatud söögiriistad",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "464539002",
+      "display" : "Kohandatud sööginõu",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "464653006",
+      "display" : "Kohandatud tass",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "705413009",
+    "display" : "Siirdumist toetav vahend",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Muudetud nimetust Siirdumist toetav -> Siirdumist toetav vahend"
+    }, {
+      "code" : "status",
+      "valueBoolean" : true
+    } ],
+    "concept" : [ {
+      "code" : "422915004",
+      "display" : "Vooditrapets",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "462366004",
+      "display" : "Libistamislina",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "462487005",
+      "display" : "Pööramisplaat",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "462599001",
+      "display" : "Libistamislaud",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "469883001",
+      "display" : "Tõsterihm",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    }, {
+      "code" : "706112002",
+      "display" : "Invatõstuk",
+      "property" : [ {
+        "code" : "status",
+        "valueCode" : "active"
+      }, {
+        "code" : "status",
+        "valueBoolean" : true
+      } ]
+    } ]
+  }, {
+    "code" : "74964007",
+    "display" : "Muu, täpsustage",
+    "property" : [ {
+      "code" : "status",
+      "valueCode" : "active"
+    }, {
+      "code" : "comment",
+      "valueString" : "Tunnistatud kehtetuks, seda asendab: 3611000181101"
+    }, {
+      "code" : "retirementDate",
+      "valueDateTime" : "2021-11-30T00:00:00Z"
+    }, {
+      "code" : "status",
+      "valueBoolean" : false
+    } ]
+  } ],
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Aids and medical equipment"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}

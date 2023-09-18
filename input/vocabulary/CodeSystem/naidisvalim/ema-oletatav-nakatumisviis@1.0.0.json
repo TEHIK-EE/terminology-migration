@@ -1,0 +1,48 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "ema-oletatav-nakatumisviis@1.0.0",
+  "language" : "et",
+  "url" : "https://fhir.ee/CodeSystem/ema-oletatav-nakatumisviis",
+  "version" : "1.0.0",
+  "versionAlgorithmString" : "semver",
+  "title" : "Emalt nakkuse saanu ema oletatav nakatumise viis",
+  "status" : "draft",
+  "experimental" : false,
+  "date" : "2023-08-24T00:00:00Z",
+  "publisher" : "fhir.ee",
+  "caseSensitive" : false,
+  "content" : "complete",
+  "property" : [ {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  } ],
+  "concept" : [ {
+    "code" : "MOTHER_SPREAD_BLOOD",
+    "display" : "vere/verekomponentide/plasma ülekanne"
+  }, {
+    "code" : "MOTHER_SPREAD_INJECT",
+    "display" : "ühise süstimisvarustuse/süsteaine kasutus"
+  }, {
+    "code" : "MOTHER_SPREAD_OTHER",
+    "display" : "muu  (kirjutada)"
+  }, {
+    "code" : "MOTHER_SPREAD_SEX",
+    "display" : "seksuaalsel teel"
+  } ],
+  "_purpose" : { },
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Presumed mode of infection of a mother who acquired the infection from her mother"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
+  "_description" : { }
+}
