@@ -35,8 +35,5 @@
     "code" : "PV",
     "display" : "Police Vehicle",
     "definition" : "Police Vehicle"
-  } ],
-  "_purpose" : { },
-  "_title" : { },
-  "_description" : { }
+  } ]
 }

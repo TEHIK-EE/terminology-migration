@@ -13,6 +13,18 @@
   "version" : "1.0.0",
   "name" : "EEBasePatientIdentity",
   "title" : "Person Identity System",
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Person Identity System"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
   "status" : "draft",
   "experimental" : false,
   "date" : "2023-09-01T00:00:00Z",
@@ -25,6 +37,18 @@
     } ]
   } ],
   "description" : "Identity systems acceptable for patient identification",
+  "_description" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Identity systems acceptable for patient identification"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
   "jurisdiction" : [ {
     "text" : "EE"
   } ],
@@ -40,31 +64,6 @@
         "property" : "notSelectable",
         "value" : "false"
       } ]
-    } ]
-  },
-  "_purpose" : { },
-  "_title" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Person Identity System"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
-    } ]
-  },
-  "_description" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Identity systems acceptable for patient identification"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
     } ]
   }
 }

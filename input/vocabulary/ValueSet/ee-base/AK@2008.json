@@ -14,6 +14,18 @@
   "versionAlgorithmString" : "integer",
   "name" : "AK",
   "title" : "Ametite klassifikaator",
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Classification of Occupations"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
   "status" : "draft",
   "experimental" : true,
   "date" : "2023-09-04T00:00:00Z",
@@ -31,19 +43,5 @@
       "version" : "2008"
     } ],
     "property" : [ "parent", "status" ]
-  },
-  "_purpose" : { },
-  "_title" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Classification of Occupations"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
-    } ]
-  },
-  "_description" : { }
+  }
 }

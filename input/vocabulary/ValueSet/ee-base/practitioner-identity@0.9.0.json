@@ -34,8 +34,5 @@
         "code" : "https://fhir.ee/sid/pro/est/pho"
       } ]
     } ]
-  },
-  "_purpose" : { },
-  "_title" : { },
-  "_description" : { }
+  }
 }

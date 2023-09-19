@@ -13,6 +13,7 @@ Description: "The content of this code system is intended to supplement HL7's co
 * ^contact.name = "HL7 Estonia"
 * ^contact.telecom.system = #url
 * ^contact.telecom.value = "https://www.hl7.ee"
+* ^purpose = "Underlying Master Code System for V2 table 0430 (Mode of Arrival Code)"
 * ^caseSensitive = false
 * ^content = #complete
 * ^property[0].code = #definition

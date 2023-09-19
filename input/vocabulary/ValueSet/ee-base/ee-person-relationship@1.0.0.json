@@ -28,15 +28,12 @@
   "compose" : {
     "include" : [ {
       "system" : "http://snomed.info/sct",
-      "version" : "MAIN%2FSNOMEDCT-EE",
+      "version" : "11000181102",
       "filter" : [ {
         "property" : "concept",
         "op" : "descendant-of",
         "value" : "\"125676002\""
       } ]
     } ]
-  },
-  "_purpose" : { },
-  "_title" : { },
-  "_description" : { }
+  }
 }

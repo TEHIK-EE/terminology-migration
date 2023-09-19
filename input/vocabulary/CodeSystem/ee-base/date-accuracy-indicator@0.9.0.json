@@ -53,8 +53,5 @@
     "code" : "UUU",
     "display" : "N/A",
     "definition" : "Day, month and year are unknown"
-  } ],
-  "_purpose" : { },
-  "_title" : { },
-  "_description" : { }
+  } ]
 }

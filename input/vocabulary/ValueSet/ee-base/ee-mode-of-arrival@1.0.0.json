@@ -32,8 +32,5 @@
     }, {
       "system" : "https://fhir.ee/CodeSystem/ee-mode-of-arrival"
     } ]
-  },
-  "_purpose" : { },
-  "_title" : { },
-  "_description" : { }
+  }
 }

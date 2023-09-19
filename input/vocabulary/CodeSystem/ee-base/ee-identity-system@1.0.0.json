@@ -10,6 +10,18 @@
   "versionAlgorithmString" : "semver",
   "name" : "EEBaseIdentitySystem",
   "title" : "Identity System",
+  "_title" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Identity System"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
   "status" : "draft",
   "experimental" : false,
   "date" : "2023-09-01T00:00:00Z",
@@ -22,6 +34,18 @@
     } ]
   } ],
   "description" : "Description of the identity system concepts acceptable for entity identification",
+  "_description" : {
+    "extension" : [ {
+      "extension" : [ {
+        "url" : "lang",
+        "valueCode" : "en"
+      }, {
+        "url" : "content",
+        "valueString" : "Description of the identity system concepts acceptable for entity identification"
+      } ],
+      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
+    } ]
+  },
   "copyright" : "Apache-2.0",
   "caseSensitive" : false,
   "hierarchyMeaning" : "is-a",
@@ -11735,30 +11759,5 @@
         } ]
       } ]
     } ]
-  } ],
-  "_purpose" : { },
-  "_title" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Identity System"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
-    } ]
-  },
-  "_description" : {
-    "extension" : [ {
-      "extension" : [ {
-        "url" : "lang",
-        "valueCode" : "en"
-      }, {
-        "url" : "content",
-        "valueString" : "Description of the identity system concepts acceptable for entity identification"
-      } ],
-      "url" : "http://hl7.org/fhir/StructureDefinition/translation"
-    } ]
-  }
+  } ]
 }

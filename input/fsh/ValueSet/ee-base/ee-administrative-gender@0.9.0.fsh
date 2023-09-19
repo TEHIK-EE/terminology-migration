@@ -7,6 +7,7 @@ Usage: #definition
 * url = "https://fhir.ee/ValueSet/ee-administrative-gender"
 * version = "0.9.0"
 * name = "EEBaseAdministrativeGender"
+* title = "Administrative Gender"
 * status = #active
 * experimental = false
 * date = "2023-05-07T00:00:00Z"
@@ -14,6 +15,7 @@ Usage: #definition
 * contact.name = "HL7 Estonia"
 * contact.telecom.system = #url
 * contact.telecom.value = "https://www.hl7.ee"
+* description = "Administrative Gender"
 * compose.include.system = "http://hl7.org/fhir/administrative-gender"
 * compose.include.version = "4.3.0"
 * compose.include.concept[0].code = #male
