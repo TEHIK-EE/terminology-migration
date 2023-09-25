@@ -1,0 +1,24 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;PO;suukaudu;suukaudu;;;1.01.2012;;;EKL,TA;1;
+B;SL;keele alla;keele alla;;;1.01.2012;;;EKL,TA;1;
+C;IV;perifeersesse veeni;perifeersesse veeni;;;1.01.2012;;;EKL,TA;1;
+C1;IV;süstena;süstena;C;1;1.01.2012;;;EKL,TA;1;
+C2;IV;automaatsüstlaga;automaatsüstlaga;C;1;1.01.2012;;;EKL,TA;1;
+C3;IV;infusioonina;infusioonina;C;1;1.01.2012;;;EKL,TA;1;
+D;IV;tsentraalsesse veeni;tsentraalsesse veeni;;;1.01.2012;;;EKL,TA;1;
+D1;IV;süstena;süstena;D;1;1.01.2012;;;EKL,TA;1;
+D2;IV;automaatsüstlaga;automaatsüstlaga;D;1;1.01.2012;;;EKL,TA;1;
+C3;IV;infusioonina;infusioonina;D;1;1.01.2012;;;EKL,TA;1;
+E;IO;luusiseselt;luusiseselt;;;1.01.2012;;;EKL,TA;1;
+E1;IO;süstena;süstena;E;1;1.01.2012;;;EKL,TA;1;
+E2;IO;automaatsüstlaga;automaatsüstlaga;E;1;1.01.2012;;;EKL,TA;1;
+C3;IO;infusioonina;infusioonina;E;1;1.01.2012;;;EKL,TA;1;
+F;IM;lihasesse;lihasesse;;;1.01.2012;;;EKL,TA;1;
+G;PR;pärasoole kaudu;pärasoole kaudu;;;1.01.2012;;;EKL,TA;1;
+H;SC;nahaaluselt;nahaaluselt;;;1.01.2012;;;EKL,TA;1;
+I;IC;südamesse;südamesse;;;1.01.2012;;;EKL,TA;1;
+J;IT;trahheasse;trahheasse;;;1.01.2012;;;EKL,TA;1;
+K;INH;inhalatsioon;inhalatsioon;;;1.01.2012;;;EKL,TA;1;
+L;lok;välispidiselt;välispidiselt;;;1.01.2012;;;EKL,TA;1;
+M;IA;arterisse;arterisse;;;1.01.2012;;;EKL,TA;1;
+N;muu;muu (täpsustus);muu (täpsustus);;;1.01.2012;;;EKL,TA;1;

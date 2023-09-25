@@ -1,0 +1,7 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+1;ASA 1;ASA füüsiline staatus klass 1;ASA füüsiline staatus klass 1;;0;31.05.2007;;;;1;Patsiendil on normaalne seisund
+2;ASA 2;ASA füüsiline staatus klass 2;ASA füüsiline staatus klass 2;;0;31.05.2007;;;;1;Kerge süsteemne haigusseisund
+3;ASA 3;ASA füüsiline staatus klass 3;ASA füüsiline staatus klass 3;;0;31.05.2007;;;;1;Tõsine süsteemne haigusseisund
+4;ASA 4;ASA füüsiline staatus klass 4;ASA füüsiline staatus klass 4;;0;31.05.2007;;;;1;Tõsine süsteemne haigusseisund (püsiv eluoht)
+5;ASA 5;ASA füüsiline staatus klass 5;ASA füüsiline staatus klass 5;;0;31.05.2007;;;;1;Patsient on suremas (ilma operatsioonita ei ela)
+6;ASA 6;ASA füüsiline staatus klass 6;ASA füüsiline staatus klass 6;;0;31.05.2007;;;;1;Patsiendil on tunnistatud aju surm, organid võidakse kasutada doonorluse eesmärgil

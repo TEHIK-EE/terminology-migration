@@ -1,0 +1,7 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;kaitsevahendid;kaitsevahendid;brigaadi liikmed on kasutanud täiendavaid kaitsevahendeid;;0;1.01.2012;;;EKL,TA;1;
+B;saasteärastus;saasteärastus;teostatud on patsiendi saasteärastus ;;0;1.01.2012;;;EKL,TA;1;
+B1;riiete eemaldamine;riiete eemaldamine;toimunud on riietest vabastamine ;B;1;1.01.2012;;;EKL,TA;1;
+B2;pesemine;pesemine;toimunud on pesemine;B;1;1.01.2012;;;EKL,TA;1;
+B2.1;veega;veega;pesemine ainult veega;B2;2;1.01.2012;;;EKL,TA;1;
+B2.2;kemikaaliga;kemikaaliga;pesemiseks kasutatud vesi + kemikaal;B2;2;1.01.2012;;;EKL,TA;1;

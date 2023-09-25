@@ -1,0 +1,6 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;lõpetatud ravi;planeeritud ravi lõpetatud;planeeritud ravi lõpetatud;;0;1.01.2013;;;Eesti Hambaarstide Liit, Eesti Ortodontide Selts;1;
+2;ainult konsultatsioon;pole - ravi on alustamata, toimus ainult konsultatsioon;pole - ravi on alustamata, toimus ainult konsultatsioon;;0;1.01.2013;;;Eesti Hambaarstide Liit, Eesti Ortodontide Selts;1;
+3;peatatud komplikatsioonide tõttu;peatatud - komplikatsioonide tõttu;peatatud - komplikatsioonide tõttu;;0;1.01.2013;;;Eesti Hambaarstide Liit, Eesti Ortodontide Selts;1;
+4;peatatud patsiendi soovil;peatatud - patsiendi soovil;peatatud - patsiendi soovil;;0;1.01.2013;;;Eesti Hambaarstide Liit, Eesti Ortodontide Selts;1;
+5;katkestatud;katkestatud - patsient ei ilmu kohale;katkestatud - patsient ei ilmu kohale;;0;1.01.2013;;;Eesti Hambaarstide Liit, Eesti Ortodontide Selts;1;

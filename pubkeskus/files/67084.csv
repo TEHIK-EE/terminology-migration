@@ -1,0 +1,21 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+373375007;G1;Kõrge diferentseerumisastmega histoloogiline leid;Well differentiated histological grade finding (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Kõrgelt diferentseerunud -> Kõrge diferentseerumisastmega histoloogiline leid
+373377004;G2;Mõõduka diferentseerumisastmega histoloogiline leid;Moderately differentiated histological grade finding (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Mõõdukalt diferentseerunud -> Mõõduka diferentseerumisastmega histoloogiline leid
+373373000;G3;Madala diferentseerumisastmega histoloogiline leid;Poorly differentiated histological grade finding (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Madalalt diferentseerunud -> Madala diferentseerumisastmega histoloogiline leid
+373374006;G4;Mittediferentseerunud histoloogiline leid;Undifferentiated histological grade finding (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Mittediferentseerunud -> Mittediferentseerunud histoloogiline leid
+399415002;low-grade;Histoloogiline diferentseerumine, low-grade;Low grade histologic differentiation (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: low-grade -> Histoloogiline diferentseerumine, low-grade
+399611001;high-grade;Histoloogiline diferentseerumine, high-grade;High grade histologic differentiation (finding);;0;28.04.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: high-grade -> Histoloogiline diferentseerumine, high-grade
+12619005;GX;Diferentseerumisastet ei saa määrata;GX grade (finding);;0;28.04.2020;30.11.2022;;Eesti Patoloogide Selts;0;Tunnstatud kehtetuks, seda asendab 60815008
+60815008;GX;Diferentseerumisastet ei olnud võimalik määrata;Grade not determined (finding);;0;30.11.2022;;;Eesti Patoloogide Selts;1;Asendab kehtetuks tunnistatud väärtust 12619005
+2271000181101;Grupp 1 (Gleason 3+3=6);Grupp 1 (Gleason 3+3=6);Grade group 1 (Gleason 3+3=6) (finding);;0;28.04.2020;30.11.2020;;Eesti Patoloogide Selts;0;Tunnistatud kehtetuks, seda asendab väärtus koodiga 860742008
+860742008;Grupp 1 (Gleason 3+3=6);Gleasoni diferensteerumisaste, grupp 1;Gleason grade group 1 (finding);;0;30.11.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Grupp 1 (Gleason 3+3=6) -> Gleasoni diferensteerumisaste, grupp 1
+2281000181104;Grupp 2 (Gleason 3+4=7);Grupp 2 (Gleason 3+4=7);Grade group 2 (Gleason 3+4=7) (finding);;0;28.04.2020;30.11.2020;;Eesti Patoloogide Selts;0;Tunnistatud kehtetuks, seda asendab väärtus koodiga 860743003
+860743003;Grupp 2 (Gleason 3+4=7);Gleasoni diferensteerumisaste, grupp 2;Gleason grade group 2 (finding);;0;30.11.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Grupp 2 (Gleason 3+4=7) -> Gleasoni diferensteerumisaste, grupp 2
+2291000181102;Grupp 3 (Gleason 4+3=7);Grupp 3 (Gleason 4+3=7);Grade group 3 (Gleason 4+3=7) (finding);;0;28.04.2020;30.11.2020;;Eesti Patoloogide Selts;0;Tunnistatud kehtetuks, seda asendab väärtus koodiga 860744009
+860744009;Grupp 3 (Gleason 4+3=7);Gleasoni diferensteerumisaste, grupp 3;Gleason grade group 3 (finding);;0;30.11.2020;;30.05.2023;Eesti Patoloogide Selts;1;Muudetud nimetust: Grupp 3 (Gleason 4+3=7) -> Gleasoni diferensteerumisaste, grupp 3
+2301000181103;Grupp 4 (Gleason 4+4=8);Grupp 4 (Gleason 4+4=8);Grade group 4 (Gleason 4+4=8) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;
+2311000181101;Grupp 4 (Gleason 3+5=8);Grupp 4 (Gleason 3+5=8);Grade group 4 (Gleason 3+5=8) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;
+2321000181105;Grupp 4 (Gleason 5+3=8);Grupp 4 (Gleason 5+3=8);Grade group 4 (Gleason 5+3=8) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;
+2331000181107;Grupp 5 (Gleason 4+5=9);Grupp 5 (Gleason 4+5=9);Grade group 5 (Gleason 4+5=9) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;
+2341000181100;Grupp 5 (Gleason 5+4=9);Grupp 5 (Gleason 5+4=9);Grade group 5 (Gleason 5+4=9) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;
+2351000181102;Grupp 5 (Gleason 5+5=10);Grupp 5 (Gleason 5+5=10);Grade group 5 (Gleason 5+5=10) (finding);;0;28.04.2020;;;Eesti Patoloogide Selts;1;

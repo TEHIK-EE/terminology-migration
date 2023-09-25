@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+CLINIC;kliiniline;kliiniline;kliiniline;;;1.01.2011;;;Terviseamet;1;
+EPID;epidemioloogiline;epidemioloogiline;epidemioloogiline;;;1.01.2011;;;Terviseamet;1;
+MICRO;mikrobioloogiline;mikrobioloogiline;mikrobioloogiline;;;1.01.2011;;;Terviseamet;1;laboratoorse kinnitusega
+SERO;seroloogiline;seroloogiline;seroloogiline;;;1.01.2011;;;Terviseamet;1;laboratoorse kinnitusega

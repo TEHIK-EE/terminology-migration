@@ -1,0 +1,13 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+HEP_SPREAD_ALIM;alimentaarne;alimentaarne;alimentaarne;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_I_V_NAR;intravenoosne narkootikumide kasutamine;intravenoosne narkootikumide kasutamine;intravenoosne narkootikumide kasutamine;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_MANIP;meditsiinilised manipulatsioonid;meditsiinilised manipulatsioonid;meditsiinilised manipulatsioonid;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_INFEC;perinataalne nakatumine;perinataalne nakatumine;perinataalne nakatumine;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_WATER;seos veepuhanguga;seos veepuhanguga;seos veepuhanguga;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_VEN_HET;sugulisel teel - hetero;sugulisel teel - hetero;sugulisel teel - hetero;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_VEN_HOM;sugulisel teel - homo;sugulisel teel - homo;sugulisel teel - homo;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_TATO;tätoveerimine;tätoveerimine;tätoveerimine;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_BLOOD;töötamine verega;töötamine verega;töötamine verega;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_BLOOD_C;vere- või plasmaülekanne;vere- või plasmaülekanne;vere- või plasmaülekanne;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_OTHER;muu iluteenus;muu iluteenus;muu iluteenus;;;1.01.2011;;;Terviseamet;1;
+HEP_SPREAD_UNKN;teadmata;teadmata;teadmata;;;1.01.2011;;;Terviseamet;1;

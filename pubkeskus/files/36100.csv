@@ -1,0 +1,9 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+AN01;Raviskeemi muudatus: soovimatu koos- või kõrvaltoime ;Raviskeemi muudatus: soovimatu koos- või kõrvaltoime ;Raviskeemi muudatus: soovimatu koos- või kõrvaltoime ;;0;6.01.2016;;;Haigekassa;1;
+AN02;Raviskeemi muudatus: puudub oodatud ravitulemus;Raviskeemi muudatus: puudub oodatud ravitulemus;Raviskeemi muudatus: puudub oodatud ravitulemus;;0;6.01.2016;;;Haigekassa;1;
+AN03;Raviskeemi muudatus: täpsustunud diagnoos;Raviskeemi muudatus: täpsustunud diagnoos;Raviskeemi muudatus: täpsustunud diagnoos;;0;6.01.2016;;;Haigekassa;1;
+AN04;Ravi dubleeriv retsept;Ravi dubleeriv retsept;Ravi dubleeriv retsept;;0;6.01.2016;;;Haigekassa;1;
+AN05;Ravi/MS kasutamise lõpetamine: tervenemine;Ravi/MS kasutamise lõpetamine: tervenemine;Ravi/MS kasutamise lõpetamine: tervenemine;;0;6.01.2016;;;Haigekassa;1;
+AN06;Ekslik vormistamine ;Ekslik vormistamine ;Ekslik vormistamine ;;0;6.01.2016;;;Haigekassa;1;
+AN98;*Süsteemne annulleerimine: kehtivuse kaotamine;*Süsteemne annulleerimine: kehtivuse kaotamine;*Süsteemne annulleerimine: kehtivuse kaotamine;;0;6.01.2016;;;Haigekassa;1;
+AN99;*Süsteemne annulleerimine: patsiendi surm;*Süsteemne annulleerimine: patsiendi surm;*Süsteemne annulleerimine: patsiendi surm;;0;6.01.2016;;;Haigekassa;1;

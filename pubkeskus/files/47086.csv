@@ -1,0 +1,9 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;Sõltumatu;Sõltumatu - ei vajanud abi, korraldamist ega järelevalvet üheski tegevuses;;;0;16.05.2019;;;1;
+02;Sõltumatu, ainult korralduslik abi;Sõltumatu, ainult korralduslik abi - vajas ainult eseme või seadme asetamist käeulatusse, ei vajanud füüsilist abi või järelvalvet üheski tegevuses;;;0;16.05.2019;;;1;
+03;Juhendamine;Juhendamine - vajas järelevaatamist/juhendamist;;;0;16.05.2019;;;1;
+04;Piiratud abi;Piiratud abi - vajas juhendamist seoses käte-jalgade liikumisega või füüsilist abi ilma keharaskust toetamata;;;0;16.05.2019;;;1;
+05;Oluline abi;Oluline abi - vajas abi keharaskuse toetamisel (sealhulgas jäsemete tõstmist) ühe abistaja poolt, kuid isik tegi siiski 50% või rohkem tegevustest ise;;;0;16.05.2019;;;1;
+06;Väga ulatuslik abi;Väga ulatuslik abi - vajas abi keharaskuse toetamisel (sealhulgas jäsemete tõstmist) kahe või enama abistaja poolt või keharaskuse toetamist enam kui 50% tegevuste läbiviimisel;;;0;16.05.2019;;;1;
+07;Täielik sõltuvus;Täielik sõltuvus - toimingute sooritamine täielikult teiste poolt;;;0;16.05.2019;;;1;
+08;Toimingut ei esinenud hindamisperioodil;Toimingut ei esinenud hindamisperioodil;;;0;16.05.2019;;;1;

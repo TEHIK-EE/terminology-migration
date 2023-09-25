@@ -1,0 +1,9 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+ML01;Eestis puudub haiguse/seisundi raviks müügiloaga ravim;Eestis puudub haiguse/seisundi raviks müügiloaga ravim;Eestis puudub haiguse/seisundi raviks müügiloaga ravim; ;;1.01.2015;;;Haigekassa;1;
+ML02;Müügiloaga ravimitel puudub sobiv ravimvorm;Müügiloaga ravimitel puudub sobiv ravimvorm;Müügiloaga ravimitel puudub sobiv ravimvorm; ;;1.01.2015;;;Haigekassa;1;
+ML03;Müügiloaga ravimitel puudub sobiv tugevus (toimeaine sisaldus);Müügiloaga ravimitel puudub sobiv tugevus (toimeaine sisaldus);Müügiloaga ravimitel puudub sobiv tugevus (toimeaine sisaldus); ;;1.01.2015;;;Haigekassa;1;
+ML04;Müügiloaga ravimitel puudub sobiv pakend (kogus pakendis, materjal vm);Müügiloaga ravimitel puudub sobiv pakend (kogus pakendis, materjal vm);Müügiloaga ravimitel puudub sobiv pakend (kogus pakendis, materjal vm); ;;1.01.2015;;;Haigekassa;1;
+ML05;Kõik sobivad müügiloaga ravimid põhjustavad kõrvaltoimeid;Kõik sobivad müügiloaga ravimid põhjustavad kõrvaltoimeid;Kõik sobivad müügiloaga ravimid põhjustavad kõrvaltoimeid; ;;1.01.2015;;;Haigekassa;1;
+ML06;Ükski müügiloaga ravim ei ole olnud piisavalt efektiivne;Ükski müügiloaga ravim ei ole olnud piisavalt efektiivne;Ükski müügiloaga ravim ei ole olnud piisavalt efektiivne; ;;1.01.2015;;;Haigekassa;1;
+ML07;Eriarsti poolt määratud püsiravi;Eriarsti poolt määratud püsiravi;Eriarsti poolt määratud püsiravi; ;;1.01.2015;;;Haigekassa;1;
+ML08;Muu meditsiiniline põhjus (lisada põhjendatud selgitus);Muu meditsiiniline põhjus (lisada põhjendatud selgitus);Muu meditsiiniline põhjus (lisada põhjendatud selgitus); ;;1.01.2015;;;Haigekassa;1;

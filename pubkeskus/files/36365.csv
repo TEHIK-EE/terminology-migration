@@ -1,0 +1,10 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;c;kliiniline;kliinilise leiu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+B;p;patoloogiline;patoloogia uuringu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+C;a;lahang;lahangu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+D;r;retsidiiv;kasvaja retsidiiv;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+E;rc;retsidiiv, kliiniline;retsidiiv, kliinilise leiu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+F;rp;retsidiiv, patoloogiline;retsidiiv, patoloogia uuringu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+G;y;ravijärgne;ravijärgselt hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+H;yc;ravijärgne kliiniline;ravijärgselt kliinilise leiu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;
+I;yp;ravijärgne patoloogiline;ravijärgselt patoloogia uuringu põhjal hinnatud;;0;1.07.2016;;;Eesti E-tervise Sihtasutus;1;

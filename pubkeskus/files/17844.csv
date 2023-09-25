@@ -1,0 +1,16 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;jäsemelahas;jäsemelahas;Jäsemelahas;;0;1.01.2012;;;EKL,TA;1;
+A1;vaakumlahas;vaakumlahas;vaakumlahas;A;1;1.01.2012;;;EKL,TA;1;
+A2;aluformlahas;aluformlahas;aluformlahas;A;1;1.01.2012;;;EKL,TA;1;
+A3;pneumolahas;pneumolahas;pneumolahas;A;1;1.01.2012;;;EKL,TA;1;
+A4;splintlahas;splintlahas;splintlahas;A;1;1.01.2012;;;EKL,TA;1;
+B;kolmnurkrätik;kolmnurkrätik;kolmnurkrätik;;0;1.01.2012;;;EKL,TA;1;
+C;kaelalahas;kaelalahas;kaelalahas;;0;1.01.2012;;;EKL,TA;1;
+D;kühvelraam;kühvelraam;kühvelraam;;0;1.01.2012;;;EKL,TA;1;
+E;vaakumgraanulmadrats;vaakumgraanulmadrats;vaakumgraanulmadrats;;0;1.01.2012;;;EKL,TA;1;
+F;muu ;muu (selgitus);muu ;;0;1.01.2012;;;EKL,TA;1;
+F1;peafiksaator;peafiksaator;peafiksaator;F;1;1.01.2012;;;EKL,TA;1;
+F2;seljalahas ;seljalahas ;seljalahas ;F;1;1.01.2012;;;EKL,TA;1;
+F3;seljalaud;seljalaud;seljalaud;F;1;1.01.2012;;;EKL,TA;1;
+F4;vaagnafiksaator;vaagnafiksaator;vaagnafiksaator;F;1;1.01.2012;;;EKL,TA;1;
+F5;muu (täpsustus);muu (täpsustus);muu (täpsustus);F;1;1.01.2012;;;EKL,TA;1;

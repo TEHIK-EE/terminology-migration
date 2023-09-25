@@ -1,0 +1,20 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+KA_D;kiirabiasutuse registraator  (dispetšer, korraldaja);kiirabiasutuse registraator  (dispetšer, korraldaja);kiirabiasutuse registraator  (dispetšer, korraldaja);;;01.01.2012;;;ETSA;1;
+KA_BA;kiirabibrigaadi liige (arst);kiirabibrigaadi liige (arst);kiirabibrigaadi liige (arst);;;01.01.2012;;;ETSA;1;
+KA_BO;kiirabibrigaadi liige (õde);kiirabibrigaadi liige (õde);kiirabibrigaadi liige (õde);;;01.01.2012;;;ETSA;1;
+KA_BP;kiirabibrigaadi liige (kiirabitehnik);kiirabibrigaadi liige (kiirabitehnik);kiirabibrigaadi liige (kiirabitehnik);;;01.01.2012;;;ETSA;1;
+KA_S;kiirabiasutuse statistik;kiirabiasutuse statistik;kiirabiasutuse statistik;;;01.01.2012;;;ETSA;1;
+KA_R;kiirabiasutuse raamatupidaja;kiirabiasutuse raamatupidaja;kiirabiasutuse raamatupidaja;;;01.01.2012;;;ETSA;1;
+KA_J;kiirabiasutuse juhtkond;kiirabiasutuse juhtkond;kiirabiasutuse juhtkond;;;01.01.2012;;;ETSA;1;
+KA_AG;arsti töögraafikute koostaja;arsti töögraafikute koostaja;arsti töögraafikute koostaja;;;01.01.2012;;;ETSA;1;
+KA_OG;õe töögraafikute koostaja;õe töögraafikute koostaja;õe töögraafikute koostaja;;;01.01.2012;;;ETSA;1;
+KA_PG;kiirabitehniku töögraafikute koostaja;kiirabitehniku töögraafikute koostaja;kiirabitehniku töögraafikute koostaja;;;01.01.2012;;;ETSA;1;
+KA_OH;kiirabiasutuse õiguste haldur (süsteemiadministraator);kiirabiasutuse õiguste haldur (süsteemiadministraator);kiirabiasutuse õiguste haldur (süsteemiadministraator);;;01.01.2012;;;ETSA;1;
+KA_H;kiirabiasutuse haldur (filiaalid, autod, brigaadid, personal);kiirabiasutuse haldur (filiaalid, autod, brigaadid, personal);kiirabiasutuse haldur (filiaalid, autod, brigaadid, personal);;;01.01.2012;;;ETSA;1;
+KA_TV;transporditellimuste vastuvõtja;transporditellimuste vastuvõtja;transporditellimuste vastuvõtja;;;01.01.2012;;;ETSA;1;
+ET_KT;klienditoe osutajad;klienditoe osutajad;klienditoe osutajad;;;01.01.2012;;;ETSA;1;
+ET_KPA_RJ;KP administraator (ravijuhised);KP administraator (ravijuhised);KP administraator (ravijuhised);;;01.01.2012;;;ETSA;1;
+ET_KPA_KK;KP administraator (kaardi täitmise reeglid);KP administraator (kaardi täitmise reeglid);KP administraator (kaardi täitmise reeglid);;;01.01.2012;;;ETSA;1;
+TA_T;terviseameti töötaja;terviseameti töötaja;terviseameti töötaja;;;01.01.2012;;;ETSA;1;
+TA_TK;kodanik (transporditellimused);kodanik (transporditellimused);kodanik (transporditellimused);;;01.01.2012;;;ETSA;1;
+TTO_T;TTO töötaja;TTO töötaja;TTO töötaja;;;01.01.2012;;;ETSA;1;

@@ -1,0 +1,8 @@
+Kood	Lühinimetus	Nimetus	Pikk_nimetus	Vanem_kood	Hierarhia_aste	Kehtivuse_alguse_kpv	Kehtivuse_lõpu_kpv	Viimane_muudatus_kpv	Muutja	Staatus	Selgitus
+A	korter	korter	korter		0	1.01.2012			EKL,TA	1	
+B	avalik koht	avalik koht	avalik koht		0	1.01.2012			EKL,TA	1	
+C	töökoht	töökoht	töökoht		0	1.01.2012			EKL,TA	1	
+D	kiirabiauto	kiirabiauto	kiirabiauto		0	1.01.2012			EKL,TA	1	
+E	raviasutus	tervishoiuasutus	raviasutus		0	1.01.2012			EKL,TA	1	
+F	hooldekandeasutus, turvapaik	hooldekandeasutus, turvapaik	hooldekandeasutus, turvapaik		0	1.01.2012			EKL,TA	1	
+G	muu (täpsustus)	muu (täpsustus)	muu (täpsustus)		0	1.01.2012			EKL,TA	1	võimalusel peab saama lisada muu asukoha nime

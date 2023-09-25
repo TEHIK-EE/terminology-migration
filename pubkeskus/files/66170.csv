@@ -1,0 +1,24 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+75192006;;Arteri kanüül;Arterial cannula, device (physical object);;0;31.05.2022;;;1;
+52124006;;Tsentraalne veenikateeter;Central venous catheter, device (physical object);;0;31.05.2022;;;1;
+397755005;;Kopsuarteri kateeter;Pulmonary artery catheter (physical object);;0;31.05.2022;;;1;
+838423001;;Perifeerne veenikanüül;Peripheral venous cannula (physical object);;0;31.05.2022;;;1;
+450866001;;Hemodialüüsi kateeter;Hemodialysis catheter (physical object);;0;31.05.2022;;;1;
+462716007;;Arteriovenoosne ühendusfistul;Arteriovenous fistula coupler (physical object);;0;31.05.2022;;;1;
+344088002;;Urostoomi kott;Urostomy bag (physical object);;0;31.05.2022;;;1;
+339648008;;Kolostoomi kott;Colostomy bag (physical object);;0;31.05.2022;;;1;
+417136005;;Ileostoomi kott;Ileostomy bag (physical object);;0;31.05.2022;;;1;
+470571004;;Gastrostoomi toru;Gastrostomy tube (physical object);;0;31.05.2022;;;1;
+286862003;;Epitsüstostoomi kateeter;Cystostomy tube (physical object);;0;31.05.2022;;;1;
+286628000;;Nefrostoomia kateeter;Nephrostomy tube (physical object);;0;31.05.2022;;;1;
+23973005;;Kusepõie püsikateeter;Indwelling urinary catheter, device (physical object);;0;31.05.2022;;;1;
+47528002;;Ureetri kateeter;Ureteral catheter, device (physical object);;0;31.05.2022;;;1;
+126065006;;Jejunostoomi toru;Jejunostomy tube, device (physical object);;0;31.05.2022;;;1;
+1137710007;;Trahheostoomi kanüül;Tracheostomy tube cannula (physical object);;0;31.05.2022;;;1;
+26412008;;Intubatsioonitoru;Endotracheal tube, device (physical object);;0;31.05.2022;;;1;
+32712000;;Dreen;Drain, device (physical object);;0;31.05.2022;;;1;
+7402007;;Sond;Probe, device (physical object);;0;31.05.2022;;;1;
+17102003;;Nasogastraalsond;Nasogastric tube, device (physical object);;0;31.05.2022;;;1;
+30610008;;Epiduraalkateeter;Epidural catheter, device (physical object);;0;31.05.2022;;;1;
+360132007;;Peritoneaaldialüüsi kateeter;Peritoneal dialysis catheter (physical object);;0;31.05.2022;;;1;
+69805005;;Insuliinipump;Insulin pump, device (physical object);;0;31.05.2022;;;1;

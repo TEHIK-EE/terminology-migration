@@ -1,0 +1,11 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+260385009;N;Negatiivne;Negative (qualifier value);;0;28.04.2020;;31.05.2021;ELMÜ;1;
+371932001;Pp;Piiripealne;Borderline normal (qualifier value);;0;28.04.2020;;31.05.2021;ELMÜ;1;
+10828004;P;Positiivne;Positive (qualifier value);;0;28.04.2020;;31.05.2021;ELMÜ;1;
+280416009;S;Selguseta;Indeterminate result (qualifier value);;0;28.04.2020;;31.05.2021;ELMÜ;1;
+720735008;PK;Positiivne, vajab kinnitamist;Presumptive positive (qualifier value);;0;28.04.2020;;31.05.2021;ELMÜ;1;
+14761000181107;N(p);Negatiivne, positiivne tulemus ei kinnitunud;Negative, positive result could not be confirmed (qualifier value);;0;30.11.2021;;;ELMÜ;1;Kinnitava neutralisatsioonitesti vastus
+260347006;1+;1+, skaalal 1-4;Present + out of ++++ (qualifier value)|;;0;30.11.2021;;;ELMÜ;1;
+260348001;2+;2+, skaalal 1-4;Present ++ out of ++++ (qualifier value)|;;0;30.11.2021;;;ELMÜ;1;
+260349009;3+;3+, skaalal 1-4;Present +++ out of ++++ (qualifier value)|;;0;30.11.2021;;;ELMÜ;1;
+260350009;4+;4+, skaalal 1-4;Present ++++ out of ++++ (qualifier value)|;;0;30.11.2021;;;ELMÜ;1;

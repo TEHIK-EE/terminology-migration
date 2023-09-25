@@ -1,0 +1,7 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;Saab aru;Saab aru - selge arusaamine;;;0;16.05.2019;;;1;
+02;Tavaliselt saab aru;Tavaliselt saab aru - osa sõnumist jääb arusaamatuks, kuid mõistab vestlust vähese abiga või ilma selleta;;;0;16.05.2019;;;1;
+03;Sageli saab aru;Sageli saab aru - osa sõnumist jääb arusaamatuks, kuid abiga saab sageli sõnumi peamisest sisust aru;;;0;16.05.2019;;;1;
+04;Mõnikord saab aru;Mõnikord saab aru - vastab adekvaatselt ainult lihtsatele, otsestele pöördumistele;;;0;16.05.2019;;;1;
+05;Harva saab aru / mitte kunagi ei saa aru;Harva saab aru / mitte kunagi ei saa aru;;;0;16.05.2019;;;1;
+06;Pole võimalik hinnata;Pole võimalik hinnata;;;0;16.05.2019;;;1;

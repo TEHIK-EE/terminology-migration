@@ -1,0 +1,36 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;Reidi indeks;Reidi kolposkoopia indeks;;;0;1.01.2015;;;Eesti Naistearstide Selts;1;
+A1;Reid 0-2        ;Reidi kolposkoopia indeks 0-2             ;;A;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+A2;"Reid 3-4      
+";"Reidi kolposkoopia indeks 3-4      
+";;A;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+A3;"Reid 5-6   
+
+";"Reidi kolposkoopia indeks 5-6   
+
+";;A;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+B;mod. Reidi indeks;Reidi modifitseeritud kolposkoopia indeks;;;0;1.01.2015;;;Eesti Naistearstide Selts;1;
+B1;mod. Reid 0-2                                                  ;Reidi modifitseeritud kolposkoopia indeks 0-2                                                  ;;B;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+B2;"mod. Reid 3-4                                                
+";"Reidi modifitseeritud kolpsokoopia indeks 3-4                                                  
+";;B;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+B3;"mod. Reid 5-8                                                
+";"Reidi modifitseeritud kolposkoopia indeks 5-8                                                  
+";;B;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+C;Swede indeks;Swede kolposkoopia indeks;;C;0;1.01.2015;;;Eesti Naistearstide Selts;1;
+C1;"Swede 0-2           
+
+";"Swede kolposkoopia indeks 0-2            
+
+";;C;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+C2;"Swede 3-4         
+";"Swede kolposkoopia indeks 3-4         
+";;C;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+C3;"Swede 5-7         
+";"Swede kolpsokoopia indeks 5-7           
+";;C;1;1.01.2015;;;Eesti Naistearstide Selts;1;
+C4;"Swede 8-10
+
+";"Swede kolposkoopia indeks 8-10
+
+";;C;1;1.01.2015;;;Eesti Naistearstide Selts;1;

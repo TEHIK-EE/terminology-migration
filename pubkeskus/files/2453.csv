@@ -1,0 +1,6 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;väljakirjutatud;väljakirjutatud;väljakirjutatud;;0;31.05.2007;;;;1;
+2;üleviidud teise haiglasse;üleviidud teise haiglasse;üleviidud teise haiglasse;;0;31.05.2007;;;;1;Tervisestatistika mõttes on üleviimine patsiendi vahetu üleviimine teise haiglasse transpordiks kuluva aja jooksul. Erandkorras võib ühest haiglast välja kirjutamise kuupäev erineda teise haiglasse sisse kirjutamise kuupäevast, kui transport toimub kuupäeva vahetumise ajal.
+3;surnud;surnud;surnud;;0;31.05.2007;;;;1;
+31;surmatõendi väljastatud;surmatõendi väljastatud;surmatõendi väljastatud;3;1;31.05.2007;;;;1;
+32;lahangule suunatud;lahangule suunatud;lahangule suunatud;3;1;31.05.2007;;;;1;
