@@ -1,2 +1,2 @@
 #!/bin/sh
-python chek_import.py
+python check_import.py

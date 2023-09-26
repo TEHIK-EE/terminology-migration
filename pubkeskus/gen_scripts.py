@@ -68,9 +68,9 @@ def process_resource_file(resource_file):
         csvreader = csv.reader(file, delimiter=',')
         resource_file_headers.extend(next(csvreader))
         for row in csvreader:
-            if row[resource_file_headers.index(import_val)] in ['1', '2']:
+            if row[resource_file_headers.index(import_val)] in ['2']:
                 resource_file_rows_to_import.append(row)
-            if row[resource_file_headers.index(import_val)] in ['0', '3']:
+            if row[resource_file_headers.index(import_val)] in ['1', '0', '3']:
                 resource_file_rows_to_ignore.append(row)
     print("%d resources will be imported" % (resource_file_rows_to_import.__len__()))
     print("%d resources are ignored" % (resource_file_rows_to_ignore.__len__()))
