@@ -5,6 +5,7 @@ import os
 import shutil
 import yaml
 import urllib.parse
+from datetime import datetime
 
 from auth.oauth import token
 from auth.bearer_auth import BearerAuth
@@ -32,9 +33,6 @@ resource_file_rows_to_ignore = []
 # defined properties from TermX
 defined_properties = {}
 
-# config
-config = yaml.safe_load(open("config.yml"))
-
 
 def create_import_script_folder():
     folder = 'import-scripts'
@@ -47,10 +45,11 @@ def generate_scripts(resource_file):
     """
         Parameter resource_file: path to csv file with resources
     """
+    init_config()
+
     t = token()
     process_resource_file(resource_file)
     load_defined_properties(t)
-
     create_import_script_folder()
 
     for row in resource_file_rows_to_import:
@@ -147,7 +146,7 @@ def to_cs_request(resource_row):
         'dryRun': config['import']['cs']['dryRun'],
         'cleanVersion': config['import']['cs']['cleanVersion'],
         'replaceConcept': config['import']['cs']['replaceConcept'],
-        'importClass': config['import']['class']
+        'importClass': config['import']['classDateTime']
     }
     return request
 
@@ -208,9 +207,23 @@ def to_vs_request(resource_row, t):
         'version': value_set_version,
         'mapping': mapping,
         'dryRun': config['import']['vs']['dryRun'],
-        'importClass': config['import']['class']
+        'importClass': config['import']['classDateTime']
     }
     return request
+
+
+def init_config():
+    now = datetime.now().strftime("%m.%d.%Y_%H:%M:%S")
+    with open('config.yml', 'r') as yamlfile:
+        cur_yaml = yaml.safe_load(yamlfile)
+        cur_yaml['import'].update({'classDateTime': cur_yaml['import']['class'] + '_' + now})
+
+    if cur_yaml:
+        with open('config.yml', 'w') as yamlfile:
+            yaml.safe_dump(cur_yaml, yamlfile)
+
+    global config
+    config = yaml.safe_load(open("config.yml"))
 
 
 if __name__ == '__main__':
