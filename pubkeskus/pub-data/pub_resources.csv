@@ -43,15 +43,9 @@ Kehtivuse_alguse_kpv=effectiveDate,
 ",,,"Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus\r
 A;demand;demand;demand;;0;1.01.2012;;;EKL,TA;1;\r
 B;fikseeritud;nondemand/fikseeritud;nondemand/fikseeritud;;0;1.01.2012;;;EKL,TA;1;",
-1,Abivahendid funktsioonide toetamiseks,36430,abivahendid-funktsioonide-toetamiseks,37,AbivahendidFunktsioonideToetamiseks,Abivahendid funktsioonide toetamiseks,,Klassifikaatorit kasutatakse patsiendi funktsioone toetavate abivahendite dokumenteerimiseks,,,1.3.6.1.4.1.28284.6.2.1.304,,,,,integer,1,2016-05-27,36433,https://raw.githubusercontent.com/TEHIK-EE/terminology-migration/main/pubkeskus/pub-data/files/36433.csv,,,,,Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus,"Selgitus=comment,
-Kood=concept-code,
-Vanem_kood=parent,
-Kehtivuse_lõpu_kpv=retirementDate,
-Pikk_nimetus=definition|et,
+2,Abivahendid funktsioonide toetamiseks,36430,abivahendid-funktsioonide-toetamiseks,37,AbivahendidFunktsioonideToetamiseks,Abivahendid funktsioonide toetamiseks,,Klassifikaatorit kasutatakse patsiendi funktsioone toetavate abivahendite dokumenteerimiseks,,,1.3.6.1.4.1.28284.6.2.1.304,,,,,integer,1,2016-05-27,36433,https://raw.githubusercontent.com/TEHIK-EE/terminology-migration/main/pubkeskus/pub-data/files/36433.csv,1,,1,,Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus,"Kood=concept-code,
 Nimetus=display|et,
-Staatus=status,
-Kehtivuse_alguse_kpv=effectiveDate,
-Lühinimetus=synonym",,,"Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus\r
+",,,"Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus\r
 A;positiivrõhuaparaat (CPAP) või mitteinvasiivse ventilatsiooni seade;positiivrõhuaparaat (CPAP) või mitteinvasiivse ventilatsiooni seade;;;0;1.07.2016;;;1;\r
 B;intraoraalne uneapnoe seade;intraoraalne uneapnoe seade;;;0;1.07.2016;;;1;",
 1,AIDS indikaatorhaigused,16949,aids-indikaatorhaigused,23,AidsIndikaatorhaigused,AIDS indikaatorhaigused,,"NAKIS. AIDS indikaatorhaigused - Terviseameti poolt määratud AIDS-iga kaasnevad haiguste loetelu.
