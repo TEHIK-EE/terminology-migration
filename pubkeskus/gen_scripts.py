@@ -189,7 +189,18 @@ def to_vs_request(resource_row, t):
             'codeSystemUri': resource_row[resource_file_headers.index(vs_based_on)]
         }
     }
+
     mapping = {}
+    for prop in resource_row[resource_file_headers.index(map)].split(','):
+        prop = prop.replace('\n', '')
+        if prop == '':
+            continue
+        property_name = prop.split('=')[1].split('|')[0]
+        if property_name == 'concept-code':
+            mapping['code'] = prop.split('=')[0]
+        if property_name == 'display':
+            mapping['display'] = prop.split('=')[0]
+
     request = {
         'type': 'csv',
         'link': resource_row[resource_file_headers.index(link)],
