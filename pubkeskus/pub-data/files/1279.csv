@@ -1,0 +1,23 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;kerge, keskmine reaktsioon;kerge, keskmine reaktsioon;kerge, keskmine reaktsioon;;0;31.05.2007;;;;1;
+101;lokaalne reaktsioon;lokaalne reaktsioon;lokaalne reaktsioon;1;1;31.05.2007;;;;1;tekkeaeg 24-48 t peale vaktsineerimist
+102;palavik üle 38°C;palavik üle 38°C;palavik üle 38°C;1;1;31.05.2007;;;;1;kuni 48 t, MMR korral kuni 7 päeva peale vaktsineerimist
+103;rahutus;rahutus;rahutus;1;1;31.05.2007;;;;1;kuni 48 t, MMR korral kuni 7 päeva peale vaktsineerimist (p/v)
+104;isutus;isutus;isutus;1;1;31.05.2007;;;;1;kuni 48 t, MMR korral kuni 7 päeva peale vaktsineerimist (p/v)
+2;raske reaktsioon;raske reaktsioon;raske reaktsioon;;0;31.05.2007;;;;1;
+201;anafülaksia;anafülaksia;anafülaksia;2;1;31.05.2007;;;;1;kuni 24 t p/v
+202;anafülaktoidne reaktsioon;anafülaktoidne reaktsioon;anafülaktoidne reaktsioon;2;1;31.05.2007;;;;1;kuni 24t p/v
+203;ebatavaline kestev nutmine (>3t) ;ebatavaline kestev nutmine (>3t) ;ebatavaline kestev nutmine (>3t) ;2;1;31.05.2007;;;;1;kuni 24t p/v
+204;hüpotoonilis-hüporeaktiivne episood;hüpotoonilis-hüporeaktiivne episood;hüpotoonilis-hüporeaktiivne episood;2;1;31.05.2007;;;;1;kuni 24t p/v
+205;toksilise šoki reaktsioon;toksilise šoki reaktsioon;toksilise šoki reaktsioon;2;1;31.05.2007;;;;1;kuni 24t p/v
+206;raske lokaalne reaktsioon;raske lokaalne reaktsioon;raske lokaalne reaktsioon;2;1;31.05.2007;;;;1;kuni 5 päeva p/v
+207;sepsis;sepsis e veremürgistus;sepsis e veremürgistus;2;1;31.05.2007;;;;1;kuni 5 päeva p/v
+208;süstekoha abstsess ;lokaalne süstekoha abstsess ;lokaalne süstekoha abstsess ;2;1;31.05.2007;;;;1;kuni 5 päeva p/v
+209;krambid;krambid;krambid;2;1;31.05.2007;;;;1;kuni 7 päeva, MMR puhul kuni 12 päeva p/v
+210;entsefalopaatia;entsefalopaatia;entsefalopaatia;2;1;31.05.2007;;;;1;kuni 7 päeva, MMR puhul kuni 12 päeva p/v
+211;äge lõtv halvatus;äge lõtv halvatus;äge lõtv halvatus;2;1;31.05.2007;;;;1;kuni 30 päeva p/v
+212;brahhiaalneuriit;brahhiaalneuriit;brahhiaalneuriit;2;1;31.05.2007;;;;1;kuni 30 päeva p/v
+213;trombotsütopeenia;trombotsütopeenia;trombotsütopeenia;2;1;31.05.2007;;;;1;kuni 30 päeva, MMR puhul kuni 35 päeva p/v
+214;lümfadeniit;lümfadeniit;lümfadeniit;2;1;31.05.2007;;;;1;1-12 kuud peale BCG
+215;dissemineeritud BCG infektsioon;dissemineeritud BCG infektsioon;dissemineeritud BCG infektsioon;2;1;31.05.2007;;;;1;1-12 kuud peale BCG
+216;ostiit, osteomüeliit;ostiit, osteomüeliit;ostiit, osteomüeliit;2;1;31.05.2007;;;;1;1-12 kuud peale BCG

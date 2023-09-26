@@ -1,5 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
-255604002;;Kerge;Mild (qualifier value);;0;16.05.2019;;;1;
-6736007;;Mõõdukas;Moderate (severity modifier) (qualifier value);;0;16.05.2019;;;1;
-24484000;;Raske;Severe (severity modifier) (qualifier value);;0;16.05.2019;;;1;
-399166001;;Surmav;Fatal (qualifier value);;0;16.05.2019;;;1;

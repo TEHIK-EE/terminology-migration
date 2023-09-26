@@ -1,5 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
-439430008;;Madal kukkumise risk;At low risk for fall (finding);;0;16.05.2019;;;1;
-332721351000132106;;Mõõdukas kukkumise risk;At moderate risk for fall (finding);;0;16.05.2019;;;1;
-455201601000132100;;Kõrge kukkumise risk;At high risk for fall (finding);;0;16.05.2019;;;1;
-260386005;;Puudub;Nil (qualifier value);;0;16.05.2019;;;1;

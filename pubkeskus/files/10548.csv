@@ -1,7 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-PROC;protseduur / uuring;protseduur / uuring;protseduur / uuring;0;0;7.09.2007;;;;1;
-SUR;operatsioon;operatsioon;operatsioon;0;0;7.09.2007;;;;1;
-ANA;analüüs;analüüs;analüüs;0;0;7.09.2007;;;;1;
-ANABL;veregrupi ja reesusfaktori määramine;veregrupi ja reesusfaktori määramine;veregrupi ja reesusfaktori määramine;0;0;7.09.2007;;;;1;
-IMM;immuniseerimine;immuniseerimine;immuniseerimine;0;0;7.09.2007;;;;1;
-IMMEF;võimalik immuniseerimine;võimalik immuniseerimine;võimalik immuniseerimine;0;0;7.09.2007;;;;1;TKK kõrvalnähu põhjus

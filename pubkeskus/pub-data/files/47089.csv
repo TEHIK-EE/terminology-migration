@@ -1,0 +1,7 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;I aste;I aste - mittekahvatuv punetus;;;0;16.05.2019;;;1;
+02;II aste;II aste - osaline nahakihtide kahjustus;;;0;16.05.2019;;;1;
+03;III aste;III aste - täielik nahakihtide kahjustus;;;0;16.05.2019;;;1;
+04;IV aste;IV aste - täielik naha ja nahaaluskoe hävimine;;;0;16.05.2019;;;1;
+05;Aste ei ole määratav;Aste ei ole määratav - sügavus teadmata;;;0;16.05.2019;;;1;
+06;Kahtlus sügavale koekahjustusele;Kahtlus sügavale koekahjustusele - sügavus teadmata;;;0;16.05.2019;;;1;

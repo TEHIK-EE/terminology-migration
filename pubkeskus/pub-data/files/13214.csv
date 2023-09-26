@@ -1,0 +1,4 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+1;+;esmashaigestumine ;esmashaigestumine ;;0;31.05.2007;;;;1;(+) esmakordselt elus püstitatud diagnoos
+2;-;korduvhaigestumine;korduvhaigestumine;;0;31.05.2007;;;;1;(-) korduv diagnoos
+3;0;esialgne diagnoos;esialgne diagnoos;;0;31.05.2007;;;;1;(0) kinnitamata diagnoos

@@ -1,0 +1,10 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;roosa;roosa;roosa;;0;31.05.2007;;;;1;
+2;kahvatu;kahvatu;kahvatu;;0;31.05.2007;;;;1;
+3;ikteeriline;ikteeriline;ikteeriline;;0;31.05.2007;;;;1;
+31;kergelt ikteeriline;kergelt ikteeriline;kergelt ikteeriline;3;1;31.05.2007;;;;1;
+32;tugevalt ikteeriline;tugevalt ikteeriline;tugevalt ikteeriline;3;1;31.05.2007;;;;1;
+4;tsüanootiline;tsüanootiline;tsüanootiline;;0;31.05.2007;;;;1;
+41;üldtsüanootiline;üldtsüanootiline;üldtsüanootiline;4;1;31.05.2007;;;;1;
+42;perioraaltsüanootiline;perioraaltsüanootiline;perioraaltsüanootiline;4;1;31.05.2007;;;;1;
+43;akrotsüanootiline ;akrotsüanootiline ;akrotsüanootiline ;4;1;31.05.2007;;;;1;

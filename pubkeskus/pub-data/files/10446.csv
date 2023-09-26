@@ -1,0 +1,6 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+DOCTOR;arst;arst;arst;0;0;07.09.2007;;;;1;
+NURSE;õde;õde;õde;0;0;07.09.2007;;;;1;
+MIDWIFE;ämmaemand;ämmaemand;ämmaemand;0;0;07.09.2007;;;;1;
+OTHER;muu;muu;muu;0;0;07.09.2007;;;;1;
+CONTACT;kontaktisik;kontaktisik;kontaktisik;0;0;07.09.2007;;;;1;

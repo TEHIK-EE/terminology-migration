@@ -1,6 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-RISKGROUP_HEMO;hemofiiliahaige;hemofiiliahaige;hemofiiliahaige;;;1.01.2011;;;Terviseamet;1;
-RISKGROUP_SEX;mehega seksiv mees;mehega seksiv mees;mehega seksiv mees;;;1.01.2011;;;Terviseamet;1;
-RISKGROUP_PROST;prostitutsiooni kaasatu;prostitutsiooni kaasatu;prostitutsiooni kaasatu;;;1.01.2011;;;Terviseamet;1;
-RISKGROUP_INJECT;süstiv narkomaan;süstiv narkomaan;süstiv narkomaan;;;1.01.2011;;;Terviseamet;1;
-RISKGROUP_OTHER;muu (kirjutada);muu (kirjutada);muu (kirjutada);;;1.01.2011;;;Terviseamet;1;

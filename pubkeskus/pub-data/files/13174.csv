@@ -1,0 +1,10 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+1;püsielukoht;püsielukoht;püsielukoht;;;1.01.2008;;;sotsiaalministeerium;1;isiku püsielukoht on kodu, kategooria "püsielukoht" märgitakse ka siis, kui õppur elab ühiselamus
+2;kinnipidamisasutus;kinnipidamisasutus;kinnipidamisasutus;;;1.01.2008;;;sotsiaalministeerium;1;kinnipidamisasutus - isiku peamine elukoht viimase 30 päeva jooksul on olnud kinnipidamisasutus
+3;tervishoiuasutus;tervishoiuasutus;tervishoiuasutus;;;1.01.2008;;;sotsiaalministeerium;1;tervishoiuasutus - isiku peamine elukoht viimase 30 päeva jooksul on olnud tervishoiuteenust osutav asutus
+4;laste- v turvakodu;laste- v turvakodu;laste- v turvakodu;;;1.01.2008;;;sotsiaalministeerium;1;laste- või turvakodu - kategooria alla kuulub ka varjupaik juhul, kui isikul on seal võimalik viibida 24 tundi ööpäevas (näiteks naiste varjupaik)
+5;hoolde- ja vanadekodu;hoolde- ja vanadekodu;hoolde- ja vanadekodu;;;1.01.2008;;;sotsiaalministeerium;1;
+6;sõjaväeasutus;sõjaväeasutus;sõjaväeasutus;;;1.01.2008;;;sotsiaalministeerium;1;sõjaväeasutus - kohustuslikus ajateenistuses olevad isikute, missioonil viibivate kaitseväelaste elukoha liik on sõjaväeasutus
+7;usuasutus;usuasutus;usuasutus;;;1.01.2008;;;sotsiaalministeerium;1;usuasutus - kategooria märgitakse isikutele, kes elavad usuasutustes (näiteks kloostrid)
+8;kindla elukohata;kindla elukohata;kindla elukohata;;;1.01.2008;;;sotsiaalministeerium;1;isikul puudub elukoht, milles on võimalus viibida 24 tundi ööpäevas, kindla elukohata on näiteks kodutud
+99;teadmata;teadmata;teadmata;;;1.01.2008;;;sotsiaalministeerium;1;elukoha liik ei ole teada

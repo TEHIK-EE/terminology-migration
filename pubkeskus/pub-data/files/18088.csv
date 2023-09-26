@@ -1,0 +1,23 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;tömptrauma;tömptrauma;tömptrauma;;0;23.10.2014;;;EKL,TA;1;
+B;teravtrauma;teravtrauma;teravtrauma;;0;23.10.2014;;;EKL,TA;1;
+C;kukkumine  ;kukkumine  ;kukkumine  ;;0;1.01.2012;;;EKL,TA;1;
+D;kukkumine kõrgelt;kukkumine kõrgelt;kukkumine kõrgelt;;0;1.01.2012;;;EKL,TA;1;
+E;löök;löök;löök;;0;1.01.2012;;;EKL,TA;1;
+F;lõikevigastus;lõikevigastus;lõikevigastus;;0;1.01.2012;;;EKL,TA;1;
+G;torkevigastus;torkevigastus;torkevigastus;;0;1.01.2012;;;EKL,TA;1;
+H;peksmine;peksmine;peksmine;;0;1.01.2012;;;EKL,TA;1;
+I;termotrauma;termotrauma;termotrauma;;0;1.01.2012;;;EKL,TA;1;
+I1;põletus kuuma vedelikuga (täpsustus);põletus kuuma vedelikuga (täpsustus);põletus kuuma vedelikuga (täpsustus);G;1;1.01.2012;;;EKL,TA;1;
+I2;põletus leegiga;põletus leegiga;põletus leegiga;G;1;1.01.2012;;;EKL,TA;1;
+I3;põletus muuga (täpsustus);põletus muuga (täpsustus);põletus muuga (täpsustus);G;1;1.01.2012;;;EKL,TA;1;
+I4;söövitus;söövitus;söövitus;G;1;1.01.2012;;;EKL,TA;1;
+I5;lokaalne külmumine;lokaalne külmumine;lokaalne külmumine;G;1;1.01.2012;;;EKL,TA;1;
+I6;hüpotermia;hüpotermia;hüpotermia;G;1;1.01.2012;;;EKL,TA;1;
+J;liiklusõnnetus;liiklusõnnetus;liiklusõnnetus;;0;1.01.2012;;;EKL,TA;1;
+K;hammustus (täpsustus);hammustus (täpsustus);hammustus (täpsustus);;0;1.01.2012;;;EKL,TA;1;
+L;lasuvigastus;lasuvigastus;lasuvigastus;;0;1.01.2012;;;EKL,TA;1;
+M;poomine;poomine;poomine;;0;1.01.2012;;;EKL,TA;1;
+N;uppumine;uppumine;uppumine;;0;1.01.2012;;;EKL,TA;1;
+O;elekter;elekter;elekter;;0;1.01.2012;;;EKL,TA;1;
+P;muu (täpsustus);muu (täpsustus);muu (täpsustus);;0;1.01.2012;;;EKL,TA;1;

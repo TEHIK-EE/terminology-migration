@@ -1,0 +1,7 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+112144000;A;A veregrupp;Blood group A (finding);;0;28.03.2019;;;Eesti Laborimeditsiini Ühing;1;
+112149005;B;B veregrupp;Blood group B (finding);;0;28.03.2019;;;Eesti Laborimeditsiini Ühing;1;
+165743006;AB;AB veregrupp;Blood group AB (finding);;0;28.03.2019;;;Eesti Laborimeditsiini Ühing;1;
+58460004;O;O veregrupp;Blood group O (finding);;0;28.03.2019;;;Eesti Laborimeditsiini Ühing;1;
+280416009;Selguseta;Selguseta;Indeterminate result (qualifier value);;0;28.03.2019;31.05.2021;;Eesti Laborimeditsiini Ühing;1;Märgitakse vastuseks, kui labor ei suuda veregruppi määrata (nt väga kõrge või madala antikehade taseme, mõne haiguse või siirdamise tõttu) ja saadetakse edasi referentslaborisse
+3621000181105;Selguseta;Selguseta veregrupp;Indeterminate blood group (finding);;0;31.05.2021;;;Eesti Laborimeditsiini Ühing;1;

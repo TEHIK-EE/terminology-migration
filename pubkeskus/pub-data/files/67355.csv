@@ -1,0 +1,379 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus;Teenusele vastava eriala kood;Teenusele vastava eriala nimetus
+AAD001;;meestearsti vastuvõtt;;;0;16.12.2016;;;1;;E410;uroloogia
+AAD002;;meestearsti vastuvõtt (viljatus);;;0;16.12.2016;;;1;;E410;uroloogia
+AAD003;;meestearsti vastuvõtt (toitumisnõustamine);;;0;16.12.2016;22.12.2020;;1;;E410;uroloogia
+AAD004;;õe vastuvõtt androloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AAD005;;meestearsti vastuvõtt (noorte seksuaaltervis);;;0;18.04.2022;;;1;;E410;uroloogia
+AAI001;;allergoloogi vastuvõtt;;;0;16.12.2016;;;1;;E640;sisehaigused – allergoloogia
+AAI002;;laste allergoloogi vastuvõtt;;;0;16.12.2016;;;1;;E670;pediaatria – allergoloogia
+AAI003;;õe vastuvõtt allergoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AAI004;;allergoloogi-immunoloogi vastuvõtt;;;0;16.12.2016;;;1;;E470;allergoloogia-immunoloogia
+AAI005;;õe vastuvõtt allergoloogia-immunoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AAN001;;anestesioloogi vastuvõtt (operatiivravi);;;0;16.12.2016;;;1;;E100;anestesioloogia
+AAN002;;õe vastuvõtt anesteesia erialal (valuravi);;;0;16.12.2016;;;1;;N110;anesteesia-intensiivraviõendus
+AAN003;;anestesioloogi vastuvõtt (valuravi);;;0;16.12.2016;;;1;;E100;anestesioloogia
+AAN004;;anestesioloogi vastuvõtt (valuravi, onkoloog);;;0;16.12.2016;;;1;;E100;anestesioloogia
+ADV001;;naha-ja suguhaiguste arsti vastuvõtt;;;0;16.12.2016;;;1;;E110;dermatoveneroloogia
+ADV002;;laste nahaarsti vastuvõtt;;;0;16.12.2016;;;1;;E110;dermatoveneroloogia
+ADV003;;õe vastuvõtt naha-ja suguhaiguste erialal;;;0;16.12.2016;;;1;;N500;õde
+ADV004;;õe vastuvõtt naha-ja suguhaiguste erialal (krüoteraapia);;;0;16.12.2016;;;1;;N500;õde
+ADV005;;nahaarsti vastuvõtt (nahakasvajad);;;0;16.12.2016;;;1;;E110;dermatoveneroloogia
+ADV006;;naha-ja suguhaiguste arsti vastuvõtt (sünnimärkide kaardistamine);;;0;22.12.2020;;;1;;E110;dermatoveneroloogia
+ADV007;;õe vastuvõtt naha-ja suguhaiguste erialal (lapsed, krüoteraapia);;;0;14.12.2022;;;1;;N500;õde
+AEK001;;endokrinoloogi vastuvõtt;;;0;16.12.2016;;;1;;E120;endokrinoloogia
+AEK002;;laste endokrinoloogi vastuvõtt;;;0;16.12.2016;;;1;;E680;pediaatria – endokrinoloogia
+AEK003;;endokrinoloogi vastuvõtt (rasedad);;;0;16.12.2016;;;1;;E120;endokrinoloogia
+AEK004;;õe vastuvõtt endokrinoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AEK005;;õe vastuvõtt endokrinoloogia erialal (jalaravi);;;0;16.12.2016;;;1;;N210;diabeediõendus
+AEK006;;õe vastuvõtt endokrinoloogia erialal (diabeet);;;0;16.12.2016;;;1;;N210;diabeediõendus
+AEK007;;õe vastuvõtt endokrinoloogia erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N500;õde
+AEK008;;õe vastuvõtt endokrinoloogia erialal (lapsed);;;0;16.12.2016;;;1;;N220;lasteõendus
+AEK009;;endokrinoloogi vastuvõtt (diabeet);;;0;22.12.2020;;;1;;E120;endokrinoloogia
+AEM001;;info saatmine erakorralise meditsiini osakonnale;;;0;26.04.2017;;;1;;;
+AGE001;;gastroenteroloogi vastuvõtt;;;0;16.12.2016;;;1;;E140;gastroenteroloogia
+AGE002;;laste gastroenteroloogi vastuvõtt;;;0;16.12.2016;;;1;;E690;pediaatria – gastroenteroloogia
+AGE003;;õe vastuvõtt gastroenteroloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AGE004;;õe vastuvõtt gastroenteroloogia erialal (soolehaigus);;;0;22.12.2020;;;1;;N500;õde
+AGE005;;õe vastuvõtt gastroenteroloogia erialal (maksahaigus);;;0;22.12.2020;;;1;;N500;õde
+AHE001;;hematoloogi vastuvõtt;;;0;16.12.2016;;;1;;E150;hematoloogia
+AHE002;;hematoloogi vastuvõtt (pärilik vähk);;;0;16.12.2016;;;1;;E150;hematoloogia
+AHE003;;laste hematoloogi-onkoloogi vastuvõtt;;;0;16.12.2016;;;1;;E700;pediaatria – hematoloogia-onkoloogia
+AHE004;;õe vastuvõtt hematoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AHE005;;hematoloogi vastuvõtt (hüübivushäired);;;0;16.12.2016;;;1;;E150;hematoloogia
+AHE006;;õe vastuvõtt hematoloogia erialal (hüübivushäired);;;0;16.12.2016;;;1;;N500;õde
+AHE007;;õe vastuvõtt hematoloogia erialal (müeloom);;;0;16.12.2016;;;1;;N240;onkoloogiaõendus
+AHV001;;Hambaarsti videovastuvõtt;;;0;03.03.2023;;;1;;E430;hambaarst
+AIH001;;infektsionisti vastuvõtt;;;0;16.12.2016;;;1;;E160;infektsioonhaigused
+AIH002;;laste infektsionisti vastuvõtt;;;0;16.12.2016;;;1;;E710;pediaatria – infektsioonhaigused
+AIH003;;õe vastuvõtt infektsioonhaiguste erialal;;;0;16.12.2016;;;1;;N230;nakkustõrjeõendus
+AIH004;;õe vastuvõtt infektsioonhaiguste erialal (HIV);;;0;16.12.2016;;;1;;N230;nakkustõrjeõendus
+AIH005;;infektsionisti vastuvõtt (reisimeditsiin);;;0;16.12.2016;;;1;;E160;infektsioonhaigused
+AIH006;;õe vastuvõtt infektsioonhaiguste erialal (reisimeditsiin);;;0;16.12.2016;;;1;;N230;nakkustõrjeõendus
+AIH007;;infektsionisti vastuvõtt (immuniseerimine);;;0;22.12.2020;;;1;;E160;infektsioonhaigused
+AIH008;;õe vastuvõtt infektsioonhaiguste erialal (immuniseerimine);;;0;22.12.2020;;;1;;N230;nakkustõrjeõendus
+AIH009;;COVID-19 vastu vaktsineerimine;;;0;28.01.2021;31.05.2021;;1;;E160;infektsioonhaigused
+AIH010;;COVID-19 vastu vaktsineerimine (Comirnaty);;;0;29.04.2021;;12.09.2022;1;;E160;infektsioonhaigused
+AIH011;;COVID-19 vastu vaktsineerimine (Spikevax);;;0;29.04.2021;;12.09.2022;1;;E160;infektsioonhaigused
+AIH012;;COVID-19 vastu vaktsineerimine (Vaxzevria);;;0;29.04.2021;;12.09.2022;1;;E160;infektsioonhaigused
+AIH013;;COVID-19 vastu vaktsineerimine (Janssen);;;0;29.04.2021;;;1;;E160;infektsioonhaigused
+AIH014;;gripivaktsineerimine (alates 60.eluaastast);;;0;01.10.2021;;30.09.2022;1;;E160;infektsioonhaigused
+AIH015;;gripivaktsineerimine;;;0;01.10.2021;;;1;;E160;infektsioonhaigused
+AIH016;;COVID-19 vastu vaktsineerimine (5–11aastased, Comirnaty);;;0;07.12.2021;;30.09.2022;1;;E160;infektsioonhaigused
+AIH017;;COVID-19 vastu vaktsineerimine (Nuvaxovid);;;0;17.02.2022;;;1;;E160;infektsioonhaigused
+AIH018;;COVID-19 vastu vaktsineerimine (Comirnaty, BA.1, tõhustusdoosiks);;;0;12.09.2022;;30.09.2022;1;;E160;infektsioonhaigused
+AIH019;;COVID-19 vastu vaktsineerimine (Spikevax BA.1, tõhustusdoosiks);;;0;12.09.2022;;30.09.2022;1;;E160;infektsioonhaigused
+AIH020;;gripivaktsineerimine (6kuused kuni 7aastased (k.a));;;0;30.09.2022;;;1;;E160;infektsioonhaigused
+AIH021;;COVID-19 vastu vaktsineerimine (Comirnaty BA.4-5, tõhustusdoosiks);;;0;30.09.2022;;;1;;E160;infektsioonhaigused
+AIH022;;gripivaktsineerimine (rasedad);;;0;25.10.2022;;;1;;E160;infektsioonhaigused
+AIH023;;COVID-19 vastu vaktsineerimine (Spikevax BA.4-5, tõhustusdoosiks);;;0;10.11.2022;;;1;;E160;infektsioonhaigused
+AIH024;;COVID-19 vastu vaktsineerimine (5–11aastased, Pfizer BA.4-5);;;0;14.12.2022;;;1;;E160;infektsioonhaigused
+AIH025;;puukentsefaliidi vastu vaktsineerimine;;;0;15.08.2023;;;1;;E160;infektsioonhaigused
+AIH026;;tuberkuloosi (BCG) vastu vaktsineerimine;;;0;15.08.2023;;;1;;E160;infektsioonhaigused
+AKA001;;kardioloogi vastuvõtt;;;0;16.12.2016;;;1;;E170;kardioloogia
+AKA002;;laste kardioloogi vastuvõtt;;;0;16.12.2016;;;1;;E720;pediaatria – kardioloogia
+AKA003;;kardioloogi vastuvõtt (rütmihäired);;;0;16.12.2016;;;1;;E170;kardioloogia
+AKA004;;kardioloogi vastuvõtt (stimulaatorid);;;0;16.12.2016;;;1;;E170;kardioloogia
+AKA005;;kardioloogi vastuvõtt (südamepuudulikkus);;;0;16.12.2016;;;1;;E170;kardioloogia
+AKA006;;kardioloogi vastuvõtt (tromboos);;;0;16.12.2016;03.03.2017;;0;;E170;kardioloogia
+AKA007;;kardioloogi vastuvõtt (pulmonaalne hüpertensioon);;;0;16.12.2016;;;1;;E170;kardioloogia
+AKA008;;õe vastuvõtt kardioloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AKA009;;õe vastuvõtt kardioloogia erialal (lapsed);;;0;16.12.2016;;;1;;N220;lasteõendus
+AKA010;;õe vastuvõtt kardioloogia erialal (tromboos);;;0;16.12.2016;03.03.2017;;0;;N500;õde
+AKA011;;õe vastuvõtt kardioloogia erialal (rütmihäired);;;0;16.12.2016;;;1;;N500;õde
+AKA012;;õe vastuvõtt kardioloogia erialal (südamepuudulikkus);;;0;16.12.2016;;;1;;N500;õde
+AKA013;;kardioloogi vastuvõtt (vähihaiged);;;0;22.12.2020;;;1;;E170;kardioloogia
+AKK001;;kardiokirurgi vastuvõtt;;;0;16.12.2016;;;1;;E480;kardiokirurgia
+ALK001;;lastekirurgi vastuvõtt;;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALK002;;lastekirurgi vastuvõtt (nahaprobleemid);;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALK003;;lastekirurgi vastuvõtt (seedetrakti probleemid);;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALK004;;lastekirurgi vastuvõtt (uroloogilised probleemid);;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALK005;;lastekirurgi vastuvõtt (kesknärvisüsteemi probleemid);;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALK006;;lastekirurgi vastuvõtt (ortopeed);;;0;16.12.2016;;;1;;E200;lastekirurgia
+ALM001;;laboriarsti vastuvõtt;;;0;16.12.2016;;;1;;E190;laborimeditsiin
+ALP001;;logopeedi vastuvõtt (eesti keel);;;0;16.12.2016;;;1;;;
+ALP002;;logopeedi vastuvõtt (vene keel);;;0;16.12.2016;;;1;;;
+ALP003;;laste logopeedi vastuvõtt (riskivastsündinud);;;0;16.12.2016;;;1;;;
+ALP004;;laste logopeedi vastuvõtt (eesti keel);;;0;16.12.2016;;;1;;;
+ALP005;;laste logopeedi vastuvõtt (vene keel);;;0;16.12.2016;;;1;;;
+ALP006;;kliinilise logopeedi vastuvõtt (eesti keel);;;0;03.03.2017;;;1;;S180;kliiniline logopeed
+ALP007;;kliinilise logopeedi vastuvõtt (vene keel);;;0;03.03.2017;;;1;;S180;kliiniline logopeed
+ALP008;;laste kliinilise logopeedi vastuvõtt (riskivastsündinud);;;0;03.03.2017;;;1;;S180;kliiniline logopeed
+ALP009;;laste kliinilise logopeedi vastuvõtt (eesti keel);;;0;03.03.2017;;;1;;S180;kliiniline logopeed
+ALP010;;laste kliinilise logopeedi vastuvõtt (vene keel);;;0;03.03.2017;;;1;;S180;kliiniline logopeed
+AMA001;;mammoloogi vastuvõtt;;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+AMA002;;õe vastuvõtt mammoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AMG001;;geneetiku vastuvõtt;;;0;16.12.2016;;;1;;E500;meditsiinigeneetika
+AMG002;;geneetiku vastuvõtt (onkogeneetika);;;0;22.12.2020;;;1;;E500;meditsiinigeneetika
+AMG003;;laste geneetiku vastuvõtt;;;0;22.12.2020;;;1;;E500;meditsiinigeneetika
+AMG004;;geneetiku vastuvõtt (rasedad);;;0;22.12.2020;;;1;;E500;meditsiinigeneetika
+AMG005;;geneetiku vastuvõtt (viljatus);;;0;22.12.2020;;;1;;E500;meditsiinigeneetika
+ANE001;;neuroloogi vastuvõtt;;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE002;;neuroloogi vastuvõtt (peavalu);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE003;;neuroloogi vastuvõtt (epilepsia);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE004;;neuroloogi vastuvõtt (Sclerosis Multiplex);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE005;;neuroloogi vastuvõtt (Parkinsoni tõbi);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE006;;neuroloogi vastuvõtt (lihashaigused);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE007;;neuroloogi vastuvõtt (mäluhäired);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE008;;neuroloogi vastuvõtt (ajuvereringehäired);;;0;16.12.2016;;;1;;E230;neuroloogia
+ANE009;;laste neuroloogi vastuvõtt;;;0;16.12.2016;;;1;;E750;pediaatria – neuroloogia
+ANE010;;laste neuroloogi vastuvõtt (imikud);;;0;16.12.2016;;;1;;E750;pediaatria – neuroloogia
+ANE011;;õe vastuvõtt neuroloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+ANE012;;õe vastuvõtt neuroloogia erialal (peavalu);;;0;16.12.2016;;;1;;N500;õde
+ANE013;;õe vastuvõtt neuroloogia erialal (Sclerosis Multiplex);;;0;16.12.2016;;;1;;N500;õde
+ANE014;;õe vastuvõtt neuroloogia erialal (Parkinsoni tõbi);;;0;16.12.2016;;;1;;N500;õde
+ANE015;;õe vastuvõtt neuroloogia eriala (insult);;;0;22.12.2020;;;1;;N500;õde
+ANE016;;õe vastuvõtt neuroloogia eriala (inkontinents);;;0;22.12.2020;;;1;;N500;õde
+ANF001;;nefroloogi vastuvõtt;;;0;16.12.2016;;;1;;E210;nefroloogia
+ANF002;;laste nefroloogi vastuvõtt;;;0;16.12.2016;;;1;;E730;pediaatria – nefroloogia
+ANF003;;õe vastuvõtt nefroloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+ANF004;;õe vastuvõtt nefroloogia erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N500;õde
+ANF005;;õe vastuvõtt nefroloogia erialal (predialüüs);;;0;16.12.2016;;;1;;N500;õde
+ANK001;;neurokirurgi vastuvõtt;;;0;16.12.2016;;;1;;E220;neurokirurgia
+ANK002;;laste neurokirurgi vastuvõtt;;;0;22.12.2020;;;1;;;neurokirurgia
+AOF001;;silmaarsti vastuvõtt;;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF002;;silmaarsti vastuvõtt (silmakirurg);;;0;16.12.2016;;;1;;E630;oftalmoloogia – silmakirurgia
+AOF003;;silmaarsti vastuvõtt (neurooftalmoloogia);;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF004;;silmaarsti vastuvõtt (silma elektrofüsioloogia);;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF005;;silmaarsti vastuvõtt (silma pisioperatsioonid);;;0;16.12.2016;;;1;;E630;oftalmoloogia – silmakirurgia
+AOF006;;silmaarsti vastuvõtt (silmaproteesid);;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF007;;silmaarsti vastuvõtt (silmasisesed süstid);;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF008;;laste silmaarsti vastuvõtt;;;0;16.12.2016;;;1;;E240;oftalmoloogia
+AOF009;;ortoptisti vastuvõtt;;;0;16.12.2016;;;1;;;
+AOF010;;optometristi vastuvõtt;;;0;16.12.2016;;;1;;S200;optometrist
+AOF011;;õe vastuvõtt oftalmoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AOF012;;õe vastuvõtt oftalmoloogia erialal (glaukoom);;;0;16.12.2016;;;1;;N500;õde
+AOF013;;õe vastuvõtt oftalmoloogia erialal (diabeet);;;0;16.12.2016;;;1;;N500;õde
+AOF014;;õe vastuvõtt oftalmoloogia erialal (kuiva silma sündroom);;;0;16.12.2016;;;1;;N500;õde
+AOF015;;laste optometristi vastuvõtt (kuni 6 eluaastat);;;0;16.12.2016;;22.12.2020;1;;S200;optometrist
+AOF016;;silmaarsti vastuvõtt (glaukoom);;;0;22.12.2020;;;1;;E250;oftalmoloogia
+AOF017;;õe vastuvõtt oftalmoloogia erialal (silmaproteesid);;;0;22.12.2020;;;1;;N500;õde
+AOF018;;laste optometristi vastuvõtt (alates 6.eluaastast);;;0;22.12.2020;;;1;;;
+AOF019;;õe vastuvõtt oftalmoloogia erialal (3–7aastased);;;0;10.11.2022;;;1;;N500;õde
+AON001;;onkoloogi vastuvõtt;;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON002;;õe vastuvõtt onkoloogia erialal;;;0;16.12.2016;;;1;;N240;onkoloogiaõendus
+AON003;;õe vastuvõtt onkoloogia erialal (keemiaravi);;;0;16.12.2016;;;1;;N240;onkoloogiaõendus
+AON004;;õe vastuvõtt onkoloogia erialal (palliatiivravi);;;0;16.12.2016;;;1;;N240;onkoloogiaõendus
+AON005;;onkogünekoloogi vastuvõtt;;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+AON006;;onkokirurgi vastuvõtt (alumine seedetrakt);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AON007;;onkokirurgi vastuvõtt (ülemine seedetrakt);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AON008;;pea- ja kaelakirurgi vastuvõtt (onkoloog);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AON009;;onkoloogi vastuvõtt (keemiaravi);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON010;;onkoloogi vastuvõtt (kiiritusravi);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON011;;onkoloogi vastuvõtt (keemiaravi, mammoloog);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON012;;onkoloogi vastuvõtt (kiiritusravi, günekoloog);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON013;;õe vastuvõtt onkoloogia erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N240;onkoloogiaõendus
+AON014;;onkoloogi vastuvõtt (palliatiivravi);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON015;;onkoloogi vastuvõtt (mammoloog);;;0;16.12.2016;;;1;;E250;onkoloogia (kiiritus- ja keemiaravi tähenduses)
+AON016;;õe vastuvõtt onkoloogia erialal (kliiniline toitmine);;;0;16.03.2018;22.12.2020;;1;;N240;onkoloogiaõendus
+AON017;;õe vastuvõtt pea- ja kaelakirurgia erialal;;;0;22.12.2020;;;1;;N500;õde
+AOR001;;ortopeedi vastuvõtt;;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR002;;ortopeedi vastuvõtt (sporditrauma);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR003;;ortopeedi vastuvõtt (käekirurgia);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR004;;ortopeedi vastuvõtt (seljakirurgia);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR005;;ortopeedi vastuvõtt (septiline kirurgia);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR006;;ortopeedi vastuvõtt (põletusravi);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR007;;laste ortopeedi vastuvõtt;;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR008;;laste ortopeedi vastuvõtt (vastsündinud ja imikud);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR009;;laste ortopeedi vastuvõtt (selja ja rindkere ortopeed);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR010;;laste ortopeedi vastuvõtt (jäsemete ortopeed);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR011;;õe vastuvõtt ortopeedia erialal;;;0;16.12.2016;;;1;;N500;õde
+AOR012;;ortopeedi vastuvõtt (trauma);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR013;;õe vastuvõtt traumatoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AOR014;;ortopeedi vastuvõtt (õlakirurgia);;;0;16.12.2016;;;1;;E260;ortopeedia
+AOR015;;ortopeedi vastuvõtt (seljakirurgia- skolioos);;;0;22.12.2020;;;1;;E260;ortopeedia
+AOR016;;ortopeedi vastuvõtt (labajalakirurgia);;;0;22.12.2020;;;1;;E260;ortopeedia
+AOR017;;ortopeedi vastuvõtt (artroplastikakirurgia/proteesid);;;0;22.12.2020;;;1;;E260;ortopeedia
+AOR018;;õe vastuvõtt ortopeedia erialal (seljakirurgia);;;0;22.12.2020;;;1;;N500;õde
+AOT001;;kõrva-nina-kurguarsti vastuvõtt;;;0;16.12.2016;;;1;;E270;otorinolarüngoloogia
+AOT002;;kõrva-nina-kurguarsti vastuvõtt (kuulmishäired);;;0;16.12.2016;;;1;;E270;otorinolarüngoloogia
+AOT003;;kõrva-nina-kurguarsti vastuvõtt (pea- ja kaelakirurg);;;0;16.12.2016;;;1;;E270;otorinolarüngoloogia
+AOT004;;laste kõrva-nina-kurguarsti vastuvõtt;;;0;16.12.2016;;;1;;E270;otorinolarüngoloogia
+AOT005;;õe vastuvõtt kõrva-nina-kurguhaiguste erialal (lapsed);;;0;16.12.2016;;;1;;N220;lasteõendus
+AOT006;;õe vastuvõtt kõrva-nina-kurguhaiguste erialal;;;0;16.12.2016;;;1;;N500;õde
+AOT007;;õe vastuvõtt kõrva-nina-kurguhaiguste erialal (kuuldeaparaadid);;;0;16.12.2016;;;1;;N500;õde
+AOT008;;õe vastuvõtt kõrva-nina-kurguhaiguste erialal (kuulmisskriining);;;0;16.12.2016;;;1;;N500;õde
+AOT009;;kõrva-nina-kurguarsti vastuvõtt (unehäired);;;0;16.12.2016;;;1;;E270;otorinolarüngoloogia
+APE001;;lastearsti vastuvõtt;;;0;16.12.2016;;;1;;E290;pediaatria
+APE002;;lastearsti vastuvõtt (neonatoloog);;;0;16.12.2016;;;1;;E740;pediaatria – neonatoloogia
+APE003;;õe vastuvõtt pediaatria erialal;;;0;16.12.2016;;;1;;N220;lasteõendus
+APE004;;õe vastuvõtt pediaatria erialal (inkontinents);;;0;16.12.2016;;;1;;N220;lasteõendus
+APE005;;õe vastuvõtt pediaatria erialal (imetamisnõustamine);;;0;16.12.2016;;;1;;N220;lasteõendus
+APE006;;õe vastuvõtt pediaatria erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N220;lasteõendus
+APE007;;õe vastuvõtt pediaatria erialal (vastsündinud ja imikud);;;0;16.12.2016;;;1;;N220;lasteõendus
+APE008;;õe vastuvõtt pediaatria erialal (astma);;;0;16.12.2016;;;1;;N220;lasteõendus
+APE009;;õe vastuvõtt pediaatria erialal (diabeet);;;0;16.12.2016;;;1;;N220;lasteõendus
+APE010;;õe vastuvõtt pediaatria erialal (immuniseerimine);;;0;16.12.2016;;;1;;N220;lasteõendus
+APM001;;perearsti vastuvõtt;;;0;16.12.2016;;;1;;E300;peremeditsiin
+APM002;;pereõe vastuvõtt;;;0;16.12.2016;;;1;;N320;pereõendus
+APM003;;relvaloa tervisetõend;;;0;15.08.2023;;;1;;;
+APM004;;mootorsõidukijuhi tervisetõend;;;0;15.08.2023;;;1;;;
+APM005;;töötaja tervisetõend;;;0;15.08.2023;;;1;;;
+APM006;;abipolitseiniku tervisetõend;;;0;15.08.2023;;;1;;;
+APM007;;terve lapse läbivaatus;;;0;15.08.2023;;;1;;;
+APP001;;psühhiaatri vastuvõtt;;;0;16.12.2016;;;1;;E320;psühhiaatria
+APP002;;psühhiaatri vastuvõtt (sõltuvushäired);;;0;16.12.2016;;;1;;E320;psühhiaatria
+APP003;;psühhiaatri vastuvõtt (söömishäired);;;0;16.12.2016;;;1;;E320;psühhiaatria
+APP004;;psühholoogi vastuvõtt;;;0;16.12.2016;16.03.2018;;0;;;
+APP005;;laste psühholoogi vastuvõtt;;;0;16.12.2016;16.03.2018;;0;;;
+APP006;;psühhoterapeudi vastuvõtt;;;0;16.12.2016;16.03.2018;;0;;;
+APP007;;õe vastuvõtt psühhiaatria erialal;;;0;16.12.2016;16.03.2018;;0;;N410;psühhiaatriaõendus
+APP008;;õe vastuvõtt psühhiaatria erialal (sõltuvushäired);;;0;16.12.2016;16.03.2018;;0;;N410;psühhiaatriaõendus
+APP009;;vaimse tervise õe vastuvõtt;;;0;16.12.2016;;;1;;N400;vaimse tervise õendus
+APP010;;psühholoogi vastuvõtt (kriisinõustamine rasedatele);;;0;16.12.2016;;22.12.2020;1;;;
+APP011;;laste- ja noorukite psühhiaatri vastuvõtt;;;0;16.12.2016;;;1;;E770;psühhiaatria – laste- ja noorukitepsühhiaatria
+APP012;;õe vastuvõtt psühhiaatria erialal (lapsed);;;0;16.12.2016;16.03.2018;;0;;N410;psühhiaatriaõendus
+APP013;;õe vastuvõtt psühhiaatria erialal (toitumisnõustamine);;;0;03.03.2017;16.03.2018;;0;;N410;psühhiaatriaõendus
+APP014;;kliinilise psühholoogi vastuvõtt;;;0;03.03.2017;;;1;;S190;kliiniline psühholoog
+APP015;;laste ja noorukite kliinilise psühholoogi vastuvõtt;;;0;03.03.2017;;16.03.2018;1;;S190;kliiniline psühholoog
+APP016;;psühhiaatri vastuvõtt (unehäired);;;0;16.03.2018;;;1;;E320;psühhiaatria
+APP017;;laste ja noorukite vaimse tervise õe vastuvõtt;;;0;16.03.2018;;;1;;N400;vaimse tervise õendus
+APP018;;vaimse tervise õe vastuvõtt (söömishäired);;;0;16.03.2018;;;1;;N400;vaimse tervise õendus
+APP019;;vaimse tervise õe vastuvõtt (sõltuvushäired);;;0;16.03.2018;;;1;;N400;vaimse tervise õendus
+APP020;;vaimse tervise õe vastuvõtt (unehäired);;;0;16.03.2018;;;1;;N400;vaimse tervise õendus
+APP021;;vaimse tervise õe vastuvõtt (toitumisnõustamine);;;0;16.03.2018;22.12.2020;;1;;N400;vaimse tervise õendus
+APP022;;vaimse tervise õe vastuvõtt (kliiniline toitmine);;;0;16.03.2018;22.12.2020;;1;;N400;vaimse tervise õendus
+APP023;;laste ja noorukite kliinilise psühholoogi vastuvõtt (kriisinõustamine rasedatele);;;0;22.12.2020;;;1;;S190;kliiniline psühholoog
+APP024;;psühholoogi vastuvõtt (pere- ja suhteteraapia);;;0;05.05.2023;;;1;;E320;psühhiaatria
+APR001;;plastika- ja rekonstruktiivkirurgi vastuvõtt;;;0;16.12.2016;;;1;;E310;plastika- ja rekonstruktiivkirurgia
+APR002;;plastika- ja rekonstruktiivkirurgi vastuvõtt (põletusravi);;;0;16.12.2016;;;1;;E310;plastika- ja rekonstruktiivkirurgia
+APR003;;õe vastuvõtt plastika- ja rekonstruktiivkirurgia erialal (põletusravi);;;0;16.12.2016;;;1;;N500;õde
+APU001;;kopsuarsti vastuvõtt;;;0;16.12.2016;;;1;;E330;pulmonoloogia
+APU002;;kopsuarsti vastuvõtt (uneaegsed hingamishäired);;;0;16.12.2016;;22.12.2020;1;;E330;pulmonoloogia
+APU003;;õe vastuvõtt pulmonoloogia erialal;;;0;16.12.2016;;;1;;N260;pulmonoloogiaõendus
+APU004;;õe vastuvõtt pulmonoloogia erialal (tubakast loobumine);;;0;16.12.2016;;03.03.2017;1;;N260;pulmonoloogiaõendus
+APU005;;kopsuarsti vastuvõtt (tuberkuloos);;;0;16.12.2016;;;1;;E330;pulmonoloogia
+APU006;;õe vastuvõtt pulmonoloogia erialal (kodune ventilaatorravi);;;0;16.12.2016;;;1;;N260;pulmonoloogiaõendus
+APU007;;õe vastuvõtt pulmonoloogia erialal (kodune hapnikravi);;;0;16.12.2016;;;1;;N260;pulmonoloogiaõendus
+APU008;;õe vastuvõtt pulmonoloogia erialal (astma, KOK);;;0;16.12.2016;;22.12.2020;1;;N260;pulmonoloogiaõendus
+APU009;;kopsuarsti vastuvõtt (tubakast loobumine);;;0;16.12.2016;;16.03.2018;1;;E330;pulmonoloogia
+APU010;;õe vastuvõtt pulmonoloogia erialal (uneaegsed hingamishäired);;;0;16.12.2016;;22.12.2020;1;;N260;pulmonoloogiaõendus
+APU011;;laste kopsuarsti vastuvõtt (tuberkuloos);;;0;16.12.2016;;;1;;E330;pulmonoloogia
+APU012;;laste pulmonoloogi-allergoloogi vastuvõtt;;;0;16.12.2016;;;1;;E330;pulmonoloogia
+APU013;;õe vastuvõtt pulmonoloogia-allergoloogia erialal (lapsed);;;0;16.12.2016;;;1;;N220;lasteõendus
+ARA001;;radioloogi vastuvõtt;;;0;09.11.2021;;;1;;E340;radioloogia
+ARA002;;rinnanäärmekasvaja sõeluuring;;;0;09.11.2021;;;1;;E340;radioloogia
+ARE001;;reumatoloogi vastuvõtt;;;0;16.12.2016;;;1;;E350;reumatoloogia
+ARE002;;reumatoloogi vastuvõtt (osteoporoos);;;0;16.12.2016;;;1;;E350;reumatoloogia
+ARE003;;reumatoloogi vastuvõtt (varajane artriit);;;0;16.12.2016;;;1;;E350;reumatoloogia
+ARE004;;õe vastuvõtt reumatoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+ARE005;;õe vastuvõtt reumatoloogia erialal (osteoporoos);;;0;16.12.2016;;;1;;N500;õde
+ARE006;;laste reumatoloogi vastuvõtt;;;0;16.12.2016;;;1;;E760;pediaatria – reumatoloogia
+ARE007;;õe vastuvõtt reumatoloogia erialal (lapsed);;;0;16.12.2016;;;1;;N500;õde
+ARK001;;rindkerekirurgi vastuvõtt;;;0;16.12.2016;;;1;;E390;torakaalkirurgia
+ARK002;;õe vastuvõtt rindkerekirurgia erialal;;;0;16.12.2016;;;1;;N500;õde
+ARK003;;rindkerekirurgi vastuvõtt (onkoloog);;;0;16.12.2016;;;1;;E390;torakaalkirurgia
+ASG001;;günekoloogi vastuvõtt;;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG002;;günekoloogi vastuvõtt (IVF);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG003;;mammoloogi vastuvõtt (günekoloog);;;0;16.12.2016;;22.12.2020;1;;E370;sünnitusabi ja günekoloogia
+ASG004;;günekoloogi vastuvõtt (viljatus);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG005;;günekoloogi vastuvõtt (seksuaaltervis);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG006;;günekoloogi vastuvõtt (kriisinõustamine rasedatele);;;0;16.12.2016;;22.12.2020;1;;E370;sünnitusabi ja günekoloogia
+ASG007;;laste günekoloogi vastuvõtt;;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG008;;günekoloogi vastuvõtt (inkontinents);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG009;;günekoloogi vastuvõtt (operatsioonieelne);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG010;;günekoloogi vastuvõtt (perimenopaus);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG011;;günekoloogi vastuvõtt (rasedad);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG012;;günekoloogi vastuvõtt (vaagnapõhja allavaje);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG013;;günekoloogi vastuvõtt (raseduse katkestamine);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG014;;ämmaemanda vastuvõtt;;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG015;;ämmaemanda vastuvõtt (IVF);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG016;;ämmaemanda vastuvõtt (inkontinents);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG017;;ämmaemanda vastuvõtt (imetamisnõustamine);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG018;;ämmaemanda vastuvõtt (viljatus);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG019;;ämmaemanda vastuvõtt (seksuaaltervis);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG020;;ämmaemanda vastuvõtt (raseduskriis);;;0;16.12.2016;;22.12.2020;1;;N600;ämmaemand
+ASG021;;ämmaemanda vastuvõtt (toitumisnõustamine);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG022;;ämmaemanda vastuvõtt (kuulmisskriining);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG023;;ämmaemanda vastuvõtt (kontratseptsioon);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG024;;ämmaemanda vastuvõtt (gestatsioonidiabeet);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG025;;ämmaemanda vastuvõtt (emakakaelavähi sõeluuring);;;0;16.12.2016;31.12.2022;;1;;N600;ämmaemand
+ASG026;;õe vastuvõtt günekoloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+ASG027;;õe vastuvõtt günekoloogia erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N500;õde
+ASG028;;günekoloogi vastuvõtt (endokrinoloog);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG029;;günekoloogi vastuvõtt (kolposkoopia);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG030;;günekoloogi vastuvõtt (minihüsteroskoopia);;;0;16.12.2016;;;1;;E370;sünnitusabi ja günekoloogia
+ASG031;;ämmaemanda vastuvõtt (diabeet);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG032;;ämmaemanda vastuvõtt (immuniseerimine);;;0;16.12.2016;;;1;;N600;ämmaemand
+ASG033;;ämmaemanda vastuvõtt (raseduse jälgimine);;;0;03.03.2017;;;1;;N600;ämmaemand
+ASG034;;ämmaemanda vastuvõtt (sünnitusjärgne kontroll);;;0;22.12.2020;;;1;;N600;ämmaemand
+ASG035;;ämmaemanda vastuvõtt (rindade kontroll);;;0;22.12.2020;;;1;;N600;ämmaemand
+ASG036;;ämmaemanda vastuvõtt (raseduse kinnitamine);;;0;22.12.2020;;;1;;N600;ämmaemand
+ASG037;;ämmaemanda vastuvõtt (rinnahaigete nõustamine);;;0;22.12.2020;;;1;;N600;ämmaemand
+ASG038;;günekoloogi vastuvõtt (emakakaelavähi sõeluuring);;;0;07.12.2021;31.12.2022;;1;;E370;sünnitusabi ja günekoloogia
+ASG039;;günekoloogi vastuvõtt (noorte seksuaaltervis);;;0;18.04.2022;;;1;;E370;sünnitusabi ja günekoloogia
+ASG040;;ämmaemanda vastuvõtt (noorte seksuaaltervis);;;0;18.04.2022;;;1;;N600;ämmaemand
+ASG041;;emakakaelavähi sõeluuring;;;0;02.05.2022;;;1;;;
+ASI001;;sisehaiguste arsti vastuvõtt;;;0;16.12.2016;;;1;;E360;sisehaigused
+ASI002;;sisehaiguste arsti vastuvõtt (rasedad);;;0;16.12.2016;;;1;;E360;sisehaigused
+ASI003;;sisehaiguste arsti vastuvõtt (bariaatria);;;0;16.12.2016;;;1;;E360;sisehaigused
+ASI004;;sisehaiguste arsti vastuvõtt (luud-liigesed);;;0;16.12.2016;;;1;;E360;sisehaigused
+ASI005;;sisehaiguste arsti vastuvõtt (tromboos);;;0;16.12.2016;;;1;;E360;sisehaigused
+ASI006;;geriaatri vastuvõtt;;;0;16.12.2016;;;1;;E660;sisehaigused – geriaatria
+ASI007;;õe vastuvõtt sisehaiguste erialal;;;0;16.12.2016;;;1;;N500;õde
+ASI008;;õe vastuvõtt sisehaiguste erialal (toitumisnõustamine);;;0;16.12.2016;22.12.2020;03.03.2017;1;;N500;õde
+ASI009;;õe vastuvõtt sisehaiguste erialal (hepatiit);;;0;16.12.2016;;;1;;N500;õde
+ASI010;;õe vastuvõtt sisehaiguste erialal (tromboos);;;0;16.12.2016;;;1;;N500;õde
+ASI011;;õe vastuvõtt sisehaiguste erialal (kliiniline toitmine);;;0;16.03.2018;22.12.2020;;1;;N500;õde
+ASI012;;sisehaiguste arsti vastuvõtt (kliiniline toitmine);;;0;16.03.2018;22.12.2020;;1;;E360;sisehaigused
+ASI013;;sisehaiguste arsti vastuvõtt (vähihaiged);;;0;22.12.2020;;;1;;E360;sisehaigused
+ASN001;;suu-, näo-ja lõualuukirurgi vastuvõtt;;;0;16.12.2016;;;1;;E440;suu-, näo- ja lõualuukirurgia
+ASN002;;suu-, näo-ja lõualuukirurgi vastuvõtt (huule- ja suulaelõhed);;;0;16.12.2016;;;1;;E440;suu-, näo- ja lõualuukirurgia
+ASN003;;suu-, näo-ja lõualuukirurgi vastuvõtt (pea- ja kaela väärarendid);;;0;22.12.2020;;;1;;E440;suu-, näo- ja lõualuukirurgia
+ASN004;;õe vastuvõtt suu-, näo- ja lõualuukirurgia erialal;;;0;22.12.2020;;;1;;N500;õde
+ASP001;;spordimeditsiini arsti vastuvõtt;;;0;16.12.2016;;;1;;E610;füsiaatria ja taastusravi – spordimeditsiin
+ASP002;;spordimeditsiini arsti vastuvõtt (noorsportlaste tervisekontroll);;;0;16.12.2016;;;1;;E610;füsiaatria ja taastusravi – spordimeditsiin
+ASP003;;õe vastuvõtt spordimeditsiini erialal;;;0;16.12.2016;;;1;;N500;õde
+AST001;;hambaarsti vastuvõtt;;;0;16.12.2016;;;1;;E430;hambaarst
+AST002;;hambaarsti vastuvõtt (juureravi);;;0;16.12.2016;;;1;;E430;hambaarst
+AST003;;hambaarsti vastuvõtt (igemeravi);;;0;16.12.2016;;;1;;E430;hambaarst
+AST004;;laste hambaarsti vastuvõtt;;;0;16.12.2016;;;1;;E430;hambaarst
+AST005;;hambaproteesiarsti vastuvõtt;;;0;16.12.2016;;;1;;E460;restauratiivne hambaravi 
+AST006;;hambaproteesiarsti vastuvõtt (igemeravi);;;0;16.12.2016;;;1;;E460;restauratiivne hambaravi 
+AST007;;hambaproteesiarsti vastuvõtt (implantaadid);;;0;16.12.2016;;;1;;E460;restauratiivne hambaravi 
+AST008;;ortodondi vastuvõtt;;;0;16.12.2016;;;1;;E450;ortodontia
+AST009;;ortodondi vastuvõtt (suulaelõhe);;;0;16.12.2016;;;1;;E450;ortodontia
+AST010;;suuhügienisti vastuvõtt;;;0;16.12.2016;;;1;;;
+AST011;;suukirurgi vastuvõtt;;;0;16.12.2016;;;1;;E440;suu-, näo- ja lõualuukirurgia
+ATF001;;tegevusterapeudi vastuvõtt;;;0;16.12.2016;;;1;;S170;tegevusterapeut
+ATF002;;füsioterapeudi vastuvõtt;;;0;16.12.2016;;;1;;S160;füsioterapeut
+ATF003;;laste füsioterapeudi vastuvõtt;;;0;16.12.2016;;;1;;S160;füsioterapeut
+ATF004;;taastusarsti vastuvõtt;;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF005;;taastusarsti vastuvõtt (noorsportlase tervisekontroll);;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF006;;taastusarsti vastuvõtt (proteesid);;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF007;;õe vastuvõtt taastusravi erialal;;;0;16.12.2016;;;1;;N500;õde
+ATF008;;taastusarsti vastuvõtt (spordidiagnostika);;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF009;;taastusarsti vastuvõtt (ortopeedilised patsiendid);;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF010;;laste taastusarsti vastuvõtt;;;0;16.12.2016;;;1;;E380;taastusravi ja füsiaatria
+ATF011;;taastusarsti vastuvõtt (lümfiteraapia);;;0;16.03.2018;;;1;;E380;taastusravi ja füsiaatria
+ATF012;;taastusarsti vastuvõtt (vaagnapõhja probleemid);;;0;22.12.2020;;;1;;E380;taastusravi ja füsiaatria
+ATF013;;taastusarsti vastuvõtt (kõne- ja neelamishäired);;;0;22.12.2020;;;1;;E380;taastusravi ja füsiaatria
+ATN001;;arsti vastuvõtt (toitumisnõustamine);;;0;22.12.2020;;;1;;E600;arst
+ATN002;;õe vastuvõtt (toitumisnõustamine);;;0;22.12.2020;;;1;;N500;õde
+ATN003;;arsti vastuvõtt (kliiniline toitmine);;;0;22.12.2020;;;1;;E600;arst
+ATN004;;õe vastuvõtt (kliiniline toitmine);;;0;22.12.2020;;;1;;N500;õde
+ATN005;;arsti vastuvõtt (toitumisnõustamine, lapsed);;;0;22.12.2020;;;1;;E600;arst
+ATN006;;õe vastuvõtt (toitumisnõustamine, lapsed);;;0;22.12.2020;;;1;;N500;õde
+ATT001;;töötervishoiuarsti vastuvõtt;;;0;16.12.2016;;;1;;E400;töötervishoid
+ATT002;;töötervishoiuarsti vastuvõtt (liiklusmeditsiini komisjon);;;0;16.12.2016;;;1;;E400;töötervishoid
+ATT003;;õe vastuvõtt töötervishoiu erialal;;;0;16.12.2016;;;1;;N330;töötervishoiuõendus
+ATT004;;tööhügieeniku vastuvõtt;;;0;16.12.2016;;;1;;;
+AUR001;;uroloogi vastuvõtt;;;0;16.12.2016;;;1;;E410;uroloogia
+AUR002;;õe vastuvõtt uroloogia erialal;;;0;16.12.2016;;;1;;N500;õde
+AUR003;;õe vastuvõtt uroloogia erialal (inkontinents);;;0;16.12.2016;;;1;;N500;õde
+AUR004;;õe vastuvõtt uroloogia erialal (epitsüstostoom);;;0;16.12.2016;;;1;;N500;õde
+AUR005;;uroloogi vastuvõtt (urodünaamika);;;0;16.12.2016;;;1;;E410;uroloogia
+AUR006;;uroloogi vastuvõtt (vähihaiged);;;0;22.12.2020;;;1;;E410;uroloogia
+AUR007;;laste uroloogi vastuvõtt;;;0;15.08.2023;;;1;;E410;uroloogia
+AVK001;;veresoontekirurgi vastuvõtt;;;0;16.12.2016;;;1;;E490;vaskulaarkirurgia
+AVK002;;veresoontekirurgi vastuvõtt (arteriaalne patoloogia, veresoonte taastamine);;;0;16.12.2016;;16.03.2018;1;;E490;vaskulaarkirurgia
+AYK001;;üldkirurgi vastuvõtt;;;0;16.12.2016;;;1;;E420;üldkirurgia
+AYK002;;üldkirurgi vastuvõtt (proktoloog);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AYK003;;üldkirurgi vastuvõtt (bariaatria);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AYK004;;üldkirurgi vastuvõtt (veenilaiendid);;;0;16.12.2016;;;1;;E420;üldkirurgia
+AYK005;;õe vastuvõtt kirurgia erialal;;;0;16.12.2016;;;1;;N500;õde
+AYK006;;õe vastuvõtt kirurgia erialal (haavahooldus);;;0;16.12.2016;;;1;;N500;õde
+AYK007;;õe vastuvõtt kirurgia erialal (stoomihooldus);;;0;16.12.2016;;;1;;N500;õde
+AYK008;;onkokirurgi vastuvõtt;;;0;16.12.2016;;;1;;E420;üldkirurgia
+AYK009;;õe vastuvõtt kirurgia erialal (bariaatria);;;0;03.03.2017;;;1;;N500;õde
+AYK010;;õe vastuvõtt kirurgia erialal (kliiniline toitmine);;;0;16.03.2018;22.12.2020;;1;;N500;õde
+AYK011;;üldkirurgi vastuvõtt (organsiirdamine);;;0;22.12.2020;;;1;;E420;üldkirurgia

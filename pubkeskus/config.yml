@@ -1,0 +1,16 @@
+termx:
+  url: 'https://termx.kodality.dev/api/'
+keycloak:
+  sso-url:
+  client-id:
+  client-secret:
+import:
+  class: 'pub.etervis.classification-import'
+  cs:
+    dryRun: false
+    cleanVersion: true
+    replaceConcept: true
+  vs:
+    dryRun: false
+
+

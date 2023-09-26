@@ -1,0 +1,48 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A01;Diagnoosi kinnitamine;Diagnoosi kinnitamine;Diagnoosi kinnitamine;;0;19.04.2018;;;ELMÜ;1;
+A02;Kandluse määramine (presümptomaatiline);Kandluse määramine (presümptomaatiline);Kandluse määramine (presümptomaatiline);;0;19.04.2018;;;ELMÜ;1;
+A03;Prenataalne uuring (Kiire!);Prenataalne uuring (Kiire!);Prenataalne uuring (Kiire!);;0;19.04.2018;;;ELMÜ;1;
+A04;Olapariib-ravi otsustamiseks (Kiire!);Olapariib-ravi otsustamiseks (Kiire!);Olapariib-ravi otsustamiseks (Kiire!);;0;19.04.2018;;;ELMÜ;1;
+A05;Prognostiline uuring (KLL);Prognostiline uuring (KLL);Prognostiline uuring (KLL);;0;19.04.2018;;;ELMÜ;1;
+A06;Geneetilise riski määramine;Geneetilise riski määramine;Geneetilise riski määramine;;0;19.04.2018;;;ELMÜ;1;
+A07;Muu põhjus;Muu põhjus;Muu põhjus;;0;19.04.2018;;;ELMÜ;1;
+A08;Kahtlus vaskuliidile;Kahtlus vaskuliidile;Kahtlus vaskuliidile;;0;19.04.2018;;;ELMÜ;1;
+A09;Kahtlus muule haigusele;Kahtlus muule haigusele;Kahtlus muule haigusele;;0;19.04.2018;;;ELMÜ;1;
+A10;Ootelehele võtmine;Ootelehele võtmine;Ootelehele võtmine;;0;19.04.2018;;;ELMÜ;1;
+A11;Kvartaalsed analüüsid ootelehe patsiendile;Kvartaalsed analüüsid ootelehe patsiendile;Kvartaalsed analüüsid ootelehe patsiendile;;0;19.04.2018;;;ELMÜ;1;
+A12;Vereülekande järgne;Vereülekande järgne;Vereülekande järgne;;0;19.04.2018;;;ELMÜ;1;
+A13;Kahtlus äratõukele;Kahtlus äratõukele;Kahtlus äratõukele;;0;19.04.2018;;;ELMÜ;1;
+A14;Siiriku eemaldamise järgne;Siiriku eemaldamise järgne;Siiriku eemaldamise järgne;;0;19.04.2018;;;ELMÜ;1;
+A15;Protokoll-biopsia;Protokoll-biopsia;Protokoll-biopsia;;0;19.04.2018;;;ELMÜ;1;
+A16;Afereesidoonor;Afereesidoonor;Afereesidoonor;;0;19.04.2018;;;ELMÜ;1;
+A17;TRALI kahtlus;TRALI kahtlus;TRALI kahtlus;;0;19.04.2018;;;ELMÜ;1;
+A18;Kontrollanalüüs;Kontrollanalüüs;Kontrollanalüüs;;0;19.04.2018;;;ELMÜ;1;
+A19;Tõenäosus trisoomia 21 esinemiseks vahemikus 1:11 kuni 1:1000;Tõenäosus trisoomia 21 esinemiseks vahemikus 1:11 kuni 1:1000;Tõenäosus trisoomia 21 esinemiseks vahemikus 1:11 kuni 1:1000;;0;24.01.2020;;;ELMÜ;1;
+A20;Tõenäosus trisoomia 18 või 13 esinemiseks vahemikus 1:11 kuni 1:100;Tõenäosus trisoomia 18 või 13 esinemiseks vahemikus 1:11 kuni 1:100;Tõenäosus trisoomia 18 või 13 esinemiseks vahemikus 1:11 kuni 1:100;;0;24.01.2020;;;ELMÜ;1;
+A21;Eelmisel lapsel on diagnoositud trisoomia;Eelmisel lapsel on diagnoositud trisoomia;Eelmisel lapsel on diagnoositud trisoomia;;0;24.01.2020;;;ELMÜ;1;
+A22;Invasiivne uuring loote kromosoomanalüüsiks vastunäidustatud;Invasiivne uuring loote kromosoomanalüüsiks vastunäidustatud;Invasiivne uuring loote kromosoomanalüüsiks vastunäidustatud;;0;24.01.2020;;;ELMÜ;1;
+A23;Patsiendi omal soovil tasuline uuring;Patsiendi omal soovil tasuline uuring;Patsiendi omal soovil tasuline uuring;;0;24.01.2020;;;ELMÜ;1;
+A24;Muu;Muu;Muu;;0;24.01.2020;29.01.2020;;ELMÜ;0;tunnistatud kehtetuks, kuna dubleeris väärtust koodiga A07
+A25;Haploidentne siirdamine;Haploidentne siirdamine;Haploidentne siirdamine;;0;12.05.2020;;;ELMÜ;1;
+A26;COVID-19 doonor;COVID-19 doonor;COVID-19 doonor;;0;12.05.2020;;;ELMÜ;1;
+A27;Rinnavähk;Rinnavähk;Rinnavähk;;0;26.08.2021;;;ELMÜ;1;
+A28;Munasarjavähk;Munasarjavähk;Munasarjavähk;;0;26.08.2021;;;ELMÜ;1;
+A29;Kolorektaalvähk;Kolorektaalvähk;Kolorektaalvähk;;0;26.08.2021;;;ELMÜ;1;
+A30;Eesnäärmevähk;Eesnäärmevähk;Eesnäärmevähk;;0;26.08.2021;;;ELMÜ;1;
+A31;Pankreasevähk;Pankreasevähk;Pankreasevähk;;0;26.08.2021;;;ELMÜ;1;
+A32;Maovähk;Maovähk;Maovähk;;0;26.08.2021;;;ELMÜ;1;
+A33;Mitmikasvaja (täpsusta);Mitmikasvaja (täpsusta);Mitmikasvaja (täpsusta);;0;26.08.2021;;;ELMÜ;1;
+A34;Muu kasvaja (täpsusta);Muu kasvaja (täpsusta);Muu kasvaja (täpsusta);;0;26.08.2021;;;ELMÜ;1;
+A35;Monoklonaalse gammopaatia kahtlus/välistamine;Monoklonaalse gammopaatia kahtlus/välistamine;Monoklonaalse gammopaatia kahtlus/välistamine;;0;03.09.2021;;;ELMÜ;1;
+A36;Monoklonaalse gammopaatia haiguskulu/ravi jälgimine;Monoklonaalse gammopaatia haiguskulu/ravi jälgimine;Monoklonaalse gammopaatia haiguskulu/ravi jälgimine;;0;03.09.2021;;;ELMÜ;1;
+A37;Monoklonaalse gammopaatia ravivastuse/remissiooni/retsidiivi tekke hindamine;Monoklonaalse gammopaatia ravivastuse/remissiooni/retsidiivi tekke hindamine;Monoklonaalse gammopaatia ravivastuse/remissiooni/retsidiivi tekke hindamine;;0;03.09.2021;08.09.2022;;ELMÜ;0;tunnistatud kehtetuks
+A38;Monoklonaalse gammopaatia ravivastuse/remissiooni hindamine;Monoklonaalse gammopaatia ravivastuse/remissiooni hindamine;Monoklonaalse gammopaatia ravivastuse/remissiooni hindamine;;0;08.09.2022;;;ELMÜ;1;
+A39;Monoklonaalse gammopaatia retsidiivi tekke hindamine;Monoklonaalse gammopaatia retsidiivi tekke hindamine;Monoklonaalse gammopaatia retsidiivi tekke hindamine;;0;08.09.2022;;;ELMÜ;1;
+A40;Seletamatu mikrotsütoos;Seletamatu mikrotsütoos;Seletamatu mikrotsütoos;;0;13.09.2022;;;ELMÜ;1;
+A41;Seletamatu hemolüütiline aneemia;Seletamatu hemolüütiline aneemia;Seletamatu hemolüütiline aneemia;;0;13.09.2022;;;ELMÜ;1;
+A42;Seletamatu tsüanoos;Seletamatu tsüanoos;Seletamatu tsüanoos;;0;13.09.2022;;;ELMÜ;1;
+A43;Seletamatu polütsüteemia;Seletamatu polütsüteemia;Seletamatu polütsüteemia;;0;13.09.2022;;;ELMÜ;1;
+A44;Perekonnas mikrotsütoos, hüpokromaasia, hemoglobinopaatia;Perekonnas mikrotsütoos, hüpokromaasia, hemoglobinopaatia;Perekonnas mikrotsütoos, hüpokromaasia, hemoglobinopaatia;;0;13.09.2022;;;ELMÜ;1;
+A45;Patsient pärit endeemilisest piirkonnast;Patsient pärit endeemilisest piirkonnast;Patsient pärit endeemilisest piirkonnast;;0;13.09.2022;;;ELMÜ;1;
+A46;Operatsiooni mahu otsustamiseks (KIIRE!);Operatsiooni mahu otsustamiseks (KIIRE!);Operatsiooni mahu otsustamiseks (KIIRE!);;0;13.09.2022;;;ELMÜ;1;
+A47;Ravi otsustamiseks;Ravi otsustamiseks;Ravi otsustamiseks;;0;13.09.2022;;;ELMÜ;1;

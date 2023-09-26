@@ -1,8 +1,0 @@
-KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
-1;vallaline;vallaline;vallaline;;;1.01.2008;;;sotsiaalministeerium;1;mitte kunagi elu jooksul kooselus olnud isik
-2;abielus;abielus;abielus;;;1.01.2008;;;sotsiaalministeerium;1;ametlikus abielus olev ja abikaasaga koos elav isik
-3;vabaabielus;vabaabielus;vabaabielus;;;1.01.2008;;;sotsiaalministeerium;1;vabaabielu/kooselu partneriga koos elav isik, RR mõistes - abielus dokumenteerimata 
-4;lahutatud;lahutatud;lahutatud;;;1.01.2008;;;sotsiaalministeerium;1;ametlikult lahutatud ja kooselus mitte elav isik
-5;lahus elav ;lahus elav ;lahus elav ;;;1.01.2008;;;sotsiaalministeerium;1;kooselupartnerist lahus elav või abikaasast lahus elav kuid mitte ametlikult lahutatud isik, RR mõistes - lahutatud dokumenteerimata 
-6;lesk;lesk;lesk;;;1.01.2008;;;sotsiaalministeerium;1;abikaasa või vabaabielu/kooselu partneri surma järel lesestunud isik, kes ei ela uues kooselus, RR mõistes - lesk dokumenteerimata 
-99;keeldus vastamast;keeldus vastamast;keeldus vastamast;;;1.01.2008;;;sotsiaalministeerium;1;

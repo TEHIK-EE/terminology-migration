@@ -1,0 +1,45 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+V101;intensiivravi I aste;intensiivravi I aste;intensiivravi I aste;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V66 intensiivravi I aste
+V102;intensiivravi II aste;intensiivravi II aste;intensiivravi II aste;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V67 intensiivravi II aste
+V103;intensiivravi III aste;intensiivravi III aste;intensiivravi III aste;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V68 intensiivravi III aste
+V110;endokrinoloogia;endokrinoloogia;endokrinoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V11 endokrinoloogia
+V120;gastroenteroloogia;gastroenteroloogia;gastroenteroloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V05 gastroenteroloogia
+V130;hematoloogia;hematoloogia;hematoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V15 hematoloogia
+V140;hooldusravi;hooldusravi;hooldusravi;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;"V09 hooldusravi;  hooldusravi - õenduslik ala, hooldusravi arenduskava (SoM-i kodulehel)"
+V150;kardioloogia;kardioloogia;kardioloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V03 kardioloogia
+V161;kardiokirurgia;kardiokirurgia;kardiokirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V26 kardiovaskulaarkirurgia
+V162;vaskulaarkirurgia;vaskulaarkirurgia;vaskulaarkirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V70 veresoontekirurgia
+V170;kõrva-nina-kurguhaigused;kõrva-nina-kurguhaigused;kõrva-nina-kurguhaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V54 nina-kõrvakurguhaigused
+V180;lastehaigused;lastehaigused;lastehaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V59 lastehaigused
+V190;lastekirurgia;lastekirurgia;lastekirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V21 lastekirurgia
+V200;naha- ja suguhaigused;naha- ja suguhaigused;naha- ja suguhaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V56 naha- ja suguhaigused
+V210;nakkushaigused;nakkushaigused;nakkushaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V13 nakkushaigused
+V211;laste nakkushaigused;laste nakkushaigused;laste nakkushaigused;;;10.01.2008;31.12.2012;;Sotsiaalministeerium, piret.simmo@sm.ee;1;"alates 20.06.2012 ei ole kasutusel. V14 laste nakkushaigused; kasutamise põhimõtte: kasutatakse siis kui TTO-l on nõuetekohane struktuuriüksus, ei kasutata üksikute juhtude kirjeldusel. "
+V220;nefroloogia;nefroloogia;nefroloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V17 nefroloogia
+V230;neurokirurgia;neurokirurgia;neurokirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V22 neurokirurgia
+V240;neuroloogia;neuroloogia;neuroloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V48 neuroloogia
+V241;lasteneuroloogia;lasteneuroloogia;lasteneuroloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;"V49 lasteneuroloogia; kasutamise põhimõtte: kasutatakse siis kui TTO-l on nõuetekohane struktuuriüksus, ei kasutata üksikute juhtude kirjeldusel."
+V250;näo- ja lõualuukirurgia;näo- ja lõualuukirurgia;näo- ja lõualuukirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V36 näo- ja lõualuukirurgia
+V260;onkoloogia ;onkoloogia ;onkoloogia ;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V38 onkoloogia(kiiritus- ja keemiaravi tähenduses)
+V270;ortopeedia;ortopeedia;ortopeedia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V32 ortopeedia
+V272;põletus;põletus;põletus;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V30 põletus
+V273;septiline ortopeedia;septiline ortopeedia;septiline ortopeedia;;;10.01.2008;31.12.2012;;Sotsiaalministeerium, piret.simmo@sm.ee;1;alates 20.06.2012 ei ole kasutusel. V32 ortopeedia  
+V274;traumatoloogia ;traumatoloogia ;traumatoloogia ;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V28 traumatoloogia
+V280;psühhiaatria;psühhiaatria;psühhiaatria;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V50 psühhiaatria
+V281;lastepsühhiaatria;lastepsühhiaatria;lastepsühhiaatria;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V51 lastepsühhiaatria
+V282;akuutpsühhiaatria;akuutpsühhiaatria;akuutpsühhiaatria;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V53 akuutpsühhiaatria
+V290;pulmonoloogia;pulmonoloogia;pulmonoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V63 pulmonoloogia
+V300;tuberkuloos;tuberkuloos;tuberkuloos;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V44 tuberkuloos
+V310;radioloogia;radioloogia;radioloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V58 radioloogia
+V320;reumatoloogia;reumatoloogia;reumatoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V76 reumatoloogia
+V330;rindkerekirurgia;rindkerekirurgia;rindkerekirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V24 rindkerekirurgia
+V340;silmahaigused;silmahaigused;silmahaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V52 silmahaigused
+V350;sisehaigused;sisehaigused;sisehaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V02 sisehaigused
+V361;günekoloogia;günekoloogia;günekoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V42 günekoloogia
+V362;raseduspatoloogia;raseduspatoloogia;raseduspatoloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V41 raseduspatoloogia
+V363;sünnitusabi;sünnitusabi;sünnitusabi;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V40 sünnitusabi
+V370;uroloogia;uroloogia;uroloogia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V34 uroloogia
+V380;taastusravi;taastusravi;taastusravi;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V98 taastusravi
+V390;üldkirurgia;üldkirurgia;üldkirurgia;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V20 kirurgia
+V998;kutsehaigused;kutsehaigused;kutsehaigused;;;10.01.2008;;;Sotsiaalministeerium, piret.simmo@sm.ee;1;V19 kutsehaigused(kuni EHK lepingute muutmiseni), statistikas ei kasutata
+V999;järelravi;järelravi;järelravi;;;10.01.2008;31.12.2012;;Sotsiaalministeerium, piret.simmo@sm.ee;1;"Alates 01.01.2013 kasutatakse ainult haiglasiseselt. Uus kood (läheb kasutusele kui EHK on uue süsteemi  käivitanud), statistikas ei kasutata; järelravi - aktiivravi järgne ravi, mis ei ole kindlasti hooldusravi, ega taastusravi  20.06.2012 ei kasutata enam üldse."

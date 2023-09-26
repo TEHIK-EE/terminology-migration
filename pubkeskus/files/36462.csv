@@ -1,7 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-0;Koostatud;Koostatud;Koostatud;;;10.07.2008;14.06.2016;;ETSA;0;Antud väärtus on kehtetu. Uuel loodud väärtusel on lisatud korrektne kood. 
-00;Koostatud;Koostatud;Koostatud;;;14.06.2016;;;ETSA;1;
-10;Müüdud;Müüdud;Müüdud;;;10.07.2008;;;SOM;1;
-20;Broneeritud apteegis;Broneeritud apteegis;Broneeritud apteegis;;;10.07.2008;;;SOM;1;
-30;Broneeritud operaatori poolt;Broneeritud operaatori poolt;Broneeritud operaatori poolt;;;10.07.2008;;;SOM;1;
-99;Annulleeritud;Annulleeritud;Annulleeritud;;;10.07.2008;;;SOM;1;

@@ -1,0 +1,44 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;adekvaatne;adekvaatne;adekvaatne;;0;1.07.2014;;18.12.2015;Eesti Patoloogide Selts;1;
+A1;täielikult adekvaatne;täielikult adekvaatne;täielikult adekvaatne;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A2;vähene rakuline materjal;adekvaatne, kuid vähene rakuline materjal;adekvaatne, kuid vähene rakuline materjal;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A3;esineb kehaväline materjal;adekvaatne, kuid esineb kehaväline materjal;adekvaatne, kuid esineb kehaväline materjal;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A4;nõrk fiksatsioon;adekvaatne, kuid nõrk fiksatsioon;adekvaatne, kuid nõrk fiksatsioon;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A5;rohked põletikurakud;adekvaatne, kuid rohked põletikurakud;adekvaatne, kuid rohked põletikurakud;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A6;rohke veri;adekvaatne, kuid rohke veri;adekvaatne, kuid rohke veri;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A7;ülemäärane tsütolüüs või autolüüs;adekvaatne, kuid ülemäärane tsütolüüs või autolüüs;adekvaatne, kuid ülemäärane tsütolüüs või autolüüs;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A8;transformatsiooni komponentide puudumine;adekvaatne, kuid transformatsiooni komponentide puudumine;adekvaatne, kuid transformatsiooni komponentide puudumine;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A9;materjal ei ole tüüpiline anatoomilisele asukohale;adekvaatne, kuid materjal ei ole tüüpiline anatoomilisele asukohale;adekvaatne, kuid materjal ei ole tüüpiline anatoomilisele asukohale;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A10;puudub anamnees;adekvaatne, kuid anamneesi puudumine;adekvaatne, kuid anamneesi puudumine;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+A11;hindamine raskendatud muudel põhjustel;adekvaatne, kuid hindamist raskendavad muud põhjused;adekvaatne, kuid hindamist raskendavad muud põhjused;A;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B;mitteadekvaatne;mitteadekvaatne;mitteadekvaatne;;0;1.07.2014;;18.12.2015;Eesti Patoloogide Selts;1;
+B1;patoloogia materjali mitteadekvaatsus;patoloogia proovimaterjali mitteadekvaatsus;patoloogia proovimaterjali mitteadekvaatsus;B;1;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.1;portsio materjali vähe;portsio materjali vähe ja hindamiseks pole piisavalt lameepiteeli rakke;mitteadekvaatne portsio materjali vähesuse tõttu ning hindamiseks pole piisavalt lameepiteeli rakke;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.2;tugev tsütolüüs ;hindamist segab tugev tsütolüüs;mitteadekvaatne hindamist segava tugev tsütolüüs tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.3;võõrmaterjal/artefakti esinemise;hindamist segab võõrmaterjal/artefakti esinemine;mitteadekvaatne hindamist segava võõrmaterjal/artefakti esinemise tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.4;rohke lima;hindamist segab rohke lima;mitteadekvaatne hindamist segava rohke lima tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.5;materjali autolüüsi tõttu;proovimaterjali autolüüs;mitteadekvaatne proovimaterjali autolüüsi tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.6;nõrk fiksatsioon;nõrk fiksatsioon;mitteadekvaatne nõrga fiksatsiooni tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.7;materjali kiht paks;materjal kiht paks;mitteadekvaatne materjali kihi paksuse tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.8;diagnostiline materjal pole haaratud;diagnostiline materjal pole haaratud;mitteadekvaatne kuna diagnostiline materjal pole haaratud;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.9;materjal ei vasta saatekirjal nimetatule;proovimaterjali tüüp ei vasta saatekirjal nimetatule;mitteadekvaatne kuna proovimaterjali tüüp ei vasta saatekirjal nimetatule;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.10;põletiku foon;hindamist segab põletiku foon;mitteadekvaatne hindamist segava põletiku fooni tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B1.11;verine foon;hindamist segab verine foon;mitteadekvaatne hindamist segava verise fooni tõttu;B1;2;1.07.2014;18.12.2015;;Eesti Patoloogide Selts;0;väärtus on kehtetu, ei kasutata
+B2;labori proovimaterjali/-nõu mitteadekvaatsus;labori proovimaterjali/-nõu mitteadekvaatsus;labori proovimaterjali/-nõu mitteadekvaatsus;B;1;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.1;proovimaterjal hemolüütiline;proovimaterjal hemolüütiline;mitteadekvaatne kuna proovimaterjal on hemolüütiline;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.2;proovimaterjal lipeemiline;proovimaterjal lipeemiline;mitteadekvaatne kuna proovimaterjal on lipeemiline;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.3;proovimaterjalis hüüve;proovimaterjalis hüüve;mitteadekvaatne kuna proovimaterjalis esineb hüüve;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.4;proovimaterjal aegunud;proovimaterjal aegunud;mitteadekvaatne kuna proovimaterjal aegunud;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.5;proovimaterjali kogus vale;proovimaterjali kogus vale;mitteadekvaatne kuna on vale kogus proovimaterjali;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.6;vale proovimaterjal;vale proovimaterjal;mitteadekvaatne kuna proovimaterjal on vale;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.7;vale proovinõu;vale proovinõu;mitteadekvaatne kuna proovinõu on vale;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.8;proovinõu kasutuskõlbmatu;proovinõu kasutuskõlbmatu;mitteadekvaatne kuna proovinõu kasutuskõlbmatu;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.9;nõu puudub;proovinõu puudub;mitteadekvaatne kuna puudub proovinõu;B2;2;1.07.2014;18.12.2015;;Eesti Laborimeditsiini Ühing;0;väärtus on kehtetu, ei kasutata
+B2.10;puudub vajalik lisainfo;saatekirjal puudub vajalik lisainfo;mitteadekvaatne kuna puudub saatekirjal analüüsimiseks vajalik lisainfo;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.11;vale proovivõtu kellaaeg;vale proovivõtu kellaaeg;mitteadekvaatne kuna proovivõtmise kellaaeg on vale;B2;2;1.07.2014;18.12.2015;;Eesti Laborimeditsiini Ühing;0;väärtus on kehtetu, ei kasutata
+B2.12;proovimaterjal valesti säilitatud;proovimaterjal valesti säilitatud;mitteadekvaatne kuna proovimaterjal on valesti säilitatud;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.13;proovimaterjal saastunud;proovimaterjal saastunud;mitteadekvaatne kuna proovimaterjal on saastunud;B2;2;1.07.2014;;18.12.2015;Eesti Laborimeditsiini Ühing;1;
+B2.14;materjalis fibriin;proovimaterjalis fibriin;mitteadekvaatne kuna proovimaterjalis on fibriin;B2;2;1.07.2014;18.12.2015;;Eesti Laborimeditsiini Ühing;0;väärtus on kehtetu, ei kasutata
+B2.15;proovimaterjal puudub;proovimaterjal puudub;mitteadekvaatne kuna proovimaterjal puudub;B2;2;18.12.2015;;6.06.2016;Eesti Laborimeditsiini Ühing;1;
+B2.16;proovinõu puudulikult markeeritud;proovinõu puudulikult markeeritud;mitteadekvaatne kuna proovinõu on puudulikult markeeritud;B2;2;18.12.2015;;;Eesti Laborimeditsiini Ühing;1;
+B2.17;muud põhjused;muud põhjused;mitteadekvaatne muudel põhjustel;B2;2;6.06.2016;;;Eesti Laborimeditsiini Ühing;1;

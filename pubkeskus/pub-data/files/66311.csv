@@ -1,0 +1,6 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;;Koduõendus;;;0;16.05.2019;;;1;
+02;;Koduõendus (vähihaigele);;;0;16.05.2019;;;1;
+03;;Iseseisev statsionaarne õendusabi;;;0;16.05.2019;;;1;
+04;;Iseseisev statsionaarne õendusabi (hospiits) ;;;0;16.05.2019;28.07.2022;;0;Tunnistatud kehtetuks, seda asendab Statsionaarne hospiitsravi
+05;;Statsionaarne hospiitsravi;;;0;28.07.2022;;;1;

@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+CERTVAC;;COVID-19 immuniseerimise tõend;COVID-19 vaccination certificate;;0;05.05.2021;;26.05.2021;TEHIK;1;
+DCCVAC;;EL digitaalne COVID immuniseerimise tõend;EU digital COVID vaccination certificate;;0;21.05.2021;;26.05.2021;TEHIK;1;
+DCCNEG;;EL digitaalne COVID testi tõend;EU digital COVID test certificate;;0;21.05.2021;;26.05.2021;TEHIK;1;
+DCCREC;;EL digitaalne COVID läbipõdemise tõend;EU digital COVID recovery certificate;;0;21.05.2021;;26.05.2021;TEHIK;1;

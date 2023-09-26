@@ -1,6 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-HIV_SPREAD_HETERO;heteroseksuaalne;heteroseksuaalne;heteroseksuaalne;;;1.01.2011;;;Terviseamet;1;
-HIV_SPREAD_HOMO;homoseksuaalne;homoseksuaalne;homoseksuaalne;;;1.01.2011;;;Terviseamet;1;
-HIV_SPREAD_PARENTAL;parenteraalne;parenteraalne;parenteraalne;;;1.01.2011;;;Terviseamet;1;
-HIV_SPREAD_PERINATAL;perinataalne;perinataalne;perinataalne;;;1.01.2011;;;Terviseamet;1;
-HIV_SPREAD_UNKNOWN;teadmata;teadmata;teadmata;;;1.01.2011;;;Terviseamet;1;

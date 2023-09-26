@@ -1,0 +1,22 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;kardiaalne;kardiaalne;kardiaalne;;0;1.01.2012;;;EKL,TA;1;
+A1;rütmihäired;südamerütmihäired;südame rütmihäired;A;1;1.01.2012;;;EKL,TA;1;
+A2;müokardi infarkt;südameinfarkt;müokardi infarkt;A;1;1.01.2012;;;EKL,TA;1;
+A3;muu (tapsustus);muu (tapsustus);muu (tapsustus);A;1;1.01.2012;;;EKL,TA;1;
+B;mittekardiaalne;mittekardiaalne;mittekardiaalne;;0;1.01.2012;;;EKL,TA;1;
+B1;lämbumine;lämbumine;lämbumine;B;1;1.01.2012;;;EKL,TA;1;
+B1.1;poomine;poomine;poomine;B1;2;1.01.2012;;;EKL,TA;1;
+B1.2;võõrkeha;võõrkeha;võõrkeha;B1;2;1.01.2012;;;EKL,TA;1;
+B1.3;muu hingamisteede sulgus (täpsustus);muu hingamisteede sulgus (täpsustus);muu hingamisteede sulgus (täpsustus);B1;2;1.01.2012;;;EKL,TA;1;
+B2;trauma;trauma;trauma;B;1;1.01.2012;;;EKL,TA;1;
+B3;elektritrauma;elektrilöök;elektritrauma;B;1;1.01.2012;;;EKL,TA;1;
+B4;uppumine;uppumine;uppumine;B;1;1.01.2012;;;EKL,TA;1;
+B5;mürgistus;mürgistus;mürgistus;B;1;1.01.2012;;;EKL,TA;1;
+B6;hüpotermia;hüpotermia;hüpotermia;B;1;1.01.2012;;;EKL,TA;1;
+B7;insult;insult;insult;B;1;1.01.2012;;;EKL,TA;1;
+B8;KATE;KATE;kopsuarteri trombemboolia;B;1;1.01.2012;;;EKL,TA;1;
+B9;verejooks;verejooks;verejooks (va traumast tingitud);B;1;1.01.2012;;;EKL,TA;1;
+B10;allergia;allergia;allergia;B;1;1.01.2012;;;EKL,TA;1;
+B11;hällisurm;väikelapse äkksurma sündroom;väikelapse äkksurma sündroom;B;1;1.01.2012;;;EKL,TA;1;
+B12;muu (täpsustus);muu (täpsustus);muu (täpsustus);B;1;1.01.2012;;;EKL,TA;1;
+C;põhjus teadmata;põhjus teadmata;põhjus teadmata;;0;1.01.2012;;;EKL,TA;1;

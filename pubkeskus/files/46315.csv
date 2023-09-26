@@ -1,8 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-PRE;retsept;retsept;retsept;0;0;07.09.2007;;;;1;
-CURE;tervishoiutöötaja poolt patsiendile väljastatud;tervishoiutöötaja poolt patsiendile väljastatud;tervishoiutöötaja poolt patsiendile väljastatud;0;0;07.09.2007;;;;1;
-CPR;elustamiseks kasutatud ravimid;elustamiseks kasutatud ravimid;elustamiseks kasutatud ravimid;0;0;31.07.2012;;;;1;
-ADM;manustatud ravimid;manustatud ravimid;manustatud ravimid;0;0;31.07.2012;;;;1;
-MEDSUPPL;meditsiiniseadme kaart;meditsiiniseadme kaart;meditsiiniseadme kaart;0;0;07.12.2012;;;;1;
-ASK;ütluspõhine ravim;ütluspõhine ravim;ütluspõhine ravim;0;0;17.06.2016;;;;1;
-NEED;manustamist vajav ravim;manustamist vajav ravim;manustamist vajav ravim;0;0;16.05.2019;;;;1;

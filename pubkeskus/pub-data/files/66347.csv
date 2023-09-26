@@ -1,0 +1,32 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus;Ingliskeelne_nimetus
+101;B-viirushepatiit;B-viirushepatiit;B-viirushepatiit;;0;01.07.2016;;;Terviseamet;1;;Hepatitis B virus 
+102;difteeria;difteeria;difteeria;;0;01.07.2016;;;Terviseamet;1;;Diphtheria 
+103;hemofiilus-nakkus;hemofiilus-nakkus;hemofiilus-nakkus;;0;01.07.2016;;;Terviseamet;1;;Haemophilus influenzae 
+104;leetrid;leetrid;leetrid;;0;01.07.2016;;;Terviseamet;1;;Measles 
+105;läkaköha;läkaköha;läkaköha;;0;01.07.2016;;;Terviseamet;1;;Pertussis 
+106;mumps;mumps;mumps;;0;01.07.2016;;;Terviseamet;1;;Mumps live virus 
+107;poliomüeliit;poliomüeliit;poliomüeliit;;0;01.07.2016;;;Terviseamet;1;;Poliovirus 
+108;punetised;punetised;punetised;;0;01.07.2016;;;Terviseamet;1;;Rubella 
+109;teetanus;teetanus;teetanus;;0;01.07.2016;;;Terviseamet;1;;Tetanus 
+110;tuberkuloos;tuberkuloos;tuberkuloos;;0;01.07.2016;;;Terviseamet;1;;Tuberculosis 
+111;rotaviirusnakkus;rotaviirusnakkus;rotaviirusnakkus;;0;01.07.2016;;;Terviseamet;1;;Rotavirus 
+201;A-viirushepatiit;A-viirushepatiit;A-viirushepatiit;;0;01.07.2016;;;Terviseamet;1;;Hepatitis A virus 
+202;gripp;gripp;gripp;;0;01.07.2016;;;Terviseamet;1;;Influenza virus 
+203;HPV-nakkus;HPV-nakkus;HPV-nakkus;;0;01.07.2016;;;Terviseamet;1;;Human papillomavirus 
+204;katk;katk;katk;;0;01.07.2016;;;Terviseamet;1;;Plague
+205;kollapalavik;kollapalavik;kollapalavik;;0;01.07.2016;;;Terviseamet;1;;Yellow fever 
+206;koolera;koolera;koolera;;0;01.07.2016;;;Terviseamet;1;;Cholera 
+207;kõhutüüfus;kõhutüüfus;kõhutüüfus;;0;01.07.2016;;;Terviseamet;1;;Typhoid 
+208;marutõbi;marutõbi;marutõbi;;0;01.07.2016;;;Terviseamet;1;;Rabies 
+209;meningokokk-infektsioon;meningokokk-infektsioon;meningokokk-infektsioon;;0;01.07.2016;;;Terviseamet;1;;Meningococcus 
+210;pneumokokk-infektsioon;pneumokokk-infektsioon;pneumokokk-infektsioon;;0;01.07.2016;;;Terviseamet;1;;Pneumococcal 
+211;puukentsefaliit;puukentsefaliit;puukentsefaliit;;0;01.07.2016;;;Terviseamet;1;;Tick-borne encephalitis 
+212;siberi katk;siberi katk;siberi katk;;0;01.07.2016;;;Terviseamet;1;;Anthrax
+213;tuulerõuged;tuulerõuged;tuulerõuged;;0;01.07.2016;;;Terviseamet;1;;Varicella
+214;jaapani entsefaliit;jaapani entsefaliit;jaapani entsefaliit;;0;01.07.2016;;;Terviseamet;1;;Japanese B encephalitis 
+215;rõuged;rõuged;rõuged;;0;01.07.2016;;;Terviseamet;1;;Smallpox 
+216;vöötohatis;vöötohatis;vöötohatis;;0;01.07.2016;;;Terviseamet;1;;Herpes zoster
+217;RS-viirusinfektsioon;RS-viirusinfektsioon;RS-viirusinfektsioon;;0;01.03.2018;;;Terviseamet;1;;Respiratory syncytial virus
+218;dengue palavik;dengue palavik;dengue palavik;;0;05.11.2019;;;Terviseamet;1;;Dengue fever
+219;COVID-19;COVID-19;COVID-19;;0;08.12.2020;;;Terviseamet;1;;COVID-19
+220;ahvirõuged;ahvirõuged;ahvirõuged;;0;31.08.2022;;;Terviseamet;1;;Monkeypox

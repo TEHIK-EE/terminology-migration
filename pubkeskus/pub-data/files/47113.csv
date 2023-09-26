@@ -1,0 +1,13 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;;Sage urineerimine;;;0;16.05.2019;;;1;
+02;;Raskus põie tühjendamisel;;;0;16.05.2019;;;1;
+03;;Raskus urineerimise alustamisel;;;0;16.05.2019;;;1;
+04;;Hematuuria;;;0;16.05.2019;;;1;
+05;;Valulikkus urineerimisel;;;0;16.05.2019;;;1;
+06;;Täielik kontroll põietegevuse üle;;;0;16.05.2019;;;1;
+07;;Uriinipidamatus;;;0;16.05.2019;;;1;
+08;;Uriinipidamatust esineb kord nädalas või harvemini;;07;1;16.05.2019;;;1;
+09;;Uriinipidamatust esineb 2 või enam korda nädalas;;07;1;16.05.2019;;;1;
+10;;Igapäevane uriinipidamatus mõningase kontrolliga;;07;1;16.05.2019;;;1;
+11;;Täielik uriinipidamatus;;07;1;16.05.2019;;;1;
+12;;Probleeme ei esine;;;0;16.05.2019;;;1;

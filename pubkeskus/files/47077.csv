@@ -1,8 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
-242399008;Toetuspinna kadumine;Kukkumine toetuspinna kadumise tõttu;Fall due to failure of support (event);;0;16.05.2019;;;1;
-242398000;Tasakaalukaotus;Kukkumine tasakaalukaotuse tõttu;Fall due to loss of equilibrium (event);;0;16.05.2019;;;1;
-288296009;Kokkupõrge, tõuge, lükkamine;Kukkumine kokkupõrke/tõuke/lükkamise tõttu;Fall - collision/push/shove (event);;0;16.05.2019;;;1;
-217155007;Libisemine;Kukkumine libisemise tõttu;Fall on same level from slipping (event);;0;16.05.2019;;;1;
-217157004;Komistamine;Kukkumine komistamise tõttu;Fall on same level from stumbling (event);;0;16.05.2019;;;1;
-408561005;Ravimite mõju;Kukkumine ravimite mõju tagajärjel;Falls caused by medication (finding);;0;16.05.2019;;;1;
-404912005;Põhjus teadmata;Kukkumise põhjus teadmata;Unexplained falls (finding);;0;16.05.2019;;;1;

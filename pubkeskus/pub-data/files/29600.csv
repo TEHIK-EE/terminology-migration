@@ -1,0 +1,4 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+NORMAL;normaalne;normaalne;normaalne;;;1.01.2008;;;Eesti E-tervise SA;1;on kasutusel läbivaatuse teatises
+PATHOLOGICAL;patoloogiline;patoloogiline;patoloogiline;;;1.01.2008;;;Eesti E-tervise SA;1;on kasutusel läbivaatuse teatises
+FINDING;leid;leid;leid;;;1.01.2013;;;Eesti E-tervise SA;1;on kasutusel amb.epikriisis objektiivse leiu osas

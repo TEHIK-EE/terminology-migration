@@ -1,0 +1,90 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+257192006;;Nägemist toetav vahend;Aid to vision (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Nägemist toetav -> Nägemist toetav vahend
+50121007;;Prillid;Eye glasses, device (physical object);257192006;1;16.05.2019;;;1;
+57368009;;Kontaktläätsed;Contact lenses, device (physical object);257192006;1;16.05.2019;;;1;
+264865009;;Suurendusklaas;Optical near vision magnifier (physical object);257192006;1;16.05.2019;;30.11.2022;1;Korrigeeritud SNOMED CT FSN: Magnifier (physical object) -> Optical near vision magnifier (physical object)
+414928009;;Silmaprotees;Ocular prosthesis (physical object);257192006;1;16.05.2019;;;1;
+6012004;;Kuulmist toetav vahend;Hearing aid, device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Kuulmist toetav -> Kuulmist toetav vahend
+469512007;;Kõrvasisene kuuldeaparaat;In-the-ear air-conduction hearing aid (physical object);6012004;1;16.05.2019;;;1;
+467138008;;Kõrvatagune kuuldeaparaat;Behind-the-ear air-conduction hearing aid (physical object);6012004;1;16.05.2019;;;1;
+43252007;;Kohleaarimplantaat;Cochlear prosthesis, device (physical object);6012004;1;16.05.2019;;;1;
+705371001;;Suhtlemist toetav vahend;Communication and information assistive device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Suhtlemist toetav -> Suhtlemist toetav vahend
+717314007;;Kommunikatsioonitahvel;Communication board (physical object);705371001;1;16.05.2019;;;1;
+705374009;;Kirjutamiseks vajalik vahend;Drawing/Writing communication assistive device (physical object);705371001;1;16.05.2019;;;1;
+303476002;;Südametegevust toetav seade;Cardiovascular equipment (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Südametegevust toetav -> Südametegevust toetav seade
+14106009;;Südamestimulaator;Cardiac pacemaker, device (physical object);303476002;1;16.05.2019;;;1;
+39690000;;Vererõhuaparaat;Sphygmomanometer, device (physical object);303476002;1;16.05.2019;;;1;
+277973009;;Hingamist toetav seade;Respiratory equipment (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Hingamist toetav -> Hingamist toetav seade
+336621006;;Hapnikukontsentraator;Oxygen concentrator (physical object);277973009;1;16.05.2019;;;1;
+706226000;;CPAP mask;Continuous positive airway pressure/Bilevel positive airway pressure mask (physical object);277973009;1;16.05.2019;;;1;
+14519003;;Aspiraator;Aspirator, device (physical object);277973009;1;16.05.2019;;;1;
+334980009;;Inhalaator;Inhaler (physical object);277973009;1;16.05.2019;;;1;
+706172005;;Hingamisaparaat;Ventilator (physical object);277973009;1;16.05.2019;;;1;
+272265001;;Uneapnoe aparaat;Appliance for sleep apnea (physical object);277973009;1;16.05.2019;;;1;
+336596001;;Lisahapnik;Oxygen giving set (physical object);277973009;1;16.05.2019;30.11.2021;;0;Tunnistatud kehtetuks, seda asendab 261746005
+261746005;;Tsentraalne lisahapnik;Central oxygen supply (physical object);277973009;1;30.11.2021;;;1;Asendab kehtetuks tunnistatud väärtust: 336596001
+705330007;;Isiklikku hügieeni toetav vahend;Personal care and protection device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Isiklikku hügieeni toetav -> Isiklikku hügieeni toetav vahend
+463435001;;Potikõrgendus;Raised toilet seat, removable (physical object);705330007;1;16.05.2019;;;1;
+360008003;;Potitool;Commode (physical object);705330007;1;16.05.2019;;;1;
+369443003;;Siiber;Bedpan (physical object);705330007;1;16.05.2019;;;1;
+360005000;;Uriinipudel;Urine bottle (physical object);705330007;1;16.05.2019;;;1;
+439579002;;Inkontinentsiside;Urine collection pad (physical object);705330007;1;16.05.2019;;;1;
+470244000;;Kaitsepüksid;Incontinence pants, reusable (physical object);705330007;1;16.05.2019;30.11.2021;;0;Tunnistatud kehtetuks, seda asendab: 1141889003
+1141889003;;Kaitsepüksid;Incontinence pants (physical object);705330007;1;30.11.2021;;;1;Asendab kehtetuks tunnistatud väärtust: 470244000
+468557007;;Mähe;Adult nappy (physical object);705330007;1;16.05.2019;;;1;
+467153000;;Vanniiste;Bath board (physical object);705330007;1;16.05.2019;;;1;
+467158009;;Dušitool;Bath/shower chair (physical object);705330007;1;16.05.2019;;;1;
+466484000;;Pesuraam;Bathing stretcher (physical object);705330007;1;16.05.2019;;;1;
+705397007;;Käsipuu;Assistive support rail (physical object);705330007;1;16.05.2019;;;1;
+466788003;;Libisemisvastane matt;Bath/shower non-slip mat (physical object);705330007;1;16.05.2019;;;1;
+705332004;;Riietumist toetav vahend;Dressing and undressing assistive device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Riietumist toetav -> Riietumist toetav vahend
+700862004;;Soki-/sukajalgatõmbaja;Assistive sock/pantyhose dressing device (physical object);705332004;1;16.05.2019;;;1;
+465798003;;Luku kinnitõmbaja;Assistive zip puller (physical object);705332004;1;16.05.2019;;;1;
+465059003;;Nööpija;Assistive button hook (physical object);705332004;1;16.05.2019;;;1;
+464622009;;Riietumiskonks;Assistive dressing/undressing hook/stick (physical object);705332004;1;16.05.2019;;;1;
+700831003;;Haarats;Assistive manual gripping tongs (physical object);705332004;1;16.05.2019;;;1;
+183135000;;Liikumist toetav vahend;Mobility aid (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Liikumist toetav -> Liikumist toetav vahend
+466986006;;Käimislaud;Walking table (physical object);183135000;1;16.05.2019;30.05.2023;;0;Tunnistatud kehtetuks, seda asendab 1256022003
+1256022003;;Käimislaud;Wheeled walking table (physical object);183135000;1;30.05.2023;;;1;Asendab kehtetuks tunnistatud väärtust 466986006
+465562009;;Kaenlakark;Axillary crutch (physical object);183135000;1;16.05.2019;;;1;
+468646006;;Küünarkark;Elbow crutch (physical object);183135000;1;16.05.2019;;;1;
+466382000;;Käimisraam;Basic walking frame, non-foldable (physical object);183135000;1;16.05.2019;;;1;
+404946006;;Rulaator;Wheeled walking frame (physical object);183135000;1;16.05.2019;;;1;
+360299009;;Valge kepp;Long cane (physical object);183135000;1;16.05.2019;;;1;
+464157006;;Harkkepp;Multiple-base walking stick (physical object);183135000;1;16.05.2019;;;1;
+465556004;;Kepp;Single-base walking stick (physical object);183135000;1;16.05.2019;;;1;
+228869008;;Käsiratastool;Manual wheelchair (physical object);183135000;1;16.05.2019;;;1;
+23366006;;Elektriline ratastool;Motorized wheelchair device (physical object);183135000;1;16.05.2019;;;1;
+464776002;;Trepironija;Stairclimber (physical object);183135000;1;16.05.2019;;;1;
+37299003;;Kolmerattaline jalgratas;Tricycle, device (physical object);183135000;1;16.05.2019;;;1;
+705413009;;Siirdumist toetav vahend;Transfer/turning assistive device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Siirdumist toetav -> Siirdumist toetav vahend
+706112002;;Invatõstuk;Patient lifting system (physical object);705413009;1;16.05.2019;;;1;
+422915004;;Vooditrapets;Overbed trapeze device (physical object);705413009;1;16.05.2019;;;1;
+469883001;;Tõsterihm;Manual patient lifting belt/harness (physical object);705413009;1;16.05.2019;;;1;
+462599001;;Libistamislaud;Patient transfer sliding board (physical object);705413009;1;16.05.2019;;;1;
+462487005;;Pööramisplaat;Patient transfer turntable (physical object);705413009;1;16.05.2019;;;1;
+462366004;;Libistamislina;Patient transfer sliding mat (physical object);705413009;1;16.05.2019;;;1;
+705383004;;Söömist või joomist toetav vahend;Eating/Drinking assistive device (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Söömist või joomist toetav -> Söömist või joomist toetav vahend
+464653006;;Kohandatud tass;Assistive drinking cup (physical object);705383004;1;16.05.2019;;;1;
+464180003;;Kohandatud söögiriistad;Assistive cutlery (physical object);705383004;1;16.05.2019;;;1;
+464539002;;Kohandatud sööginõu;Assistive dining dish (physical object);705383004;1;16.05.2019;;;1;
+224898003;;Ortoos;Orthotic device (physical object);;0;16.05.2019;;;1;
+469271005;;Nimme ortoos;Lumbar spine orthosis (physical object);224898003;1;16.05.2019;;;1;
+774005004;;Rindkere ortoos;Thoracic cage orthosis (physical object);224898003;1;16.05.2019;;;1;
+276180004;;Kaela ortoos;Head/neck appliance (physical object);224898003;1;16.05.2019;;;1;
+468877006;;Küünarliigese ortoos;Elbow orthosis (physical object);224898003;1;16.05.2019;;;1;
+466215009;;Randmeliigese ortoos;Wrist orthosis (physical object);224898003;1;16.05.2019;;;1;
+466078009;;Õlaliigese ortoos;Shoulder orthosis (physical object);224898003;1;16.05.2019;;;1;
+462744008;;Labakäe ortoos;Hand orthosis (physical object);224898003;1;16.05.2019;;;1;
+470732004;;Puusaliigese ortoos;Hip orthosis (physical object);224898003;1;16.05.2019;;;1;
+470672002;;Põlveliigese ortoos;Knee orthosis (physical object);224898003;1;16.05.2019;;;1;
+469252008;;Labajala ortoos;Foot orthosis, post-treatment (physical object);224898003;1;16.05.2019;;;1;
+462505002;;Hüppeliigese ortoos;Ankle joint orthosis (physical object);224898003;1;16.05.2019;;;1;
+182587004;;Kehaasendit toetav vahend;Body support (physical object);;0;16.05.2019;;30.11.2022;1;Muudetud nimetust Kehaasendit toetav -> Kehaasendit toetav vahend
+705401004;;Funktsionaalne voodi;Assistive bed (physical object);182587004;1;16.05.2019;;;1;
+469356008;;Lamatisevastane madrats;Alternating-pressure bed mattress overlay system (physical object);182587004;1;16.05.2019;;;1;
+469268002;;Lamatisevastane padi;Alternating-pressure chair cushion, reusable (physical object);182587004;1;16.05.2019;30.11.2021;;0;Tunnistatud kehtetuks, seda asendab: 469877004
+469877004;;Lamatisevastane padi;Alternating-pressure chair cushion system (physical object);182587004;1;30.11.2021;;;1;Asendab kehtetuks tunnistatud väärtust: 469268002 
+466310001;;Asendipadi;Wedge cushion (physical object);182587004;1;16.05.2019;;;1;
+74964007;;Muu, täpsustage;Other (qualifier value);;0;16.05.2019;30.11.2021;;0;Tunnistatud kehtetuks, seda asendab: 3611000181101
+3611000181101;;Muu seade;Other device (physical object);;0;30.11.2021;;;1;Asendab kehtetuks tunnistatud väärtust: 74964007

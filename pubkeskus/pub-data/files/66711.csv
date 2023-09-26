@@ -1,0 +1,13 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+387713003;;Kirurgiline ravi;Surgical procedure (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+53438000;;Kiiritusravi;Radiation therapy procedure or service (procedure);;0;30.09.2020;31.05.2022;;Eesti Onkoloogide Selts;0;Versioonis 3 kehtetuks tunnistatud. Seda asendab loendis mõiste koodiga 108290001
+367336001;;Süsteemravi;Chemotherapy (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+64644003;;Immuunravi;Immunotherapy for cancer (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+240917005;;Invasiivradioloogia;Interventional radiology (procedure);;0;30.09.2020;30.11.2022;27.05.2021;Eesti Onkoloogide Selts;0;Versioonis 4 kehtetuks tunnistatud. Seda asendab loendis mõiste koodiga 418542003
+52052004;;Taastusravi;Rehabilitation therapy (regime/therapy);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+243114000;;Toetusravi;Support (regime/therapy);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+225308005;;Jälgimine;Observation regime (regime/therapy);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+74964007;;muu;Other (qualifier value);;0;30.09.2020;27.05.2021;;Eesti Onkoloogide Selts;0;
+3601000181103;;Muu protseduur;Other procedure (procedure);;0;27.05.2021;;;Eesti Onkoloogide Selts;1;
+108290001;;Kiiritusravi;Radiation oncology AND/OR radiotherapy (procedure);;0;31.05.2022;;;Eesti Onkoloogide Selts;1;Versioonis 3 lisatud. Asendab SNOMED CT-s kehtetuks tunnistatud mõistet koodiga 53438000 
+418542003;;Menetlusradioloogia protseduur;Radiologic guidance procedure (procedure);;0;30.11.2022;;;Eesti Onkoloogide Selts;1;Versioonis 4 lisatud. Asendab kehtetuks tunnistatud mõistet koodiga 240917005 

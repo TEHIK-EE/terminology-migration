@@ -1,0 +1,9 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;jalgratas;jalgratas;jalgratas;;0;1.01.2012;;;EKL,TA;1;
+B;muu motoriseerimata sõiduk;muu motoriseerimata sõiduk;muu motoriseerimata sõiduk (sh hobuveok);;0;1.01.2012;;;EKL,TA;1;
+C;väike mootorsõiduk;väike mootorsõiduk;väike mootorsõiduk (sh mootorratas);;0;1.01.2012;;;EKL,TA;1;
+D;sõiduauto;sõiduauto;sõiduauto;;0;1.01.2012;;;EKL,TA;1;
+E;veoauto või buss;veoauto või buss;veoauto või buss;;0;1.01.2012;;;EKL,TA;1;
+F;rong, soomustatud sõiduk;rong, soomustatud sõiduk;rong, soomustatud sõiduk;;0;1.01.2012;;;EKL,TA;1;
+G;veesõiduk;veesõiduk;veesõiduk;;0;1.01.2012;;;EKL,TA;1;
+H;lennuvahend;lennuvahend;lennuvahend;;0;1.01.2012;;;EKL,TA;1;

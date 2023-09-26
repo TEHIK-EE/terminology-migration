@@ -1,7 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
-01;Kuuleb normaalselt;Kuuleb normaalselt - kuuleb normaalset kõnet, uksekella, televiisorit;;;0;16.05.2019;;;1;
-02;Minimaalsed raskused;Minimaalsed raskused - raskused mõnes mürarikkas keskkonnas (kui räägitakse vaikse häälega või üle 2 meetri kauguselt);;;0;16.05.2019;;;1;
-03;Mõõdukad raskused;Mõõdukad raskused - normaalse kõne kuulmise raskused, paremaks kuulmiseks vajab vaikset keskkonda;;;0;16.05.2019;;;1;
-04;Olulised raskused;"Olulised raskused - raskused kõigis olukordades (nt kõneleja peab rääkima valjusti või väga aeglaselt; või isik ütleb, et kõik on ainult pomin)";;;0;16.05.2019;;;1;
-05;Kurt;Kurt;;;0;16.05.2019;;;1;
-06;Pole võimalik hinnata;Pole võimalik hinnata;;;0;16.05.2019;;;1;

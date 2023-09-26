@@ -1,7 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
-01;Arusaadav;Arusaadav - väljendab mõtteid ilma raskusteta;;;0;16.05.2019;;;1;
-02;Tavaliselt arusaadav;Tavaliselt arusaadav - raske leida sõnu või lõpetada mõtteid, aga kui anda aega, vajab vaid vähest abi või ei vaja üldse;;;0;16.05.2019;;;1;
-03;Sageli arusaadav;Sageli arusaadav - raske leida sõnu või lõpetada mõtteid ja vajab enamasti abistamist;;;0;16.05.2019;;;1;
-04;Mõnikord arusaadav;Mõnikord arusaadav - selgete mõtete väljendamine on oluliselt piiratud;;;0;16.05.2019;;;1;
-05;Harva arusaadav / mitte kunagi arusaadav;Harva arusaadav / mitte kunagi arusaadav;;;0;16.05.2019;;;1;
-06;Pole võimalik hinnata;Pole võimalik hinnata;;;0;16.05.2019;;;1;

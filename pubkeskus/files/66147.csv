@@ -1,8 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-3211000181103;;Radikaalne;Radical - intent (qualifier value);;0;30.09.2020;31.05.2022;;Eesti Onkoloogide Selts;0;Versioonis 2 kehtetuks tunnistatud. Seda asendab mõiste koodiga 373808002
-373847000;;Neoadjuvantne;Neo-adjuvant - intent (qualifier value);;0;30.09.2020;;;Eesti Onkoloogide Selts;1;
-373846009;;Adjuvantne;Adjuvant - intent (qualifier value);;0;30.09.2020;;;Eesti Onkoloogide Selts;1;
-363676003;;Palliatiivne;Palliative - procedure intent (qualifier value);;0;30.09.2020;;;Eesti Onkoloogide Selts;1;
-399707004;;Parim toetav ravi;Supportive - procedure intent (qualifier value);;0;30.09.2020;;;Eesti Onkoloogide Selts;1;
-74964007;;Muu;Other (qualifier value);;0;30.09.2020;;;Eesti Onkoloogide Selts;1;
-373808002;;Radikaalne;Curative - procedure intent (qualifier value);;0;31.05.2022;;;Eesti Onkoloogide Selts;1;Versioonis 2 lisatud. Asendab SNOMED CT-s kehtetuks tunnistatud mõistet koodiga 3211000181103

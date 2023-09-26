@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+MOTHER_SPREAD_SEX;seksuaalsel teel;seksuaalsel teel;seksuaalsel teel;;;1.01.2011;;;Terviseamet;1;
+MOTHER_SPREAD_BLOOD;vere/verekomponentide/plasma ülekanne ;vere/verekomponentide/plasma ülekanne ;vere/verekomponentide/plasma ülekanne ;;;1.01.2011;;;Terviseamet;1;
+MOTHER_SPREAD_INJECT;ühise süstimisvarustuse/süsteaine kasutus ;ühise süstimisvarustuse/süsteaine kasutus ;ühise süstimisvarustuse/süsteaine kasutus ;;;1.01.2011;;;Terviseamet;1;
+MOTHER_SPREAD_OTHER;muu  (kirjutada) ;muu  (kirjutada) ;muu  (kirjutada) ;;;1.01.2011;;;Terviseamet;1;

@@ -1,9 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-PREV;eelmine, suunanud asutus;eelmine, suunanud asutus;eelmine, suunanud asutus;0;0;07.09.2007;;;;1;
-NXT;järgnev, suunatud asutus;järgnev, suunatud asutus;järgnev, suunatud asutus;0;0;07.09.2007;;;;1;
-HOME;aadress, kuhu vastsündinu viiakse (kui läheb koju);aadress, kuhu vastsündinu viiakse (kui läheb koju);aadress, kuhu vastsündinu viiakse (kui läheb koju);0;0;07.09.2007;;;;1;
-STAT;käesolev statsionaarne haigusjuhtum;käesolev statsionaarne haigusjuhtum;käesolev statsionaarne haigusjuhtum;0;0;07.09.2007;;;;1;
-AMB;käesolev ambulatoorne haigusjuhtum;käesolev ambulatoorne haigusjuhtum;käesolev ambulatoorne haigusjuhtum;0;0;07.09.2007;;;;1;
-DAY;käesolev päevaravi haigusjuhtum;käesolev päevaravi haigusjuhtum;käesolev päevaravi haigusjuhtum;0;0;07.09.2007;;;;1;
-CH_CASE;haidusjuhtumi liigi muutmine;haidusjuhtumi liigi muutmine;haidusjuhtumi liigi muutmine;0;0;19.09.2012;;;;1;
-DENT;hambaravi ravijuhtum;hambaravi ravijuhtum;hambaravi ravijuhtum;0;0;01.01.2015;;;;1;

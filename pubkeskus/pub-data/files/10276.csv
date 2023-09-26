@@ -1,0 +1,22 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;teljed;teljed;teljed;;;1.09.2008;;;Eesti E-tervise SA;1;
+11;dorsaalne;dorsaalne;dorsaalne;1;1;1.09.2008;;;Eesti E-tervise SA;1;"dorsaalne - patsiendi tagapool paiknev, selgmine (la dorsum - selg); dorsaalne e posterioorne"
+12;kaudaalne;kaudaalne;kaudaalne;1;1;1.09.2008;;;Eesti E-tervise SA;1;"kaudaalne - patsiendi pikitelje suhtes ""saba"" pool paiknev, sabapoolne (la  cauda - saba); alumine e inferioorne."
+13;kraniaalne;kraniaalne;kraniaalne;1;1;1.09.2008;;;Eesti E-tervise SA;1;"kraniaalne - patsiendi pikitelje suhtes pea pool paiknev, koljupoolne (la cranium - kolju); kraniaalne e superioorne"
+14;ventraalne;ventraalne;ventraalne;1;1;1.09.2008;;;Eesti E-tervise SA;1;"ventraalne -  patsiendi eespool paiknev, eesmine (kõhtmine) (la venter - kõht); ventraalne e anterioorne."
+19;muus;määramata;määramata;1;1;1.09.2008;;;Eesti E-tervise SA;1;
+2;tasapinnad;tasapinnad;tasapinnad;;;1.09.2008;;;Eesti E-tervise SA;1;
+21;aksiaalne;aksiaalne ehk transversaalne;aksiaalne ehk transversaalne;2;1;1.09.2008;;;Eesti E-tervise SA;1;transversaaltasapind e. aksiaaltasapind - paikneb patsiendi pikiteljega risti (poolitab keha või organi kraniaalsemaks ja kaudaalsemaks osaks).
+22;frontaalne;frontaalne ehk koronaalne;frontaalne ehk koronaalne;2;1;1.09.2008;;;Eesti E-tervise SA;1;"frontaaltasapind e. koronaaltasapind e. koronaartasapind - poolitab keha või organi ventraalsemaks ja dorsaalsemaks osaks. (Ingliskeelses kirjanduses kasutatav mõiste ""midcoronal plane"" tähistab sellist frontaaltasapinda, mis jaotab kehatüve kaheks võrdseks eesmiseks ja tagumiseks osaks.)"
+23;sagitaalne;sagitaalne;sagitaalne;2;1;1.09.2008;;;Eesti E-tervise SA;1;"sagitaaltasapind - poolitab keha või organi mediaalseks ja lateraalseks osaks. (Kui see tasapind on täpselt keskjoonel, siis poolitamise käigus saadakse mõistagi vasak ja parem kehapool, sellist sagitaaltasapinda nimetatakse ka mediaantasapinnaks; ingl. keeles midsagittal plane - MSP)"
+29;muus;muus;muus;2;1;1.09.2008;;;Eesti E-tervise SA;1;
+3;kehaosade paiknemine mediaantasapinna suhtes;kehaosade paiknemine mediaantasapinna suhtes;kehaosade paiknemine mediaantasapinna suhtes;;;1.09.2008;;;Eesti E-tervise SA;1;
+31;keskmine e mediaalne;keskmine e mediaalne;keskmine e mediaalne;3;1;1.09.2008;;;Eesti E-tervise SA;1;proksimaalne - patsiendi kehatüvele (või vaadeldavale organile) lähemal paiknev ( la medialis)
+32;külgmine e lateraalne ;külgmine e lateraalne ;külgmine e lateraalne ;3;1;1.09.2008;;;Eesti E-tervise SA;1;distaalne - patsiendi kehatüvest (või vaadeldavast organist) kaugemal paiknev (la lateralis)
+4;kehaosade paiknemine kerele läheduse suhtes;kehaosade paiknemine kerele läheduse suhtes;kehaosade paiknemine kerele läheduse suhtes;;;1.09.2008;;;Eesti E-tervise SA;1;
+41;lähimine e proksimaalne ;lähimine e proksimaalne ;lähimine e proksimaalne ;4;1;1.09.2008;;;Eesti E-tervise SA;1;lähimine e proksimaalne (la proximalis)
+42;kaugmine e distaalne ;kaugmine e distaalne ;kaugmine e distaalne ;4;1;1.09.2008;;;Eesti E-tervise SA;1;kaugmine e distaalne (la distalis)
+5;bilateraalne sümmeetria;bilateraalne sümmeetria;bilateraalne sümmeetria;;;1.09.2008;;;Eesti E-tervise SA;1;
+51;vasak;vasak;vasak;5;1;1.09.2008;;;Eesti E-tervise SA;1;
+52;parem;parem;parem;5;1;1.09.2008;;;Eesti E-tervise SA;1;
+9;määramata;määramata;määramata;;;1.09.2008;;;Eesti E-tervise SA;1;

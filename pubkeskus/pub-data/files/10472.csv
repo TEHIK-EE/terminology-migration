@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+AE;Application Error;Application Error;Application Error;0;0;7.09.2007;;;;1;
+OK;Data found;Data found;Query reponse data found for 1 or more result sets matching the query request specification;0;0;7.09.2007;;;;1;
+NF;No data found;No data found;No errors, but no data was found matching the query request specification.;0;0;7.09.2007;;;;1;
+QE;QueryParameterError;QueryParameterError;QueryParameterError;0;0;7.09.2007;;;;1;

@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+266919005;;Pole kunagi suitsetanud;Never smoked tobacco (finding);;0;16.05.2019;;;1;
+160617001;;Suitsetamisest loobunud;Stopped smoking (finding);;0;16.05.2019;;;1;
+428041000124106;;Aeg-ajalt suitsetaja;Occasional tobacco smoker (finding);;0;16.05.2019;;;1;
+449868002;;Igapäevasuitsetaja;Smokes tobacco daily (finding);;0;16.05.2019;;;1;

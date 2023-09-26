@@ -1,0 +1,11 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+0;aste 0;eelharidus;eelharidus; ;  ;1.01.2008;;;;1;
+1;aste 1;esimese taseme haridus või põhihariduse alumine aste;esimese taseme haridus või põhihariduse alumine aste; ; ;1.01.2008;;;;1;
+2A;aste 2;teise taseme alumine või põhihariduse ülemine aste;teise taseme alumine või põhihariduse ülemine aste; ; ;1.01.2008;;;;1;
+2C;aste 2;teise taseme alumine või põhihariduse ülemine aste;teise taseme alumine või põhihariduse ülemine aste; ; ;1.01.2008;;;;1;
+3A;aste 3;teise taseme haridus (ülemine aste);teise taseme haridus (ülemine aste); ; ;1.01.2008;;;;1;
+3C;aste 3;teise taseme haridus (ülemine aste);teise taseme haridus (ülemine aste); ; ;1.01.2008;;;;1;
+4B;aste 4;teise taseme järgne, kolmanda taseme eelne haridus;teise taseme järgne, kolmanda taseme eelne haridus; ; ;1.01.2008;;;;1;
+5A;aste 5;kolmanda taseme hariduse alumine aste;kolmanda taseme hariduse alumine aste; ; ;1.01.2008;;;;1;
+5B;aste 5;kolmanda taseme hariduse alumine aste;kolmanda taseme hariduse alumine aste; ; ;1.01.2008;;;;1;
+6;aste 6;kolmanda taseme hariduse ülemine aste;kolmanda taseme hariduse ülemine aste; ; ;1.01.2008;;;;1;

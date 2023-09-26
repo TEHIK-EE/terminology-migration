@@ -1,0 +1,4 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+DISABMID;kesk;keskpuue;keskpuue;;;1.10.2008;;;sotsiaalministeerium;1;"kui funktsioonihäire suuruse arvväärtus on 2-2,75, esineb isikul raskusi igapäevases tegutsemises või ühiskonnaelus osalemises ja talle määratakse keskmine puue;"
+DISABHRD;raske;raske puue;raske puue;;;1.10.2008;;;sotsiaalministeerium;1;"kui funktsioonihäire suuruse arvväärtus on 2,76-3,49, on isiku igapäevane tegutsemine või ühiskonnaelus osalemine piiratud ja talle määratakse raske puue;"
+DISABDEEP;sügav;sügav puue;sügav puue;;;1.10.2008;;;sotsiaalministeerium;1;kui funktsioonihäire suuruse arvväärtus on 3,5-4, on isiku igapäevane tegutsemine või ühiskonnaelus osalemine täielikult takistatud ja talle määratakse sügav puue

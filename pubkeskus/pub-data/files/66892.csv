@@ -1,0 +1,71 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus;Rühma kood;Rühm
+1;statsionaarne epikriis ;statsionaarne epikriis ;statsionaarne epikriis ;;0;01.01.2008;;;Eesti E-tervise SA;1;;1;Meditsiinidokument - epikriisid
+2;ambulatoorne epikriis;ambulatoorne epikriis;ambulatoorne epikriis;;0;01.01.2008;;;Eesti E-tervise SA;1;;1;Meditsiinidokument - epikriisid
+3;päevaravi epikriis;päevaravi epikriis;päevaravi epikriis;;0;01.01.2008;;;Eesti E-tervise SA;1;;1;Meditsiinidokument - epikriisid
+4;sünniepikriis;sünniepikriis;sünniepikriis;;0;01.01.2008;;;Eesti E-tervise SA;1;;1;Meditsiinidokument - epikriisid
+5;aegkriitilised andmed;aegkriitilised andmed;aegkriitilised andmed;;0;01.01.2008;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+6;statistika koondandmete teatis;statistika koondandmete teatis;statistika koondandmete teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;5;Statistika teatised
+7;haigusjuhtumi alustamine;haigusjuhtumi alustamine;haigusjuhtumi alustamine;;0;01.01.2008;;;Eesti E-tervise SA;1;;6;Haigusjuhu teatis
+8;haigusjuhtumi lõpetamine;haigusjuhtumi lõpetamine;haigusjuhtumi lõpetamine;;0;01.01.2008;;;Eesti E-tervise SA;1;;6;Haigusjuhu teatis
+9;patsiendi volitus usaldusisikule;patsiendi volitus usaldusisikule;patsiendi volitus usaldusisikule;;0;01.01.2008;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+10;koduõendusepikriis;koduõendusepikriis;koduõendusepikriis;;0;01.01.2008;16.05.2019;;Eesti E-tervise SA;1;;1;Meditsiinidokument - epikriisid
+11;tervisekontrolli immuniseerimise teatis;tervisekontrolli immuniseerimise teatis;tervisekontrolli immuniseerimise teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+12;tervisekontrolli kasvamise teatis;tervisekontrolli kasvamise teatis;tervisekontrolli kasvamise teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+13;tervisekontrolli läbivaatuse teatis;tervisekontrolli läbivaatuse teatis;tervisekontrolli läbivaatuse teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+14;tervisekontrolli arengu hindamise teatis;tervisekontrolli arengu hindamise teatis;tervisekontrolli arengu hindamise teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+15;tervisekontrolli nõustamise teatis;tervisekontrolli nõustamise teatis;tervisekontrolli nõustamise teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+16;tervisekontrolli immuniseerimise kõrvalnähtude teatis;tervisekontrolli immuniseerimise kõrvalnähtude teatis;tervisekontrolli immuniseerimise kõrvalnähtude teatis;;0;01.01.2008;;;Eesti E-tervise SA;1;;8;Tervisekontrolliteatised
+17;tervisekontrolli kaart;tervisekontrolli kaart;tervisekontrolli kaart;;0;01.01.2008;;;Eesti E-tervise SA;1;;9;Algandmete alusel koostatud kaardid
+17.1;tegevuste lõikes;tegevuste lõikes;tegevuste lõikes;;1;02.01.2008;;;Eesti E-tervise SA;1;;9;Algandmete alusel koostatud kaardid
+17.2 ;vanusegruppide lõikes;vanusegruppide lõikes;vanusegruppide lõikes;;1;03.01.2008;;;Eesti E-tervise SA;1;;9;Algandmete alusel koostatud kaardid
+29305-0;retsept;retsept;retsept;;0;01.01.2010;;;Eesti E-tervise SA;1;;10;Retseptid
+18;tahteavaldused;tahteavaldused;tahteavaldused;;0;01.01.2008;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+18.1;nõusolek loovutada surmajärgselt kudesid või elundeid siirdamiseks;nõusolek loovutada surmajärgselt kudesid või elundeid siirdamiseks;nõusolek loovutada surmajärgselt kudesid või elundeid siirdamiseks;18;1;01.01.2008;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+18.2;tahteavaldus tervishoiuteenuse osutamiseks keha üleandmine õppetööks;tahteavaldus tervishoiuteenuse osutamiseks keha üleandmine õppetööks;tahteavaldus tervishoiuteenuse osutamiseks keha üleandmine õppetööks;18;1;01.01.2014;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+18.3;nõusolek vere ja verekomponentide ülekandmiseks;nõusolek vere ja verekomponentide ülekandmiseks;nõusolek vere ja verekomponentide ülekandmiseks;18;1;01.01.2014;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+28;hamba staatuse kaart;hamba staatuse kaart;hamba staatuse kaart;;0;01.02.2015;;;Eesti E-tervise SA;1;;9;Algandmete alusel koostatud kaardid
+34;hambaravikaart;hambaravikaart;hambaravikaart;;0;01.02.2015;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+36;HIV nakkuse teatis;HIV nakkuse teatis;HIV nakkuse teatis;;0;01.04.2013;;;Eesti E-tervise SA;1;;2;Meditsiinidokument - registriteatised
+37;HIV tõve teatis;HIV tõve teatis;HIV tõve teatis;;0;01.04.2013;;;Eesti E-tervise SA;1;;2;Meditsiinidokument - registriteatised
+38;nakkushaige teatis;nakkushaige teatis;nakkushaige teatis;;0;01.04.2013;;;Eesti E-tervise SA;1;;2;Meditsiinidokument - registriteatised
+39;nakkushaige kahtluse teatis;nakkushaige kahtluse teatis;nakkushaige kahtluse teatis;;0;01.04.2013;;;Eesti E-tervise SA;1;;2;Meditsiinidokument - registriteatised
+40;terviseseisundi kirjeldus;terviseseisundi kirjeldus;terviseseisundi kirjeldus;;0;01.01.2014;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+50;pildiviit;pildiviit;pildiviit;;0;01.01.2008;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+63;saatekiri;saatekiri;saatekiri;;0;01.01.2008;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.1;saatekiri haiglaravile;saatekiri haiglaravile;saatekiri haiglaravile;63;1;01.07.2014;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.2;saatekiri päeva/kirurgia ravile;Saatekiri päeva/kirurgia ravile;Saatekiri päeva/kirurgia ravile;63;1;01.07.2014;16.05.2019;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.3;saatekiri ambulatoorsele vastuvõtule;saatekiri ambulatoorsele vastuvõtule;saatekiri ambulatoorsele vastuvõtule;63;1;01.07.2014;;01.07.2016;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.4;saatekiri õendusabiteenusele;saatekiri õendusabiteenusele;saatekiri õendusabiteenusele;63;1;01.07.2014;;13.09.2018;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.5;saatekiri uuringule;saatekiri uuringule;saatekiri uuringule;63;1;01.07.2014;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.6;saatekiri analüüsile;saatekiri analüüsile;saatekiri analüüsile;63;1;01.07.2014;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.7;saatekiri protseduurile/teenusele;saatekiri protseduurile/teenusele;saatekiri protseduurile/teenusele;63;1;01.07.2014;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.8;kutse skriiningus osalemiseks;kutse skriiningus osalemiseks;kutse skriiningus osalemiseks;63;1;01.07.2014;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.8.1;eri sõeluuring rinnanäärmekasvaja avastamiseks;eri sõeluuring rinnanäärmekasvaja avastamiseks;eri sõeluuring rinnanäärmekasvaja avastamiseks;63.8;2;18.12.2015;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.8.2;eri sõeluuring emakakaelakasvaja avastamiseks;eri sõeluuring emakakaelakasvaja avastamiseks;eri sõeluuring emakakaelakasvaja avastamiseks;63.8;2;18.12.2015;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.8.3;eri-sõeluuring soolekasvaja avastamiseks;eri-sõeluuring soolekasvaja avastamiseks;eri-sõeluuring soolekasvaja avastamiseks;63.8;2;01.07.2016;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.9;saatekiri e-konsultatsioonile;saatekiri e-konsultatsioonile;saatekiri e-konsultatsioonile;63;1;01.07.2014;;01.07.2016;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.10;kutse vaktsineerimisele;kutse vaktsineerimisele;kutse vaktsineerimisele;63;1;15.11.2021;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.11;kutse personaalmeditsiini teenusele;kutse personaalmeditsiini teenusele;kutse personaalmeditsiini teenusele;63;1;08.03.2023;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.11.1;kutse rinnavähi riskiskoori väljaselgitamisele;kutse rinnavähi riskiskoori väljaselgitamisele;kutse rinnavähi riskiskoori väljaselgitamisele;63.11;2;08.03.2023;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.11.2;kutse farmakogeneetilisele testimisele;kutse farmakogeneetilisele testimisele;kutse farmakogeneetilisele testimisele;63.11;2;08.03.2023;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+63.11.3;kutse genotüpiseerimisele;kutse genotüpiseerimisele;kutse genotüpiseerimisele;63.11;2;08.03.2023;;;Eesti E-tervise SA;1;;3;Meditsiinidokument – Saatekirja liigid
+64;saatekirja vastus;saatekirja vastus;saatekirja vastus;;0;01.01.2008;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+70;kiirabikaart;kiirabikaart;kiirabikaart;;0;01.01.2014;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+80;tervisetõend;tervisetõend;tervisetõend;;0;01.01.2014;;;Eesti E-tervise SA;1;;11;Tervisetõendid
+81;tervisedeklaratsioon;tervisedeklaratsioon;tervisedeklaratsioon;;0;01.01.2014;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+82;otsus;otsus;otsus;;0;01.01.2014;;;Eesti E-tervise SA;1;;11;Tervisetõendid
+82.1;otsus mootorsõidukijuhi kasutusalal;otsus mootorsõidukijuhi kasutusalal;otsus mootorsõidukijuhi kasutusalal;82;1;01.01.2014;;;Eesti E-tervise SA;1;;11;Tervisetõendid
+82.2;otsus kutselise mootorsõidukijuhi kasutusalal;otsus kutselise mootorsõidukijuhi kasutusalal;otsus kutselise mootorsõidukijuhi kasutusalal;82;1;01.01.2014;;;Eesti E-tervise SA;1;;11;Tervisetõendid
+83;immuniseerimispass;immuniseerimispass;immuniseerimispass;;0;01.07.2016;;;Eesti E-tervise SA;1;;9;Algandmete alusel koostatud kaardid
+84;immuniseerimise teatis;immuniseerimise teatis;immuniseerimise teatis;;0;01.07.2016;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+85;TSK kaitseväeteenistuskohustuslase või tegevväelase tervisenõuetele vastavuse hindamiseks;TSK kaitseväeteenistuskohustuslase või tegevväelase tervisenõuetele vastavuse hindamiseks;TSK kaitseväeteenistuskohustuslase või tegevväelase tervisenõuetele vastavuse hindamiseks;;0;12.12.2016;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+86;TSK teenistusülesannete täitmise ja tervisekahjustuse tekkimise vahelise meditsiinilise seose tuvastamiseks;TSK teenistusülesannete täitmise ja tervisekahjustuse tekkimise vahelise meditsiinilise seose tuvastamiseks;TSK teenistusülesannete täitmise ja tervisekahjustuse tekkimise vahelise meditsiinilise seose tuvastamiseks;;0;12.12.2016;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+87;TSK teenistusülesannete täitmise tõttu tekkinud tervisekahjustusest põhjustatud püsiva töövõimetuse tuvastamiseks;TSK teenistusülesannete täitmise tõttu tekkinud tervisekahjustusest põhjustatud püsiva töövõimetuse tuvastamiseks;TSK teenistusülesannete täitmise tõttu tekkinud tervisekahjustusest põhjustatud püsiva töövõimetuse tuvastamiseks;;0;12.12.2016;;;Eesti E-tervise SA;1;;4;Muu meditsiinidokument
+88;Nõusolek terviseandmete avamiseks;Nõusolek terviseandmete avamiseks;Nõusolek terviseandmete avamiseks;;0;12.12.2016;;;Eesti E-tervise SA;1;;7;Patsiendi koostatud dokumendid
+89;Surmateatis;Surmateatis;Surmateatis;;0;09.04.2018;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;2;Meditsiinidokument - registriteatised
+90;Surma põhjuse teatis;Surma põhjuse teatis;Surma põhjuse teatis;;0;09.04.2018;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;2;Meditsiinidokument - registriteatised
+91;Perinataalsurma põhjuse teatis;Perinataalsurma põhjuse teatis;Perinataalsurma põhjuse teatis;;0;09.04.2018;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;2;Meditsiinidokument - registriteatised
+92;Surmatõend;Surmatõend;Surmatõend;;0;09.04.2018;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;12;Riiklike registrite dokumendid
+93;Seadusliku esindaja volitus;Seadusliku esindaja volitus;Seadusliku esindaja volitus;;0;09.04.2018;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;7;Patsiendi koostatud dokumendid
+94;Kodu- ja iseseisva statsionaarse õenduse epikriis;Kodu- ja iseseisva statsionaarse õenduse epikriis;Kodu- ja iseseisva statsionaarse õenduse epikriis;;0;16.05.2019;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;1;Meditsiinidokument - epikriisid
+95;TSK Tervishoiutöötajale;TSK Tervishoiutöötajale;TSK Tervishoiutöötajale;;0;16.05.2019;;;Tervise ja Heaolu Infosüsteemide Keskus;1;;4;Muu meditsiinidokument

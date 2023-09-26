@@ -1,6 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-165747007;Positiivne;RhD positiivne;RhD positive (finding);;0;28.03.2019;31.05.2021;;Eesti Laborimeditsiini Ühing;0;
-165746003;Negatiivne;RhD negatiivne;RhD negative (finding);;0;28.03.2019;31.05.2021;;Eesti Laborimeditsiini Ühing;0;
-10828004;Positiivne;Positiivne;Positive (qualifier value);;0;29.04.2020;;;Eesti Laborimeditsiini Ühing;1;
-260385009;Negatiivne;Negatiivne;Negative (qualifier value);;0;29.04.2020;;;Eesti Laborimeditsiini Ühing;1;
-280416009;Selguseta;Selguseta;Indeterminate result (qualifier value);;0;28.03.2019;;;Eesti Laborimeditsiini Ühing;1;Märgitakse vastuseks, kui labor ei suuda RhD kuuluvust määrata (nt väga kõrge või madala antikehade taseme, mõne haiguse või siirdamise tõttu) ja saadetakse edasi referentslaborisse

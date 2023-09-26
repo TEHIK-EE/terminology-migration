@@ -1,8 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
-0;0;terve;terve;;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-1;1;kerge veritsus pärast sondeerimist, mis on sedastatav otseselt või suupeegliga;kerge veritsus pärast sondeerimist, mis on sedastatav otseselt või suupeegliga;;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-2;2;esineb hambakivi, igemetasku sügavus on alla 3,5 mm;esineb hambakivi, igemetasku sügavus on alla 3,5 mm;;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-3;3;igematasku sügavus on 4-5 mm;igematasku sügavus on 4-5 mm;;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-4;4;igemetasku sügavus on üle 6 mm;igemetasku sügavus on üle 6 mm;;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-x;x;sekstanti ei olnud võimalik hinnata ;sekstanti ei olnud võimalik hinnata (sekstandis oli ainult 1 hammas või  indeksihammas puudub);;0;31.01.2015;;;Eesti Hambaarstide Liit;1;
-9;9;ei hinnatud ;ei hinnatud (Selleks peab olema põhjus. Näiteks on parodondi hindamine väga komplitseeritud või patsient   keeldub);;0;31.01.2015;;;Eesti Hambaarstide Liit;1;

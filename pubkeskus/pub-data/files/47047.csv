@@ -1,0 +1,7 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus
+01;Näeb normaalselt;Näeb normaalselt - näeb peeneid detaile, kaasa arvatud tavalist kirja ajalehes/raamatus;;;0;16.05.2019;;;1;
+02;Veidi halvenenud;Veidi halvenenud - näeb suurt kirja, kuid mitte tavalist kirja ajalehtedes/raamatutes;;;0;16.05.2019;;;1;
+03;Mõõdukalt halvenenud;"Mõõdukalt halvenenud - näeb halvasti; ei näe ajalehtede pealkirju, kuid suudab eristada objekte; külgnägemise häired";;;0;16.05.2019;;;1;
+04;Oluliselt halvenenud;"Oluliselt halvenenud - objektide identifitseerimisel on raskused, kuid jälgib silmadega liikuvaid objekte; näeb ainult valgust, värve, kujundeid";;;0;16.05.2019;;;1;
+05;Pime;Pime;;;0;16.05.2019;;;1;
+06;Pole võimalik hinnata;Pole võimalik hinnata;;;0;16.05.2019;;;1;

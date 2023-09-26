@@ -1,0 +1,16 @@
+KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUSE_KPV;KEHTIVUSE_LÕPU_KPV;VIIMANE_MUUDATUS_KPV;MUUTJA;STAATUS;SELGITUS
+1;alghariduseta;alghariduseta;alghariduseta; ;  ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;alghariduseta
+2;algharidus;algharidus;algharidus; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;üldharidusõpe (1-6. klass)
+3;põhiharidus;põhiharidus;põhiharidus; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;üldharidusõpe (7.-9. klass)
+4;keskharidus;keskharidus;keskharidus; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;üldharidusõpe (10.-12. klass)
+5;kutseharidus põhihariduseta (seejuures  alghariduseta);kutseharidus põhihariduseta (seejuures  alghariduseta);kutseharidus põhihariduseta (seejuures  alghariduseta); ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kutseõpe
+6;kutseharidus põhihariduse baasil;kutseharidus põhihariduse baasil;kutseharidus põhihariduse baasil; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kutseõpe
+7;kutseharidus keskhariduse baasil;kutseharidus keskhariduse baasil;kutseharidus keskhariduse baasil; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kutseõpe
+8;keskeriharidus põhihariduse baasil;keskeriharidus põhihariduse baasil;keskeriharidus põhihariduse baasil; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kutseõpe
+9;keskeriharidus keskhariduse baasil ;keskeriharidus keskhariduse baasil ;keskeriharidus keskhariduse baasil ; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+10;kutsekõrgharidus (rakenduskõrgharidus);kutsekõrgharidus (rakenduskõrgharidus);kutsekõrgharidus (rakenduskõrgharidus); ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+11;kõrgharidus (diplom);kõrgharidus (diplomiõpe);kõrgharidus (diplom); ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+12;kõrgharidus (NL-aegne diplom);kõrgharidus (NL-aegne diplom);kõrgharidus (NL-aegne diplom);;;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+13;kõrgharidus (bakalaureus);kõrgharidus (bakalaureus);kõrgharidus (bakalaureus); ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+14;kõrgharidus (magister);kõrgharidus (magister);kõrgharidus (magister); ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe
+15;doktor/teaduskandidaat;doktor/teaduskandidaat;doktor/teaduskandidaat; ; ;1.01.2008;;;"Sotsiaalministeerium; Tervisearengu instituut";1;kõrgharidusõpe

@@ -1,0 +1,21 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+RGU;Röntgenülesvõtted;Röntgenülesvõtted;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+RGP;Röntgenülesvõtted palatis;Röntgenülesvõtted palatis;;RGU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+RGI;Intraoraalsed röntgenülesvõtted;Intraoraalsed röntgenülesvõtted;;RGU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+RSK;Röntgenoskoopia;Röntgenoskoopia;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+OPT;Ortopantomograafia;Ortopantomograafia;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+MMG;Mammograafia;Mammograafia;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+UHU;Ultraheliuuringud;Ultraheliuuringud;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+UHP;Ultraheliuuringud palatis;Ultraheliuuringud palatis;;UHU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+UHM;Muud liiki ultraheliuuringud;Muud liiki ultraheliuuringud;;UHU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+KTU;Kompuutertomograafia;Kompuutertomograafia uuringud;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+KTA;Kompuutertomograafia-artrograafia;Kompuutertomograafia-artrograafia uuringud;;KTU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+KTK;Koonuskimp-kompuutertomograafia;Koonuskimp-kompuutertomograafia uuringud;;KTU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+KTM;Muud liiki kompuutertomograafia;Muud liiki kompuutertomograafia uuringud;;KTU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+MTU;Magnettomograafia;Magnettomograafia uuringud;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+MTA;Magnettomograafia-artrograafia;Magnettomograafia-artrograafia uuringud;;MTU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+MTM;Muud liiki magnettomograafia;Muud liiki magnettomograafia uuringud;;MTU;1;12.12.2018;;;Eesti Radioloogia Ühing;1;
+ANG;Angiograafia;Angiograafia uuringud;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+MRP;Menetlusradioloogia protseduurid;Menetlusradioloogia (va angiograafia) protseduurid;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+ISU;Isotoopuuringud;Isotoopuuringud;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;
+ITR;Isotoopravi;Isotoopravi;;;0;12.12.2018;;;Eesti Radioloogia Ühing;1;

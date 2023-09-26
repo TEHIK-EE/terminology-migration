@@ -1,0 +1,5 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+A;RX;RX - ei saa hinnata;Residuaaltuumori olemasolu ei ole võimalik hinnata;;0;1.07.2016;;;Eesti Patoloogide Selts;1;
+B;R0;R0 - ei esine;Residuaaltuumorit ei esine;;0;1.07.2016;;;Eesti Patoloogide Selts;1;
+C;R1;R1 - mikroskoopiline;Esineb mikroskoopiline residuaaltuumor;;0;1.07.2016;;;Eesti Patoloogide Selts;1;
+D;R2;R2 - makroskoopiline;Esineb makroskoopiline residuaaltuumor;;0;1.07.2016;;;Eesti Patoloogide Selts;1;

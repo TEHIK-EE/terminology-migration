@@ -1,9 +1,0 @@
-Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Staatus;Selgitus (kasutatakse piiriüleses digiretseptis patsiendi juhistes)
-TU;;tund;;;0;12.01.2016;;;1;tunnis
-PV;;päev;;;0;12.01.2016;;;1;päevas
-WK;;nädal;;;0;12.01.2016;;;1;nädalas
-KK;;kuu;;;0;12.01.2016;;;1;kuus
-AA;;aasta;;;0;12.01.2016;;;1;aastas
-HM;;hommik;;;0;12.01.2016;06.05.2016;;0;väärtus on määratud kehtetuks.
-OH;;õhtu;;;0;12.01.2016;06.05.2016;;0;väärtus on määratud kehtetuks.
-KV;;kvartal;;;0;12.01.2016;;;1;kvartalis

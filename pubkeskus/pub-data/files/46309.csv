@@ -1,0 +1,9 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+STAT;statsionaarne;statsionaarne;statsionaarne;0;0;01.01.2008;;;Eesti E-tervise SA;1;
+SS;päevaravi;päevaravi;päevaravi;0;0;01.01.2008;;;Eesti E-tervise SA;1;
+AMB;ambulatoorne (siia alla kuulub ka koduõenduse epikriis);ambulatoorne (siia alla kuulub ka koduõenduse epikriis);ambulatoorne (siia alla kuulub ka koduõenduse epikriis);0;0;01.01.2008;;;Eesti E-tervise SA;1;
+BIRTH;sünniepikriis;sünniepikriis;sünniepikriis;0;0;01.01.2008;;;Eesti E-tervise SA;1;
+HH;koduõendus;koduõendus;koduõendus;0;0;01.01.2008;;;Eesti E-tervise SA;1;
+CONTR;tervisekontroll;tervisekontroll;tervisekontroll;0;0;01.01.2008;;11.08.2015;Eesti E-tervise SA;1;
+PREGN;raseduse jälgimine;raseduse jälgimine;raseduse jälgimine;0;0;01.01.2008;;;Eesti E-tervise SA;1;
+ISNC;iseseisev statsionaarne õendusabi;iseseisev statsionaarne õendusabi;iseseisev statsionaarne õendusabi;0;0;16.05.2019;;;Tervise ja Heaolu Infosüsteemide Keskus;1;

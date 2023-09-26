@@ -1,0 +1,17 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+3381000181101;;Suurenenud geeniprodukti funktsioon;Increased gene product function (qualifier value);;0;31.05.2021;;30.11.2022;ELMÜ;1;Versioonis 2 muudetud nimetust:  Suurenenud funktsioon -> Suurenenud geeniprodukti funktsioon ning SNOMED CT nimetust: Increased function -> Increased gene product function (qualifier value)
+3391000181104;;Tavapärane geeniprodukti funktsioon;Normal gene product function (qualifier value);;0;31.05.2021;;30.11.2022;ELMÜ;1;Versioonis 2 muudetud nimetust:  Tavapärane funktsioon -> Tavapärane geeniprodukti funktsioon ning SNOMED CT nimetust: Normal function -> Normal gene product function (qualifier value)
+3401000181101;;Vähenenud geeniprodukti funktsioon;Decreased gene product function (qualifier value);;0;31.05.2021;;30.11.2022;ELMÜ;1;Versioonis 2 muudetud nimetust:  Vähenenud funktsioon -> Vähenenud geeniprodukti funktsioon ning SNOMED CT nimetust: Decreased function -> Decreased gene product function (qualifier value)
+3451000181100;;Puudulik geeniprodukti funktsioon;Poor gene product function (qualifier value);;0;31.05.2021;;30.11.2022;ELMÜ;1;Versioonis 2 muudetud nimetust:  Puudulik funktsioon -> Puudulik geeniprodukti funktsioon ning SNOMED CT nimetust: Poor function -> Poor gene product function (qualifier value)
+56761000181106;;Määramatu geeniprodukti funktsioon;Indeterminate gene product function (qualifier value);;0;30.11.2022;;;ELMÜ;1;Versioonis 2 lisatud
+56751000181108;;Võimalik vähenenud geeniprodukti funktsioon;Possible decreased gene product function (qualifier value);;0;30.11.2022;;;ELMÜ;1;Versioonis 2 lisatud
+56771000181101;;Soodsa vastusega genotüüp;Favorable response genotype (qualifier value);;0;30.11.2022;;;ELMÜ;1;Versioonis 2 lisatud
+56781000181104;;Ebasoodsa vastusega genotüüp;Unfavorable response genotype (qualifier value);;0;30.11.2022;;;ELMÜ;1;Versioonis 2 lisatud
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;

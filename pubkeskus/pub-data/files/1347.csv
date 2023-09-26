@@ -1,0 +1,15 @@
+Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
+1;rinnapiim;rinnapiim;rinnapiim;;0;31.05.2007;;;;1;
+2;imiku piimasegu;imiku piimasegu;imiku piimasegu;;0;31.05.2007;;;;1;
+3;segatoit (rinnapiim ja imiku piimasegu);segatoit (rinnapiim ja imiku piimasegu);segatoit (rinnapiim ja imiku piimasegu);;0;31.05.2007;;;;1;
+31;rinnapiima rohkem kui 50% ööpäevas;rinnapiima rohkem kui 50% ööpäevas;rinnapiima rohkem kui 50% ööpäevas;3;1;31.05.2007;;;;1;
+32;rinnapiima vähem kui 50% ööpäevas;rinnapiima vähem kui 50% ööpäevas;rinnapiima vähem kui 50% ööpäevas;3;1;31.05.2007;;;;1;
+4;lisatoit ;lisatoit ;lisatoit ;;0;31.05.2007;;;;1;imiku toit
+41;juurvili;juurvili;juurvili;4;1;31.05.2007;;;;1;imiku toit
+42;puuvili;puuvili;puuvili;4;1;31.05.2007;;;;1;imiku toit
+43;mahl;mahl;mahl;4;1;31.05.2007;;;;1;imiku toit
+44;puder;puder;puder;4;1;31.05.2007;;;;1;imiku toit
+45;liha;liha;liha;4;1;31.05.2007;;;;1;imiku toit
+5;imiku ravitoit (meditsiinilistel näidustustel kasutatav eritoit) ;imiku ravitoit (meditsiinilistel näidustustel kasutatav eritoit) ;imiku ravitoit (meditsiinilistel näidustustel kasutatav eritoit) ;;0;31.05.2007;;;;1;imiku toit
+6;lehmapiim;lehmapiim;lehmapiim;;0;31.05.2007;;;;1;imiku toit
+9;muu (vaba tekstina);muu (vaba tekstina);muu (vaba tekstina);;0;31.05.2007;;;;1;imiku toit
