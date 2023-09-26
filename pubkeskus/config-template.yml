@@ -7,10 +7,10 @@ keycloak:
 import:
   class: 'pub.etervis.classification-import'
   cs:
-    dryRun: false
+    dryRun: true
     cleanVersion: true
     replaceConcept: true
   vs:
-    dryRun: false
+    dryRun: true
 
 
