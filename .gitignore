@@ -2,3 +2,7 @@
 .idea
 
 config.yml
+__pycache__/
+auth/__pycache__/
+import-scripts/
+
