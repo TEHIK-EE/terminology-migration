@@ -17,10 +17,16 @@ name = 'name'
 title = 'title'
 definition = 'description (valueset)'
 oid = 'oid'
+publisher = 'publisher'
+email = 'email'
+www = 'www'
+endorser = 'endorser'
+versioning_algorithm = 'versioningAlgorithm'
 version_number = 'version_number'
 released = 'released'
 link = 'link'
 create_cs = 'createCS'
+supplement = 'supplement'
 create_vs = 'createVS'
 vs_based_on = 'VSbasedOn'
 map = 'map'
@@ -94,19 +100,19 @@ def is_value_set_import(resource_row):
             resource_row[resource_file_headers.index(vs_based_on)] is not None)
 
 
-def generate_cs_import_script(resource_row, token):
+def generate_cs_import_script(resource_row, t):
     request = to_cs_request(resource_row)
     with open('import-scripts/cs_import_script.sh', 'a') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/code-system/process\' \\\n \
-                    -H \'Authorization: Bearer' + token + '\' \\\n \
+                    -H \'Authorization: Bearer' + t + '\' \\\n \
                     -H \'accept: application/json\' \\\n \
                     -H \'Content-Type: multipart/form-data\' \\\n \
                     -F \'request=' + urllib.parse.quote(json.dumps(request)) + '\'\n\n')
 
 
 def generate_vs_import_script(resource_row, t):
-    request = to_vs_request(resource_row, t)
+    request = to_vs_request(resource_row)
     with open('import-scripts/vs_import_script.sh', 'a') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/value-set/process\' \\\n \
@@ -120,14 +126,21 @@ def to_cs_request(resource_row):
     code_system = {
         'id': resource_row[resource_file_headers.index(url)],
         'uri': 'https://fhir.ee/CodeSystem/' + resource_row[resource_file_headers.index(url)],
+        'publisher': resource_row[resource_file_headers.index(publisher)],
         'oid': resource_row[resource_file_headers.index(oid)],
         'name': resource_row[resource_file_headers.index(name)],
         'title': {'et': resource_row[resource_file_headers.index(title)]},
-        'description': {'et': resource_row[resource_file_headers.index(definition)]}
+        'description': {'et': resource_row[resource_file_headers.index(definition)]},
+        'contact': to_contact(resource_row),
+        'supplement': resource_row[resource_file_headers.index(supplement)],
+        'endorser': resource_row[resource_file_headers.index(endorser)]
     }
     code_system_version = {
         'number': resource_row[resource_file_headers.index(version_number)],
-        'releaseDate': resource_row[resource_file_headers.index(released)]
+        'releaseDate': resource_row[resource_file_headers.index(released)],
+        'status': config['import'].get('status', None),
+        'language': config['import'].get('language', None),
+        'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)]
     }
 
     properties = []
@@ -172,18 +185,24 @@ def to_cs_property(prop):
             }
 
 
-def to_vs_request(resource_row, t):
+def to_vs_request(resource_row):
     value_set = {
         'id': resource_row[resource_file_headers.index(url)],
         'uri': 'https://fhir.ee/ValueSet/' + resource_row[resource_file_headers.index(url)],
         'oid': resource_row[resource_file_headers.index(oid)],
+        'publisher': resource_row[resource_file_headers.index(publisher)],
         'name': resource_row[resource_file_headers.index(name)],
         'title': {'et': resource_row[resource_file_headers.index(title)]},
-        'description': {'et': resource_row[resource_file_headers.index(definition)]}
+        'description': {'et': resource_row[resource_file_headers.index(definition)]},
+        'contact': to_contact(resource_row),
+        'endorser': resource_row[resource_file_headers.index(endorser)]
     }
     value_set_version = {
         'number': resource_row[resource_file_headers.index(version_number)],
         'releaseDate': resource_row[resource_file_headers.index(released)],
+        'status': config['import'].get('status', None),
+        'language': config['import'].get('language', None),
+        'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)],
         'rule': {
             'codeSystemUri': resource_row[resource_file_headers.index(vs_based_on)]
         }
@@ -210,6 +229,17 @@ def to_vs_request(resource_row, t):
         'importClass': config['import']['classDateTime']
     }
     return request
+
+
+def to_contact(resource_row):
+    contact = {}
+    email_contact = resource_row[resource_file_headers.index(email)]
+    if not (email_contact == ''):
+        contact['email'] = email_contact
+    www_contact = resource_row[resource_file_headers.index(www)]
+    if not (www_contact == ''):
+        contact['other'] = www_contact
+    return contact
 
 
 def init_config():

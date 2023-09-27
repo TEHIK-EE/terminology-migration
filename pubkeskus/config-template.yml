@@ -6,6 +6,8 @@ keycloak:
   client-secret:
 import:
   class: 'pub.etervis.classification-import'
+  status: 'draft'
+  language: 'et'
   cs:
     dryRun: true
     cleanVersion: true
