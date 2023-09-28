@@ -159,7 +159,9 @@ def to_cs_request(resource_row):
         'dryRun': config['import']['cs']['dryRun'],
         'cleanVersion': config['import']['cs']['cleanVersion'],
         'replaceConcept': config['import']['cs']['replaceConcept'],
-        'importClass': config['import']['classDateTime']
+        'importClass': config['import']['classDateTime'],
+        'space': config['import'].get('space', None),
+        'spacePackage': config['import'].get('space-package', None)
     }
     return request
 
@@ -226,7 +228,9 @@ def to_vs_request(resource_row):
         'version': value_set_version,
         'mapping': mapping,
         'dryRun': config['import']['vs']['dryRun'],
-        'importClass': config['import']['classDateTime']
+        'importClass': config['import']['classDateTime'],
+        'space': config['import'].get('space', None),
+        'spacePackage': config['import'].get('space-package', None)
     }
     return request
 

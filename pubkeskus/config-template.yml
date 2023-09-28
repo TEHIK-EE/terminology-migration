@@ -6,6 +6,8 @@ keycloak:
   client-secret:
 import:
   class: 'pub.etervis.classification-import'
+  space: 'ee-base'
+  space-package: 'test'
   status: 'draft'
   language: 'et'
   cs:
