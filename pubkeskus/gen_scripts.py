@@ -30,6 +30,13 @@ supplement = 'supplement'
 create_vs = 'createVS'
 vs_based_on = 'VSbasedOn'
 map = 'map'
+vs_properties = 'VSproperties'
+
+
+# resource map
+resource_map = {
+    "SNOMED-EE": "http://snomed.org/sct",
+    "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10"}
 
 # resource file processing result
 resource_file_headers = []
@@ -132,7 +139,7 @@ def to_cs_request(resource_row):
         'title': {'et': resource_row[resource_file_headers.index(title)]},
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
-        'supplement': resource_row[resource_file_headers.index(supplement)],
+        'supplement': resource_map.get(resource_row[resource_file_headers.index(supplement)], None),
         'endorser': resource_row[resource_file_headers.index(endorser)]
     }
     code_system_version = {
@@ -149,6 +156,11 @@ def to_cs_request(resource_row):
         if not (p is None):
             properties.append(p)
 
+    value_set_properties = []
+    for p in resource_row[resource_file_headers.index(vs_properties)].split(','):
+        if not (p is None):
+            value_set_properties.append(p)
+
     request = {
         'type': 'csv',
         'link': resource_row[resource_file_headers.index(link)],
@@ -156,6 +168,7 @@ def to_cs_request(resource_row):
         'version': code_system_version,
         'properties': properties,
         'generateValueSet': resource_row[resource_file_headers.index(create_vs)] == '1',
+        'valueSetProperties': value_set_properties,
         'dryRun': config['import']['cs']['dryRun'],
         'cleanVersion': config['import']['cs']['cleanVersion'],
         'replaceConcept': config['import']['cs']['replaceConcept'],
@@ -199,6 +212,12 @@ def to_vs_request(resource_row):
         'contact': to_contact(resource_row),
         'endorser': resource_row[resource_file_headers.index(endorser)]
     }
+
+    properties = []
+    for p in resource_row[resource_file_headers.index(vs_properties)].split(','):
+        if not (p is None):
+            properties.append(p)
+
     value_set_version = {
         'number': resource_row[resource_file_headers.index(version_number)],
         'releaseDate': resource_row[resource_file_headers.index(released)],
@@ -206,7 +225,8 @@ def to_vs_request(resource_row):
         'language': config['import'].get('language', None),
         'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)],
         'rule': {
-            'codeSystemUri': resource_row[resource_file_headers.index(vs_based_on)]
+            'properties': properties,
+            'codeSystemUri': resource_map.get(resource_row[resource_file_headers.index(vs_based_on)], None)
         }
     }
 
@@ -220,6 +240,10 @@ def to_vs_request(resource_row):
             mapping['code'] = prop.split('=')[0]
         if property_name == 'display':
             mapping['display'] = prop.split('=')[0]
+        if property_name == 'status':
+            mapping['status'] = prop.split('=')[0]
+        if property_name == 'retirementDate':
+            mapping['retirementDate'] = prop.split('=')[0]
 
     request = {
         'type': 'csv',
