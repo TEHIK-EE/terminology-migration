@@ -266,7 +266,7 @@ def to_contact(resource_row):
         contact['email'] = email_contact
     www_contact = resource_row[resource_file_headers.index(www)]
     if not (www_contact == ''):
-        contact['other'] = www_contact
+        contact['url'] = www_contact
     return contact
 
 
