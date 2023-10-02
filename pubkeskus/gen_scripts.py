@@ -35,7 +35,7 @@ vs_properties = 'VSproperties'
 
 # resource map
 resource_map = {
-    "SNOMED-EE": "http://snomed.org/sct",
+    "SNOMED-EE": "http://snomed.info/sct",
     "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10"}
 
 # resource file processing result
