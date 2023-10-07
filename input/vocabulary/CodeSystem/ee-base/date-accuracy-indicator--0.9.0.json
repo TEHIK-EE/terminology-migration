@@ -1,0 +1,57 @@
+{
+  "resourceType" : "CodeSystem",
+  "id" : "date-accuracy-indicator--0.9.0",
+  "language" : "en",
+  "text" : {
+    "div" : "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>This code system <code>https://fhir.ee/CodeSystem/ee-date-accuracy-indicator</code> defines the following codes:</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td><td><b>Definition</b></td></tr><tr><td style=\"white-space:nowrap\">AAA<a name=\"ee-date-accuracy-indicator-AAA\"> </a></td><td>DMY</td><td>Day, month and year are accurate</td></tr><tr><td style=\"white-space:nowrap\">AAU<a name=\"ee-date-accuracy-indicator-AAU\"> </a></td><td>DM</td><td>Day and month are accurate, year is unknown</td></tr><tr><td style=\"white-space:nowrap\">UAA<a name=\"ee-date-accuracy-indicator-UAA\"> </a></td><td>MY</td><td>Day is unknown, month and year are accurate</td></tr><tr><td style=\"white-space:nowrap\">UEA<a name=\"ee-date-accuracy-indicator-UEA\"> </a></td><td>~MY</td><td>Day is unknown, month is estimated, year is accurate</td></tr><tr><td style=\"white-space:nowrap\">UUU<a name=\"ee-date-accuracy-indicator-UUU\"> </a></td><td>N/A</td><td>Day, month and year are unknown</td></tr></table></div>"
+  },
+  "url" : "https://fhir.ee/CodeSystem/date-accuracy-indicator",
+  "version" : "0.9.0",
+  "name" : "DateAccuracyIndicator",
+  "title" : "Date Accuracy Indicator",
+  "status" : "active",
+  "experimental" : true,
+  "date" : "2023-05-07T00:00:00Z",
+  "publisher" : "HL7 Estonia",
+  "contact" : [ {
+    "name" : "HL7 Estonia",
+    "telecom" : [ {
+      "system" : "url",
+      "value" : "https://www.hl7.ee"
+    } ]
+  } ],
+  "description" : "Date Accuracy Indicator. Check full list here https://www.healthterminologies.gov.au/integration/R4/fhir/CodeSystem/date-accuracy-indicator-1.",
+  "caseSensitive" : false,
+  "content" : "complete",
+  "property" : [ {
+    "code" : "definition",
+    "description" : "Definition",
+    "type" : "string"
+  }, {
+    "code" : "display",
+    "uri" : "http://terminology.hl7.org/CodeSystem/designation-usage|display",
+    "description" : "Display",
+    "type" : "string"
+  } ],
+  "concept" : [ {
+    "code" : "AAA",
+    "display" : "DMY",
+    "definition" : "Day, month and year are accurate"
+  }, {
+    "code" : "AAU",
+    "display" : "DM",
+    "definition" : "Day and month are accurate, year is unknown"
+  }, {
+    "code" : "UAA",
+    "display" : "MY",
+    "definition" : "Day is unknown, month and year are accurate"
+  }, {
+    "code" : "UEA",
+    "display" : "~MY",
+    "definition" : "Day is unknown, month is estimated, year is accurate"
+  }, {
+    "code" : "UUU",
+    "display" : "N/A",
+    "definition" : "Day, month and year are unknown"
+  } ]
+}
