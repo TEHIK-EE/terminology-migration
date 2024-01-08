@@ -17,6 +17,7 @@ name = 'name'
 title = 'title'
 definition = 'description (valueset)'
 oid = 'oid'
+void = 'void'
 publisher = 'publisher'
 email = 'email'
 www = 'www'
@@ -36,7 +37,10 @@ vs_properties = 'VSproperties'
 # resource map
 resource_map = {
     "SNOMED-EE": "http://snomed.info/sct",
-    "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10"}
+    "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10",
+    "ATC-EE": "https://fhir.ee/CodeSystem/atc-ee",
+    "RadioloogilineUuring": "https://fhir.ee/CodeSystem/radioloogiline-uuring"
+}
 
 # resource file processing result
 resource_file_headers = []
@@ -80,9 +84,9 @@ def process_resource_file(resource_file):
         csvreader = csv.reader(file, delimiter=',')
         resource_file_headers.extend(next(csvreader))
         for row in csvreader:
-            if row[resource_file_headers.index(import_val)] in ['2']:
+            if row[resource_file_headers.index(import_val)] in ['2', '6']:
                 resource_file_rows_to_import.append(row)
-            if row[resource_file_headers.index(import_val)] in ['1', '0', '3']:
+            if row[resource_file_headers.index(import_val)] not in ['2', '6']:
                 resource_file_rows_to_ignore.append(row)
     print("%d resources will be imported" % (resource_file_rows_to_import.__len__()))
     print("%d resources are ignored" % (resource_file_rows_to_ignore.__len__()))
@@ -147,7 +151,8 @@ def to_cs_request(resource_row):
         'releaseDate': resource_row[resource_file_headers.index(released)],
         'status': config['import'].get('status', None),
         'language': config['import'].get('language', None),
-        'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)]
+        'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)],
+        'oid': resource_row[resource_file_headers.index(void)]
     }
 
     properties = []
@@ -227,7 +232,8 @@ def to_vs_request(resource_row):
         'rule': {
             'properties': properties,
             'codeSystemUri': resource_map.get(resource_row[resource_file_headers.index(vs_based_on)], None)
-        }
+        },
+        'oid': resource_row[resource_file_headers.index(void)]
     }
 
     mapping = {}

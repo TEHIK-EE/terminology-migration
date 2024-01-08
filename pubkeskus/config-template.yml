@@ -1,5 +1,6 @@
 termx:
   url: 'https://termx.kodality.dev/api/'
+  #url: 'http://localhost:8200/'
 keycloak:
   sso-url:
   client-id:
