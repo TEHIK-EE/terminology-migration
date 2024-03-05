@@ -23,7 +23,7 @@ email = 'email'
 www = 'www'
 endorser = 'endorser'
 versioning_algorithm = 'versioningAlgorithm'
-version_number = 'version_number'
+version_number = 'semver_version_number'
 released = 'released'
 link = 'link'
 create_cs = 'createCS'
@@ -39,7 +39,13 @@ resource_map = {
     "SNOMED-EE": "http://snomed.info/sct",
     "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10",
     "ATC-EE": "https://fhir.ee/CodeSystem/atc-ee",
-    "RadioloogilineUuring": "https://fhir.ee/CodeSystem/radioloogiline-uuring"
+    "RadioloogilineUuring": "https://fhir.ee/CodeSystem/radioloogiline-uuring",
+    "QueryResponse": "http://terminology.hl7.org/CodeSystem/v3-QueryResponse",
+    "Confidentiality": "http://terminology.hl7.org/CodeSystem/v3-Confidentiality",
+    "ActCode": "http://terminology.hl7.org/CodeSystem/v3-ActCode",
+    "RoleCode": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+    "QueryStatusCode": "http://terminology.hl7.org/CodeSystem/v3-QueryStatusCode",
+    "ActClass": "http://terminology.hl7.org/CodeSystem/v3-ActClass"
 }
 
 # resource file processing result
@@ -84,9 +90,9 @@ def process_resource_file(resource_file):
         csvreader = csv.reader(file, delimiter=',')
         resource_file_headers.extend(next(csvreader))
         for row in csvreader:
-            if row[resource_file_headers.index(import_val)] in ['2', '6']:
+            if row[resource_file_headers.index(import_val)] in ['2', '6', '5']:
                 resource_file_rows_to_import.append(row)
-            if row[resource_file_headers.index(import_val)] not in ['2', '6']:
+            if row[resource_file_headers.index(import_val)] not in ['2', '6', '5']:
                 resource_file_rows_to_ignore.append(row)
     print("%d resources will be imported" % (resource_file_rows_to_import.__len__()))
     print("%d resources are ignored" % (resource_file_rows_to_ignore.__len__()))
@@ -144,7 +150,7 @@ def to_cs_request(resource_row):
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
         'supplement': resource_map.get(resource_row[resource_file_headers.index(supplement)], None),
-        'endorser': resource_row[resource_file_headers.index(endorser)]
+        'admin': resource_row[resource_file_headers.index(endorser)]
     }
     code_system_version = {
         'number': resource_row[resource_file_headers.index(version_number)],
@@ -190,6 +196,8 @@ def to_cs_property(prop):
         return None
     property_and_setting = prop.split('=')[1].split('|')
     property_name = property_and_setting[0]
+    if property_name == 'retirementDate' or property_name == 'effectiveDate':
+        return None
     setting = None if len(property_and_setting) == 1 else property_and_setting[1]
     defined_property = defined_properties.get(property_name, None)
     property_type = 'string' if defined_property is None else \
@@ -215,7 +223,7 @@ def to_vs_request(resource_row):
         'title': {'et': resource_row[resource_file_headers.index(title)]},
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
-        'endorser': resource_row[resource_file_headers.index(endorser)]
+        'admin': resource_row[resource_file_headers.index(endorser)]
     }
 
     properties = []
@@ -229,6 +237,7 @@ def to_vs_request(resource_row):
         'status': config['import'].get('status', None),
         'language': config['import'].get('language', None),
         'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)],
+        'inactive': False,
         'rule': {
             'properties': properties,
             'codeSystemUri': resource_map.get(resource_row[resource_file_headers.index(vs_based_on)], None)
@@ -258,6 +267,7 @@ def to_vs_request(resource_row):
         'version': value_set_version,
         'mapping': mapping,
         'dryRun': config['import']['vs']['dryRun'],
+        'cleanVersion': config['import']['vs']['cleanVersion'],
         'importClass': config['import']['classDateTime'],
         'space': config['import'].get('space', None),
         'spacePackage': config['import'].get('space-package', None)
