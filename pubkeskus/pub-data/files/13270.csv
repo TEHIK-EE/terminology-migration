@@ -2,4 +2,5 @@ KOOD;LÜHINIMETUS;NIMETUS;PIKK_NIMETUS;VANEM_KOOD;HIERARHIA_ASTE;KEHTIVUSE_ALGUS
 EST1;EST1;EST1;EST1;;;10.07.2008;;;SOM;1;Kindlustatute registris Eesti kodakondne
 EST2;EST2;EST2;EST2;;;10.07.2008;;;SOM;1;Kindlustatute registris välismaalane
 EU;EU;EU;EU;;;10.07.2008;;;SOM;1;Euroopa Liidu kindlustatu
-MEDK;MEDK;MEDK;MEDK;;;10.07.2008;;;SOM;1;Meditsiiniseadme kaart
+MEDK;MEDK;MEDK;MEDK;;;10.07.2008;31.12.2022;;SOM;0;Meditsiiniseadme kaart
+MR;MR;MR;MR;;;01.01.2023;;;SOM;1;Meditsiiniseadme retsept
