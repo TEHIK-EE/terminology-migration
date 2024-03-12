@@ -42,7 +42,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 258607008;;Bronhoalveolaarloputuse vedelik;Bronchoalveolar lavage fluid sample (specimen);;0;01.03.2017;;30.11.2020;Eesti Patoloogide Selts;1;Versioonis 10 muudetud nimetust. Bronhoalveolaarse lavaaži materjal-> Bronhoalveolaarloputuse vedelik
 122609004;;Bronhi loputustsütoloogia materjal;Specimen from lung obtained by bronchial washing procedure (specimen);;0;01.03.2017;;;Eesti Patoloogide Selts;1;
 181422007;;Eesnääre;Entire prostate (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-279434009;;Eesnäärme kusiti;Entire prostatic urethra (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+279434009;;Kusiti eesnäärmeosa;Entire prostatic urethra (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Eesnäärme kusiti -> Kusiti eesnäärmeosa
 312506000;;Eesnäärmeümbruse kude;Entire periprostatic tissue (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181453009;;Emakakael;Entire cervix uteri (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 264459002;;Ektotserviks;Entire ectocervix (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -78,7 +78,8 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 181224006;;Ige;Entire gingiva (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181050003;;Istmikunärv;Entire sciatic nerve (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 57999000;;Jalatald;Structure of sole of foot (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-302508007;;Jämesool;Entire colon (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+302508007;;Jämesool;Entire colon (body structure);;0;01.03.2017;30.11.2023;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 15 tunnistatud kehtetuks, asendab 181254001 Entire large intestine (body structure)
+181254001;;Jämesool;Entire large intestine (body structure);;0;30.11.2023;;;Eesti Patoloogide Selts;1;Versioonis 15 lisatud, asendab kehtetuks tunnistatud väärtust 302508007 Entire colon (body structure)
 181566006;;Jalatalla nahk;Entire skin of sole of foot (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 281593008;;Jämesoole lümfisõlm;Entire colic lymph node (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 245427008;;Jämesoole maksanurk;Entire right colic flexure (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -94,9 +95,9 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 731713000;;Kaelalüli;Entire bone of cervical vertebra (body structure);;0;31.05.2022;;;Eesti Patoloogide Selts;1;Versioonis 13 lisatud, asendab kehtetuks tunnistatud väärtust 181820005 Entire cervical vertebra (body structure)
 181759007;;Kaenla lümfisõlm;Entire axillary lymph node (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 699891005;;Kaenlaaugu nahk (cutis fossae axillaris);Skin structure of axillary fossa (body structure);;0;01.03.2017;09.09.2019;;Eesti Patoloogide Selts;0;Tunnistatud kehtetuks, seda asendab 76261009 Skin structure of axilla (body structure)
-181247007;;Kaksteistsõrmiksool;Entire duodenum (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-245389007;;Kaksteistsõrmiksoole näsa;Entire duodenal papilla (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-362149005;;Kaksteistsõrmiksoole sibul;Entire duodenal ampulla (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+181247007;;Kaksteistsõrmik;Entire duodenum (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud imetust: Kaksteistsõrmiksool -> Kaksteistsõrmik
+245389007;;Kaksteistsõrmikunäsa;Entire duodenal papilla (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Kaksteistsõrmiksoole näsa -> Kaksteistsõrmikunäsa
+362149005;;Kaksteistsõrmikusibul;Entire duodenal ampulla (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Kaksteistsõrmiksoole sibul -> Kaksteistsõrmikusibul
 182099002;;Kandluu;Entire calcaneum bone (body structure);;0;01.03.2017;;31.05.2022;Eesti Patoloogide Selts;1;Versioonis 13 korrigeeritud SNOMED CT FSN: Entire os calcis (body structure) -> Entire calcaneum bone (body structure)
 245254008;;Kannakõõluse limapaun;Entire calcaneal tendon bursa (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181226008;;Keel;Entire tongue (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -128,7 +129,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 362459002;;Kolmiknärv;Entire trigeminal nerve (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 182098005;;Kontsluu;Entire talus (body structure);;0;01.07.2014;31.05.2022;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 13 tunnistatud kehtetuks, seda asendab 731696003 Entire bone of talus
 731696003;;Kontsluu;Entire bone of talus (body structure);;0;31.05.2022;;;Eesti Patoloogide Selts;1;Versioonis 13 lisatud, asendab kehtetuks tunnistatud väärtust 182098005 Entire talus
-256391000;;Koorion;Entire chorionic plate (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+256391000;;Koorioniplaat;Entire chorionic plate (body structure);;0;01.07.2014;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Koorion -> Koorioniplaat
 181216001;;Kops;Entire lung (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 10047002;;Kopsusiirik;Structure of transplanted lung (body structure);;0;30.11.2022;;;Eesti Patoloogide Selts;1;Versioonis 14 lisatud
 181289004;;Kopsutüveklapp;Entire pulmonary valve (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -144,9 +145,9 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 362082005;;Kurgunibu;Entire uvula palatina (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 244487001;;Kulmu nahk;Entire skin of eyebrow (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 302511008;;Kusejuha;Entire ureter (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-279395007;;Kusejuha kõhu osa;Entire abdominal portion of ureter (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+279395007;;Kusejuha kõhuosa;Entire abdominal portion of ureter (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Kusejuha kõhu osa -> Kusejuha kõhuosa
 181415004;;Kusejuhasuistik;Entire ureteral orifice (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-362223005;;Kusejuha vaagna osa;Entire pelvic portion of ureter (body structure);;0;01.03.2017;;30.11.2021;Eesti Patoloogide Selts;1;Korrigeeritud eestikeelses nimetuses tühikut
+362223005;;Kusejuha vaagnaosa;Entire pelvic portion of ureter (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Kusejuha vaagna osa -> Kusejuha vaagnaosa
 302512001;;Kusepõis;Entire urinary bladder (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 302513006;;Kusiti;Entire urethra (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181424008;;Kusitisuistik;Entire urethral meatus (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -187,7 +188,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 182489004;;Küünarnuki limapaun;Entire bursa of olecranon (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181534001;;Küünarnuki nahk;Entire skin of elbow (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181537008;;Küünarvarre nahk;Entire skin of forearm (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-181578005;;Küünealune piirkond;Entire nail bed (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+181578005;;Küüneloož;Entire nail bed (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Küünealune piirkond -> Küüneloož
 372177002;;Küüs;Entire nail plate (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 280418005;;Küünevalli nahk;Periungual skin structure (body structure);;0;01.03.2017;;31.05.2022;Eesti Patoloogide Selts;1;Versioonis 13 korrigeeritud SNOMED CT FSN: Periungual skin (body structure) -> Periungual skin structure (body structure)
 244555001;;Labajala liiges;Entire joint of foot (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -227,14 +228,16 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 181246003;;Magu;Entire stomach (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181268008;;Maks;Entire liver (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 245399002;;Maksajuha;Entire hepatic duct (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-362706000;;Maksa-kaksteistsõrmiksoole side;Entire hepatoduodenal ligament (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+362706000;;Maksa-kaksteistsõrmiku side;Entire hepatoduodenal ligament (body structure);;0;01.07.2014;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Maksa-kaksteistsõrmiksoole side -> Maksa-kaksteistsõrmiku side
 362185005;;Maksakapsel;Entire hepatic capsule (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 48536008;;Maksaside;Entire ligament of liver (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362193005;;Maksasisesed sapijuhad;Entire intrahepatic bile duct (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 262209009;;Maksaümarside;Entire ligamentum teres of liver (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-245288002;;Maksavärati lümfisõlm;Portahepatis lymph node group (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+245288002;;Maksavärati lümfisõlm;Portahepatis lymph node group (body structure);;0;01.03.2017;30.11.2023;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 15 tunnistatud kehtetuks, asendab 728269009 Entire porta hepatis node (body structure)
+728269009;;Maksavärati lümfisõlm;Entire porta hepatis node (body structure);;0;30.11.2023;;;Eesti Patoloogide Selts;1;Versioonis 15 lisatud, asendab kehtetuks tunnistatud väärtust 245288002 Portahepatis lymph node group (body structure)
 361670003;;Mandel;Entire tonsils and adenoids (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-268703004;;Mao kardia;Entire cardiac ostium of stomach (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+268703004;;Mao kardia;Entire cardiac ostium of stomach (body structure);;0;01.03.2017;30.11.2023;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 15 tunnistatud kehtetuks, seda asendab 62898002 Cardia structure (body structure)
+62898002;;Mao kardia;Cardia structure (body structure);;0;30.11.2023;;;Eesti Patoloogide Selts;1;Versioonis 15 lisatud, asendab kehtetuks tunnistatud väärtust 268703004 Entire cardiac ostium of stomach (body structure)
 362136000;;Mao tagasein;Entire posterior wall of stomach (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362140009;;Maokeha;Entire gastric corpus (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 260539007;;Mao-käärsoole side;Entire gastrocolic ligament (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -351,7 +354,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 309321003;;Peaaju kõvakest;Entire brain dura mater (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362322002;;Peaaju parem poolkera;Entire right cerebral hemisphere (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362323007;;Peaaju vasak poolkera;Entire left cerebral hemisphere (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-181890004;;Peaaju põhimik;Entire base of skull (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+181890004;;Koljupõhimik;Entire base of skull (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Peaaju põhimik -> Koljupõhimik
 245508000;;Peabronh;Entire main bronchus (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 265793009;;Peenis;Entire penis (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 61719002;;Pealae nahk;Skin structure of vertex (body structure);;0;01.03.2017;;31.05.2022;Eesti Patoloogide Selts;1;Versioonis 13 korrigeeritud SNOMED CT FSN: Skin of vertex (body structure) -> Skin structure of vertex (body structure)
@@ -367,7 +370,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 279104005;;Piklikaju;Entire medulla oblongata (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 302529003;;Pindluu;Entire fibula (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181325005;;Pindmine temporaalarter;Entire superficial temporal artery (body structure);;0;01.03.2017;;30.11.2021;Eesti Patoloogide Selts;1;Korrigeeritud eestikeelses nimetuses tühikut
-264495005;;Piriformsiinus;Entire piriform recess (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+264495005;;Piriformsopis;Entire piriform recess (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Piriformsiinus -> Piriformsopis
 181147003;;Pisaranääre;Entire lacrimal gland (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 280426002;;Pisarateed;Lacrimal drainage structure (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 182462009;;Plantaaraponeuroos (aponeurosis plantaris);Entire plantar aponeurosis (body structure);;0;01.07.2014;29.11.2018;01.03.2017;Eesti Patoloogide Selts;0;Tunnistatud kehtetuks, seda asendab väärtus 732002005 Entire plantar fascia (body structure)
@@ -457,11 +460,11 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 245513001;;Segmendibronh;Entire segmental bronchus (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181492002;;Selja nahk;Entire skin of back (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 180959008;;Seljaaju;Entire spinal cord (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-180961004;;Seljaaju kaelaosa;Entire dorsal spinal cord (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+180961004;;Seljaaju rinnaosa;Entire dorsal spinal cord (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Seljaaju kaelaosa -> Seljaaju rinnaosa
 263377004;;Seljaaju hobusaba;Entire cauda equina (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 180962006;;Seljaaju nimmeosa;Entire lumbar spinal cord (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362302001;;Seljaaju kõvakest;Entire spinal dura mater (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-180960003;;Seljaaju rinnaosa;Entire cervical spinal cord (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+180960003;;Seljaaju kaelaosa;Entire cervical spinal cord (body structure);;0;01.03.2017;;30.11.2023;Eesti Patoloogide Selts;1;Versioonis 15 muudetud nimetust: Seljaaju rinnaosa -> Seljaaju kaelaosa
 244438003;;Seljaaju sakraalosa;Entire sacral spinal cord (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 181772008;;Sidekirme;Entire fascia (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 182358004;;Side;Entire ligament (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -470,7 +473,8 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 272508003;;Siirdatud maks;Entire transplanted liver (body structure);;0;01.07.2014;;01.03.2017;Eesti Patoloogide Selts;1;
 281112005;;Siirdatud neer;Entire transplanted kidney (body structure);;0;01.03.2017;;;Eesti Patoloogide Selts;1;
 122447002;;Silelihaskude;Structure of smooth muscle tissue (body structure);;0;01.03.2017;;31.05.2022;Eesti Patoloogide Selts;1;Versioonis 13 korrigeeritud SNOMED CT FSN: Smooth muscle (tissue) (body structure) -> Structure of smooth muscle tissue (body structure)
-244486005;;Silm;Entire eye (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+244486005;;Silm;Entire eye (body structure);;0;01.07.2014;30.11.2023;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 15 tunnistatud kehtetuks, seda asendab: 81745001 Structure of eye proper (body structure)
+81745001;;Silm;Structure of eye proper (body structure);;0;30.11.2023;;;Eesti Patoloogide Selts;1;Versioonis 15 lisatud, asendab kehtetuks tunnistatud väärtust 244486005 Entire eye (body structure)
 280541000;;Silmakoobas;Structure of orbital cavity (body structure);;0;01.07.2014;;31.05.2022;Eesti Patoloogide Selts;1;Versioonis 13 korrigeeritud SNOMED CT FSN: Orbital cavity (body structure) -> Structure of orbital cavity (body structure)
 362646004;;Silmakoopa ümbruse piirkond;Entire periorbital region (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 245947005;;Silmalau nahk;Entire skin of eyelid (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
@@ -483,7 +487,8 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 244716004;;Skeletilihas;Entire skeletal muscle (organ) (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 112640005;;Songakott;Hernia sac (morphologic abnormality);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 281507003;;Soole lümfisõlm;Entire intestinal lymph node (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
-303139006;;Soolekinnisti lümfisõlm;Mesenteric artery lymph node group (body structure);;0;01.03.2017;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
+303139006;;Soolekinnisti lümfisõlm;Mesenteric artery lymph node group (body structure);;0;01.03.2017;30.11.2023;09.09.2019;Eesti Patoloogide Selts;0;Versioonis 15 tunnistatud kehtetuks, seda asendab 731161002 Entire mesenteric artery lymph node (body structure)
+731161002;;Soolekinnisti lümfisõlm;Entire mesenteric artery lymph node (body structure);;0;30.11.2023;;;Eesti Patoloogide Selts;1;Versioonis 15 lisatud, asendab 303139006 Mesenteric artery lymph node group (body structure)
 362707009;;Soolekinnisti;Entire mesentery (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 361099009;;Spinaalnärv;Entire spinal nerve (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
 362308002;;Subduraalruum;Entire subdural space (body structure);;0;01.07.2014;;09.09.2019;Eesti Patoloogide Selts;1;Versioonis 8 eemaldatud nimetusest ladinakeelne nimi
