@@ -2,7 +2,8 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus (SNOMED CT FSN);Vanem_kood;Hierarhia_aste
 387713003;;Kirurgiline ravi;Surgical procedure (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
 53438000;;Kiiritusravi;Radiation therapy procedure or service (procedure);;0;30.09.2020;31.05.2022;;Eesti Onkoloogide Selts;0;Versioonis 3 kehtetuks tunnistatud. Seda asendab loendis mõiste koodiga 108290001
 367336001;;Süsteemravi;Chemotherapy (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
-64644003;;Immuunravi;Immunotherapy for cancer (procedure);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
+64644003;;Immuunravi;Immunotherapy for cancer (procedure);;0;30.09.2020;30.11.2023;27.05.2021;Eesti Onkoloogide Selts;0;Versioonis 5 kehtetuks tunnistatud. Seda asendab loendis mõiste koodiga 76334006
+76334006;;Immuunravi;Immunotherapy (procedure);;0;30.11.2023;;;Eesti Onkoloogide Selts;1;Versioonis 5 lisatud. Asendab SNOMED CT-s kehtetuks tunnistatud mõistet koodiga 64644003
 240917005;;Invasiivradioloogia;Interventional radiology (procedure);;0;30.09.2020;30.11.2022;27.05.2021;Eesti Onkoloogide Selts;0;Versioonis 4 kehtetuks tunnistatud. Seda asendab loendis mõiste koodiga 418542003
 52052004;;Taastusravi;Rehabilitation therapy (regime/therapy);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
 243114000;;Toetusravi;Support (regime/therapy);;0;30.09.2020;;27.05.2021;Eesti Onkoloogide Selts;1;
