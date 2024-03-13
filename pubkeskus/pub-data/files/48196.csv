@@ -101,7 +101,7 @@ HEALTHSTATE;Patsiendi ütluspõhised terviseandmed;Patsiendi ütluspõhised terv
 DENTDISE;Hambaravi haigusjuhtum;Hambaravi haigusjuhtum;Hambaravi haigusjuhtum;0;0;01.01.2015;;;;1;
 DENTCLINOBS;Hambaravi kliiniline vaatlus;Hambaravi kliiniline vaatlus;Hambaravi kliiniline vaatlus;0;0;01.01.2015;;;;1;
 CALLINGSCHEDULE;Kiirabibrigaadi kutsungi graafik;Kiirabibrigaadi kutsungi graafik;Kiirabibrigaadi kutsungi graafik;0;0;16.04.2015;;;;1;
-RANKCHEDULE  ;Kiirabibrigaadi taseme graafik;Kiirabibrigaadi taseme graafik;Kiirabibrigaadi taseme graafik;0;0;16.04.2015;;;;1;
+RANKCHEDULE;Kiirabibrigaadi taseme graafik;Kiirabibrigaadi taseme graafik;Kiirabibrigaadi taseme graafik;0;0;16.04.2015;;;;1;
 STATUSCHEDULE;Kiirabibrigaadi oleku graafik;Kiirabibrigaadi oleku graafik;Kiirabibrigaadi oleku graafik;0;0;16.04.2015;;;;1;
 ENDO;Endoskoopia uuringud;Endoskoopia uuringud;Endoskoopia uuringud;0;0;01.04.2016;;;;1;
 KOLO;Koloskoopia uuringud;Koloskoopia uuringud;Koloskoopia uuringud;0;0;01.04.2016;;;;1;
