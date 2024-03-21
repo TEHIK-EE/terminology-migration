@@ -121,8 +121,6 @@ def is_value_set_import(resource_row):
 
 def generate_cs_import_script(resource_row, t):
     request = to_cs_request(resource_row)
-    if request['codeSystem']['id'] == 'immuniseerimise-vanusegrupp':
-        print(request)
     with open('import-scripts/cs_import_script.sh', 'a') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/code-system/process\' \\\n \
