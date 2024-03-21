@@ -31,6 +31,7 @@ supplement = 'supplement'
 create_vs = 'createVS'
 vs_based_on = 'VSbasedOn'
 map = 'map'
+concept_order = 'conceptOrder'
 vs_properties = 'VSproperties'
 
 
@@ -39,6 +40,7 @@ resource_map = {
     "SNOMED-EE": "http://snomed.info/sct",
     "RHK10-EE": "https://fhir.ee/CodeSystem/rhk10",
     "ATC-EE": "https://fhir.ee/CodeSystem/atc-ee",
+    "NCSP-EE": "https://fhir.ee/CodeSystem/ncsp",
     "RadioloogilineUuring": "https://fhir.ee/CodeSystem/radioloogiline-uuring",
     "QueryResponse": "http://terminology.hl7.org/CodeSystem/v3-QueryResponse",
     "Confidentiality": "http://terminology.hl7.org/CodeSystem/v3-Confidentiality",
@@ -90,9 +92,9 @@ def process_resource_file(resource_file):
         csvreader = csv.reader(file, delimiter=',')
         resource_file_headers.extend(next(csvreader))
         for row in csvreader:
-            if row[resource_file_headers.index(import_val)] in ['2', '6', '5']:
+            if row[resource_file_headers.index(import_val)] in ['5','6']:
                 resource_file_rows_to_import.append(row)
-            if row[resource_file_headers.index(import_val)] not in ['2', '6', '5']:
+            if row[resource_file_headers.index(import_val)] not in ['5','6']:
                 resource_file_rows_to_ignore.append(row)
     print("%d resources will be imported" % (resource_file_rows_to_import.__len__()))
     print("%d resources are ignored" % (resource_file_rows_to_ignore.__len__()))
@@ -119,6 +121,8 @@ def is_value_set_import(resource_row):
 
 def generate_cs_import_script(resource_row, t):
     request = to_cs_request(resource_row)
+    if request['codeSystem']['id'] == 'immuniseerimise-vanusegrupp':
+        print(request)
     with open('import-scripts/cs_import_script.sh', 'a') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/code-system/process\' \\\n \
@@ -150,7 +154,8 @@ def to_cs_request(resource_row):
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
         'supplement': resource_map.get(resource_row[resource_file_headers.index(supplement)], None),
-        'admin': resource_row[resource_file_headers.index(endorser)]
+        'admin': resource_row[resource_file_headers.index(endorser)],
+        'externalWebSource': True
     }
     code_system_version = {
         'number': resource_row[resource_file_headers.index(version_number)],
@@ -168,7 +173,7 @@ def to_cs_request(resource_row):
             properties.append(p)
 
     value_set_properties = []
-    for p in resource_row[resource_file_headers.index(vs_properties)].split(','):
+    for p in resource_row[resource_file_headers.index(vs_properties)].replace(" ", "").split(','):
         if not (p is None):
             value_set_properties.append(p)
 
@@ -185,7 +190,8 @@ def to_cs_request(resource_row):
         'replaceConcept': config['import']['cs']['replaceConcept'],
         'importClass': config['import']['classDateTime'],
         'space': config['import'].get('space', None),
-        'spacePackage': config['import'].get('space-package', None)
+        'spacePackage': config['import'].get('space-package', None),
+        'autoConceptOrder': resource_row[resource_file_headers.index(concept_order)] == '1'
     }
     return request
 
@@ -223,11 +229,12 @@ def to_vs_request(resource_row):
         'title': {'et': resource_row[resource_file_headers.index(title)]},
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
-        'admin': resource_row[resource_file_headers.index(endorser)]
+        'admin': resource_row[resource_file_headers.index(endorser)],
+        'externalWebSource': True
     }
 
     properties = []
-    for p in resource_row[resource_file_headers.index(vs_properties)].split(','):
+    for p in resource_row[resource_file_headers.index(vs_properties)].replace(" ", "").split(','):
         if not (p is None):
             properties.append(p)
 
