@@ -1,22 +1,22 @@
 Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_alguse_kpv;Kehtivuse_lõpu_kpv;Viimane_muudatus_kpv;Muutja;Staatus;Selgitus
 1;südame löögisagedus;südame löögisagedus;südame löögisagedus;;0;1.01.2012;;;EKL,TA;1;
-11;on alla  100 x' ;on alla  100 x' ;on alla  100 x' ;;1;1.01.2012;;;EKL,TA;1;1 punkt
-12;on üle 100 x';on üle 100 x';on üle 100 x';;1;1.01.2012;;;EKL,TA;1;2 punkti
-13;löögid puuduvad;löögid puuduvad;löögid puuduvad;;1;1.01.2012;;;EKL,TA;1;0 punkti
+11;on alla  100 x' ;on alla  100 x' ;on alla  100 x' ;1;1;1.01.2012;;;EKL,TA;1;1 punkt
+12;on üle 100 x';on üle 100 x';on üle 100 x';1;1;1.01.2012;;;EKL,TA;1;2 punkti
+13;löögid puuduvad;löögid puuduvad;löögid puuduvad;1;1;1.01.2012;;;EKL,TA;1;0 punkti
 2;hingamine;hingamine;hingamine;;0;1.01.2012;;;EKL,TA;1;
-21;regulaarne ;regulaarne ;regulaarne (ühtlane);;1;1.01.2012;;;EKL,TA;1;2 punkti
-22;ebaregulaarne;ebaregulaarne;ebaregulaarne (katkendlik);;1;1.01.2012;;;EKL,TA;1;1 punkt
-23;hingamine puudub;hingamine puudub;hingamine puudub;;1;1.01.2012;;;EKL,TA;1;0 punkti
+21;regulaarne ;regulaarne ;regulaarne (ühtlane);2;1;1.01.2012;;;EKL,TA;1;2 punkti
+22;ebaregulaarne;ebaregulaarne;ebaregulaarne (katkendlik);2;1;1.01.2012;;;EKL,TA;1;1 punkt
+23;hingamine puudub;hingamine puudub;hingamine puudub;2;1;1.01.2012;;;EKL,TA;1;0 punkti
 3;lihastoonus;lihastoonus;lihastoonus;;0;1.01.2012;;;EKL,TA;1;
-31;aktiivsed liigutused;aktiivsed liigutused;aktiivsed liigutused;;1;1.01.2012;;;EKL,TA;1;2 punkti
-32;jäsemete kerge painutus;jäsemete kerge painutus;jäsemete kerge painutus;;1;1.01.2012;;;EKL,TA;1;1 punkt
-33;toonus puudub (laps on lõtv);toonus puudub (laps on lõtv);toonus puudub (laps on lõtv);;1;1.01.2012;;;EKL,TA;1;0 punkti
+31;aktiivsed liigutused;aktiivsed liigutused;aktiivsed liigutused;3;1;1.01.2012;;;EKL,TA;1;2 punkti
+32;jäsemete kerge painutus;jäsemete kerge painutus;jäsemete kerge painutus;3;1;1.01.2012;;;EKL,TA;1;1 punkt
+33;toonus puudub (laps on lõtv);toonus puudub (laps on lõtv);toonus puudub (laps on lõtv);3;1;1.01.2012;;;EKL,TA;1;0 punkti
 4;reflektoorne ärritatavus;reflektoorne ärritatavus;reflektoorne ärritatavus;;0;1.01.2012;;;EKL,TA;1;
-41;jõuline häälitsus;jõuline häälitsus;jõuline häälitsus;;1;1.01.2012;;;EKL,TA;1;2 punkti
-42;grimass või nõrk häälitsus;grimass või nõrk häälitsus;grimass või nõrk häälitsus;;1;1.01.2012;;;EKL,TA;1;1 punkt
-43;vastus puudub ;vastus puudub ;vastus puudub ;;1;1.01.2012;;;EKL,TA;1;0 punkti
+41;jõuline häälitsus;jõuline häälitsus;jõuline häälitsus;4;1;1.01.2012;;;EKL,TA;1;2 punkti
+42;grimass või nõrk häälitsus;grimass või nõrk häälitsus;grimass või nõrk häälitsus;4;1;1.01.2012;;;EKL,TA;1;1 punkt
+43;vastus puudub ;vastus puudub ;vastus puudub;4;1;1.01.2012;;;EKL,TA;1;0 punkti
 5;naha värvus;naha värvus;naha värvus;;0;1.01.2012;;;EKL,TA;1;
-51;normaalne;normaalne;normaalne;;1;1.01.2012;;;EKL,TA;1;2 punkti
-52;akrotsüanoos;akrotsüanoos;akrotsüanoos;;1;1.01.2012;;;EKL,TA;1;1 punkt
-53;tsüanootiline või kahvatu;tsüanootiline või kahvatu;tsüanootiline või kahvatu;;1;1.01.2012;;;EKL,TA;1;0 punkti
-54;ikteeriline;ikteeriline;ikteeriline;;1;1.01.2012;;;EKL,TA;1;0 punkti
+51;normaalne;normaalne;normaalne;5;1;1.01.2012;;;EKL,TA;1;2 punkti
+52;akrotsüanoos;akrotsüanoos;akrotsüanoos;5;1;1.01.2012;;;EKL,TA;1;1 punkt
+53;tsüanootiline või kahvatu;tsüanootiline või kahvatu;tsüanootiline või kahvatu;5;1;1.01.2012;;;EKL,TA;1;0 punkti
+54;ikteeriline;ikteeriline;ikteeriline;5;1;1.01.2012;;;EKL,TA;1;0 punkti

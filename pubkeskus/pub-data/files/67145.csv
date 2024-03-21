@@ -272,7 +272,7 @@ F79.0;Ei esine või esineb kerge käitumishäire;Ei esine või esineb kerge käi
 F79.1;Oluline käitumishäire;Oluline käitumishäire;Oluline käitumishäire;;;01.01.2014;;;EPS;1;
 F79.8;Muu käitumishäire;Muu käitumishäire;Muu käitumishäire;;;01.01.2014;;;EPS;1;
 F79.9;Käitumishäire märkimata;Käitumishäire märkimata;Käitumishäire märkimata;;;01.01.2014;;;EPS;1;
-F80;Kõne ja keele spetsiifilised arenguhäired;Kõne ja keele spetsiifilised arenguhäired;Kõne ja keele spetsiifilised arenguhäired;;;01.01.2014;25.05.2023;;EPS;1;
+F80;Kõne ja keele spetsiifilised arenguhäired;Kõne ja keele spetsiifilised arenguhäired;Kõne ja keele spetsiifilised arenguhäired;;;01.01.2014;25.05.2023;;EPS;0;
 G10;Huntingtoni tõbi;Huntingtoni tõbi;Huntingtoni tõbi;;;01.01.2014;;;EPS;1;
 G11;Hereditaar- e pärilik ataksia;Hereditaar- e pärilik ataksia;Hereditaar- e pärilik ataksia;;;01.01.2014;;;EPS;1;
 G11.0;Kongenitaalne mitteprogresseeruv ataksia;Kongenitaalne mitteprogresseeruv ataksia;Kongenitaalne mitteprogresseeruv ataksia;;;01.01.2014;;;EPS;1;
@@ -365,7 +365,7 @@ G41.1;Petit mal epileptiline staatus;Petit mal epileptiline staatus;Petit mal ep
 G41.2;Komplekssete osaliste hoogude epileptiline staatus;Komplekssete osaliste hoogude epileptiline staatus;Komplekssete osaliste hoogude epileptiline staatus;;;01.01.2014;;;EPS;1;
 G41.8;Muu epileptiline staatus;Muu epileptiline staatus;Muu epileptiline staatus;;;01.01.2014;;;EPS;1;
 G41.9;Täpsustamata epileptiline staatus;Täpsustamata epileptiline staatus;Täpsustamata epileptiline staatus;;;01.01.2014;;;EPS;1;
-G43;Migreen;Migreen;Migreen;;;01.01.2014;25.05.2023;;EPS;1;
+G43;Migreen;Migreen;Migreen;;;01.01.2014;25.05.2023;;EPS;0;
 G43.0;Aurata migreen [tavaline migreen];Aurata migreen [tavaline migreen];Aurata migreen [tavaline migreen];;;01.01.2014;;;EPS;1;
 G43.1;Auraga migreen [klassikaline migreen];Auraga migreen [klassikaline migreen];Auraga migreen [klassikaline migreen];;;01.01.2014;;;EPS;1;
 G43.2;Migreenistaatus;Migreenistaatus;Migreenistaatus;;;01.01.2014;;;EPS;1;
@@ -523,7 +523,7 @@ I32;Perikardiit mujal klassifitseeritud haiguste korral ;Perikardiit mujal klass
 I32.0;Perikardiit mujal klassifitseeritud bakterhaiguste korral ;Perikardiit mujal klassifitseeritud bakterhaiguste korral ;Perikardiit mujal klassifitseeritud bakterhaiguste korral ;;;01.01.2014;;;EPS;1;
 I32.1;Perikardiit mujal klassifitseeritud muude nakkus- ja parasiithaiguste korral ;Perikardiit mujal klassifitseeritud muude nakkus- ja parasiithaiguste korral ;Perikardiit mujal klassifitseeritud muude nakkus- ja parasiithaiguste korral ;;;01.01.2014;;;EPS;1;
 I32.8;Perikardiit mujal klassifitseeritud muude haiguste korral ;Perikardiit mujal klassifitseeritud muude haiguste korral ;Perikardiit mujal klassifitseeritud muude haiguste korral ;;;01.01.2014;;;EPS;1;
-I33;Äge ja alaäge endokardiit ;Äge ja alaäge endokardiit ;Äge ja alaäge endokardiit ;;;01.01.2014;25.05.2023;;EPS;1;
+I33;Äge ja alaäge endokardiit ;Äge ja alaäge endokardiit ;Äge ja alaäge endokardiit ;;;01.01.2014;25.05.2023;;EPS;0;
 I33.0;Äge ja alaäge nakkuslik endokardiit ;Äge ja alaäge nakkuslik endokardiit ;Äge ja alaäge nakkuslik endokardiit ;;;01.01.2014;;;EPS;1;
 I33.9;Täpsusatamata äge endokardiit ;Täpsusatamata äge endokardiit ;Täpsusatamata äge endokardiit ;;;01.01.2014;;;EPS;1;
 I34;Mitraalklapi mittereumaatilised haigusseisundid ;Mitraalklapi mittereumaatilised haigusseisundid ;Mitraalklapi mittereumaatilised haigusseisundid ;;;01.01.2014;;;EPS;1;

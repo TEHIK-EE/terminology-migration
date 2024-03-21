@@ -1,5 +1,4 @@
 ebMEDsi loendis olev kood;RHK-10 eestikeelne nimetus
-;
 A15;Bakterioloogiliselt ja histoloogiliselt kinnitatud hingamiselundite tuberkuloos
 A16;Bakterioloogiliselt või histoloogiliselt kinnitamata hingamiselundite tuberkuloos
 A17;Närvisüsteemi tuberkuloos
@@ -1125,7 +1124,6 @@ M89.3;Luu hüpertroofia
 M89.4;Muud hüpertroofilised osteoartropaatiad
 M89.5;Osteolüüs
 M89.6;Poliomüeliidijärgne osteopaatia
-M89.80;Muud täpsustatud luu haigusseisundid. Hulgipaikmed
 M90.0;Luutuberkuloos
 M90.3;Luukärbus e osteonekroos kessoontõve korral
 M90.4;Hemoglobinopaatia põhjustatud luukärbus

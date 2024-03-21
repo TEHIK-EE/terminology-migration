@@ -17,7 +17,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 016;;10^7 PMÜ/mL;10^7 pesa moodustavat ühikut milliliitris;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; URICULT, uriin"
 017;;10^6 PMÜ/L;10^6 pesa moodustavat ühikut liitris;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; rinnapiim"
 018;;10^7 PMÜ/L;10^7 pesa moodustavat ühikut liitris;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; rinnapiim"
-019;;? 10^8 PMÜ/L;? 10^8 pesa moodustavat ühikut liitris;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; rinnapiim"
+019;;≥ 10^8 PMÜ/L;≥ 10^8 pesa moodustavat ühikut liitris;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; rinnapiim"
 020;;10^4 PMÜ/g;10^4 pesa moodustavat ühikut grammis;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; roe (seente, tinglikult patogeense floora, S. aureuse kvantitatiivse uuringu hindamiseks)"
 021;;> 10^4 PMÜ/g;> 10^4 pesa moodustavat ühikut grammis;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; roe"
 022;;10^5 PMÜ/g;10^5 pesa moodustavat ühikut grammis;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; roe"
@@ -26,7 +26,7 @@ Kood;Lühinimetus;Nimetus;Pikk_nimetus;Vanem_kood;Hierarhia_aste;Kehtivuse_algus
 025;;10^10 PMÜ/g;10^10 pesa moodustavat ühikut grammis;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; roe"
 026;;> 10^10 PMÜ/g;> 10^10 pesa moodustavat ühikut grammis;;0;01.09.2019;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; roe"
 027;;< 15 PMÜ;< 15 pesa moodustavat ühikut;;0;01.09.2019;;;Eesti Laborimeditsiini Ühing;1;kanüülikülv (spetsiaalne külvitehnika)
-028;;? 15 PMÜ;? 15 pesa moodustavat ühikut;;0;01.09.2019;;;Eesti Laborimeditsiini Ühing;1;kanüülikülv (spetsiaalne külvitehnika)
+028;;≥ 15 PMÜ;≥ 15 pesa moodustavat ühikut;;0;01.09.2019;;;Eesti Laborimeditsiini Ühing;1;kanüülikülv (spetsiaalne külvitehnika)
 029;;10 PMÜ/mL;10 pesa moodustavat ühikut milliliitris;;0;10.02.2020;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; uriin aeroobsele mikrofloorale"
 030;;10^2 PMÜ/mL;10^2 pesa moodustavat ühikut milliliitris;;0;10.02.2020;22.12.2020;;Eesti Laborimeditsiini Ühing;0;"Versioonis 3 tunnistatud kehtetuks; uriin aeroobsele mikrofloorale"
 031;;10–10^2 PMÜ/mL;10–10^2 pesa moodustavat ühikut milliliitris;;0;10.02.2020;;;Eesti Laborimeditsiini Ühing;1;Põiepunktsioon: 10–10^2 PMÜ/mL
