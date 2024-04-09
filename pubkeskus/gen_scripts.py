@@ -50,6 +50,20 @@ resource_map = {
     "ActClass": "http://terminology.hl7.org/CodeSystem/v3-ActClass"
 }
 
+resource_version_map = {
+    "SNOMED-EE": "estonian-edition-20231130",
+    "RHK10-EE": "9.0.0",
+    "ATC-EE": "1.0.0",
+    "NCSP-EE": "10.0.0",
+    "RadioloogilineUuring": "5.0.0",
+    "QueryResponse": "3.0.0",
+    "Confidentiality": "3.0.0",
+    "ActCode": "9.0.0",
+    "RoleCode": "3.0.0",
+    "QueryStatusCode": "3.0.0",
+    "ActClass": "4.0.0"
+}
+
 # resource file processing result
 resource_file_headers = []
 resource_file_rows_to_import = []
@@ -151,7 +165,7 @@ def to_cs_request(resource_row):
         'title': {'et': resource_row[resource_file_headers.index(title)]},
         'description': {'et': resource_row[resource_file_headers.index(definition)]},
         'contact': to_contact(resource_row),
-        'supplement': resource_map.get(resource_row[resource_file_headers.index(supplement)], None),
+        'supplementUri': resource_map.get(resource_row[resource_file_headers.index(supplement)], None),
         'admin': resource_row[resource_file_headers.index(endorser)],
         'externalWebSource': True
     }
@@ -161,7 +175,8 @@ def to_cs_request(resource_row):
         'status': config['import'].get('status', None),
         'language': config['import'].get('language', None),
         'algorithm': resource_row[resource_file_headers.index(versioning_algorithm)],
-        'oid': resource_row[resource_file_headers.index(void)]
+        'oid': resource_row[resource_file_headers.index(void)],
+        'supplementVersion': resource_version_map.get(resource_row[resource_file_headers.index(supplement)], None)
     }
 
     properties = []
@@ -245,7 +260,8 @@ def to_vs_request(resource_row):
         'inactive': False,
         'rule': {
             'properties': properties,
-            'codeSystemUri': resource_map.get(resource_row[resource_file_headers.index(vs_based_on)], None)
+            'codeSystemUri': resource_map.get(resource_row[resource_file_headers.index(vs_based_on)], None),
+            'codeSystemVersion': resource_version_map.get(resource_row[resource_file_headers.index(vs_based_on)], None)
         },
         'oid': resource_row[resource_file_headers.index(void)]
     }
