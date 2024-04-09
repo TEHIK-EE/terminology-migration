@@ -5,6 +5,7 @@ keycloak:
   sso-url:
   client-id:
   client-secret:
+  token:
 import:
   class: 'pub.etervis.classification-import'
   space: 'ee-base'

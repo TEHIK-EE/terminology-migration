@@ -6,6 +6,8 @@ config = yaml.safe_load(open("config.yml"))
 
 
 def token():
+    if "token" in config["keycloak"] and config["keycloak"]["token"] is not None:
+        return config["keycloak"]["token"]
     return requests.post(
         url=config["keycloak"]["sso-url"] + '/token',
         headers={'Content-Type': 'application/x-www-form-urlencoded'},
