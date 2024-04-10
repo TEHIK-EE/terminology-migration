@@ -135,7 +135,7 @@ def is_value_set_import(resource_row):
 
 def generate_cs_import_script(resource_row, t):
     request = to_cs_request(resource_row)
-    with open('import-scripts/cs_import_script.sh', 'a') as sh:
+    with open('import-scripts/cs_import_script.sh', 'a', encoding='utf-8') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/code-system/process\' \\\n \
                     -H \'Authorization: Bearer' + t + '\' \\\n \
@@ -146,7 +146,7 @@ def generate_cs_import_script(resource_row, t):
 
 def generate_vs_import_script(resource_row, t):
     request = to_vs_request(resource_row)
-    with open('import-scripts/vs_import_script.sh', 'a') as sh:
+    with open('import-scripts/vs_import_script.sh', 'a', encoding='utf-8') as sh:
         sh.write('curl -X \'POST\' \\\n \
                     \'' + config["termx"]["url"] + 'file-importer/value-set/process\' \\\n \
                     -H \'Authorization: Bearer' + t + '\' \\\n \
