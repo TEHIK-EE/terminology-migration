@@ -141,7 +141,7 @@ def generate_cs_import_script(resource_row, t):
                     -H \'Authorization: Bearer' + t + '\' \\\n \
                     -H \'accept: application/json\' \\\n \
                     -H \'Content-Type: multipart/form-data\' \\\n \
-                    -F \'request=' + urllib.parse.quote(json.dumps(request)) + '\'\n\n')
+                    -F \'request=' + urllib.parse.quote(json.dumps(request, ensure_ascii=False), encoding='utf-8') + '\'\n\n')
 
 
 def generate_vs_import_script(resource_row, t):
@@ -152,7 +152,7 @@ def generate_vs_import_script(resource_row, t):
                     -H \'Authorization: Bearer' + t + '\' \\\n \
                     -H \'accept: application/json\' \\\n \
                     -H \'Content-Type: multipart/form-data\' \\\n \
-                    -F \'request=' + urllib.parse.quote(json.dumps(request)) + '\'\n\n')
+                    -F \'request=' + urllib.parse.quote(json.dumps(request, ensure_ascii=False), encoding='utf-8') + '\'\n\n')
 
 
 def to_cs_request(resource_row):
