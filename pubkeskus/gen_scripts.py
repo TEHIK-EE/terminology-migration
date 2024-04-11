@@ -102,7 +102,7 @@ def generate_scripts(resource_file):
 
 
 def process_resource_file(resource_file):
-    with open(resource_file, 'r') as file:
+    with open(resource_file, 'r', encoding='utf-8') as file:
         csvreader = csv.reader(file, delimiter=',')
         resource_file_headers.extend(next(csvreader))
         for row in csvreader:
